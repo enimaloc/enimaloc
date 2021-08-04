@@ -1,8 +1,8 @@
 settings:
   commit_msg: "update(activity): Update README"
+  url_text: "`{REPO}{ID}`"
   date:
     timezone: "Europe/Paris"
-  data:
     format: "dd/mm HH:MM"
 messages:
   comment: "`{DATE}` Commented on `{ID}` in {REPO}"
