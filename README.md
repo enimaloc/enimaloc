@@ -3,19 +3,19 @@
 **Github timeline**
 
 <!--RECENT_ACTIVITY:last_update-->
-> Last Updated: 04/08 21:37 (Europe/Paris)
+> Last Updated: 04/08 22:22 (Europe/Paris)
 <!--RECENT_ACTIVITY:last_update_end-->
 <!--RECENT_ACTIVITY:start-->
-1. ![repoCreated] Created repository [enimaloc/enimaloc](https://github.com/enimaloc/enimaloc)
-2. ![prOpened] Opened PR [`#4`](https://github.com/readthedocs-fr/read-the-jam-bot/pull/4) in [readthedocs-fr/read-the-jam-bot](https://github.com/readthedocs-fr/read-the-jam-bot)
-3. ![prClosed] Closed PR [`#2`](https://github.com/readthedocs-fr/read-the-jam-bot/pull/2) in [readthedocs-fr/read-the-jam-bot](https://github.com/readthedocs-fr/read-the-jam-bot)
-4. ![prOpened] Opened PR [`#2`](https://github.com/readthedocs-fr/read-the-jam-bot/pull/2) in [readthedocs-fr/read-the-jam-bot](https://github.com/readthedocs-fr/read-the-jam-bot)
-5. ![fork] Forked [`enimaloc/read-the-jam-bot`](https://github.com/enimaloc/read-the-jam-bot) from [readthedocs-fr/read-the-jam-bot](https://github.com/readthedocs-fr/read-the-jam-bot)
-6. ![fork] Forked [`enimaloc/JetBrains-Discord-Integration`](https://github.com/enimaloc/JetBrains-Discord-Integration) from [Almighty-Alpaca/JetBrains-Discord-Integration](https://github.com/Almighty-Alpaca/JetBrains-Discord-Integration)
-7. ![issueClosed] Closed issue [`#1`](https://github.com/enimaloc/jircd/issues/1) in [enimaloc/jircd](https://github.com/enimaloc/jircd)
-8. ![issueOpened] Opened issue [`#1`](https://github.com/enimaloc/jircd/issues/1) in [enimaloc/jircd](https://github.com/enimaloc/jircd)
-9. ![repoCreated] Created repository [enimaloc/jircd](https://github.com/enimaloc/jircd)
-10. ![prOpened] Opened PR [`#1`](https://github.com/KevinouLaBanane/Projet_prison_java/pull/1) in [KevinouLaBanane/Projet_prison_java](https://github.com/KevinouLaBanane/Projet_prison_java)
+1. ![new_release] Released [`First pre-release`](https://github.com/enimaloc/svg-sizer/releases/tag/0.0.1) on [enimaloc/svg-sizer](https://github.com/enimaloc/svg-sizer)
+2. ![repoCreated] Created repository [enimaloc/svg-sizer](https://github.com/enimaloc/svg-sizer)
+3. ![repoCreated] Created repository [enimaloc/enimaloc](https://github.com/enimaloc/enimaloc)
+4. ![prOpened] Opened PR [`#4`](https://github.com/readthedocs-fr/read-the-jam-bot/pull/4) in [readthedocs-fr/read-the-jam-bot](https://github.com/readthedocs-fr/read-the-jam-bot)
+5. ![prClosed] Closed PR [`#2`](https://github.com/readthedocs-fr/read-the-jam-bot/pull/2) in [readthedocs-fr/read-the-jam-bot](https://github.com/readthedocs-fr/read-the-jam-bot)
+6. ![prOpened] Opened PR [`#2`](https://github.com/readthedocs-fr/read-the-jam-bot/pull/2) in [readthedocs-fr/read-the-jam-bot](https://github.com/readthedocs-fr/read-the-jam-bot)
+7. ![fork] Forked [`enimaloc/read-the-jam-bot`](https://github.com/enimaloc/read-the-jam-bot) from [readthedocs-fr/read-the-jam-bot](https://github.com/readthedocs-fr/read-the-jam-bot)
+8. ![fork] Forked [`enimaloc/JetBrains-Discord-Integration`](https://github.com/enimaloc/JetBrains-Discord-Integration) from [Almighty-Alpaca/JetBrains-Discord-Integration](https://github.com/Almighty-Alpaca/JetBrains-Discord-Integration)
+9. ![issueClosed] Closed issue [`#1`](https://github.com/enimaloc/jircd/issues/1) in [enimaloc/jircd](https://github.com/enimaloc/jircd)
+10. ![issueOpened] Opened issue [`#1`](https://github.com/enimaloc/jircd/issues/1) in [enimaloc/jircd](https://github.com/enimaloc/jircd)
 <!--RECENT_ACTIVITY:end-->
 
 <!--START_SECTION:waka-->
