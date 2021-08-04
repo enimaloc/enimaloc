@@ -1,17 +1,12 @@
-# Welcome to my profile
+# ![wave](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@1.1.0/icons/gifs/wave.gif) Welcome to my profile
 
 ## Github activity
+<!--RECENT_ACTIVITY:last_update-->
 <!--RECENT_ACTIVITY:start-->
-1. `{DATE}` ![repoCreated] Created repository [enimaloc/enimaloc](https://github.com/enimaloc/enimaloc)
-2. `{DATE}` ![prOpened] Opened PR [`#4`](https://github.com/readthedocs-fr/read-the-jam-bot/pull/4) in [readthedocs-fr/read-the-jam-bot](https://github.com/readthedocs-fr/read-the-jam-bot)
-3. `{DATE}` ![prClosed] Closed PR [`#2`](https://github.com/readthedocs-fr/read-the-jam-bot/pull/2) in [readthedocs-fr/read-the-jam-bot](https://github.com/readthedocs-fr/read-the-jam-bot)
-4. `{DATE}` ![prOpened] Opened PR [`#2`](https://github.com/readthedocs-fr/read-the-jam-bot/pull/2) in [readthedocs-fr/read-the-jam-bot](https://github.com/readthedocs-fr/read-the-jam-bot)
-5. `{DATE}` ![fork] Forked [`enimaloc/read-the-jam-bot`](https://github.com/enimaloc/read-the-jam-bot) from [readthedocs-fr/read-the-jam-bot](https://github.com/readthedocs-fr/read-the-jam-bot)
-<!--RECENT_ACTIVITY:end-->
 
 <!-- Badges -->
-[issueOpened]: https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/IssueOpenedOld.svg
-[issueClosed]: https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/IssueClosedOld.svg
+[issueOpened]: https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/IssueOpened.svg
+[issueClosed]: https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/IssueClosed.svg
 
 [prOpened]: https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestOpened.svg
 [prClosed]: https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestClosed.svg
