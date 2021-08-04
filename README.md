@@ -17,6 +17,10 @@ Last Updated: 04/08 11:41
 10. ![prOpened] Opened PR [`#1`](https://github.com/KevinouLaBanane/Projet_prison_java/pull/1) in [KevinouLaBanane/Projet_prison_java](https://github.com/KevinouLaBanane/Projet_prison_java)
 <!--RECENT_ACTIVITY:end-->
 
+## Wakatime Stats
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 <!-- Badges -->
 [issueOpened]: https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/IssueOpened.svg
 [issueClosed]: https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/IssueClosed.svg
