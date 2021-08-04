@@ -1,6 +1,6 @@
 settings:
   commit_msg: "update(activity): Update README"
-  url_text: "`{REPO}{ID}`"
+  url_text: "`{ID}`"
   date:
     timezone: "Europe/Paris"
     format: "dd/mm HH:MM"
