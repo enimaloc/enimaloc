@@ -17,7 +17,6 @@ Last Updated: 04/08 12:40
 10. ![prOpened] Opened PR [`#1`](https://github.com/KevinouLaBanane/Projet_prison_java/pull/1) in [KevinouLaBanane/Projet_prison_java](https://github.com/KevinouLaBanane/Projet_prison_java)
 <!--RECENT_ACTIVITY:end-->
 
-## Wakatime Stats
 <!--START_SECTION:waka-->
 **🐱 My Github Data** 
 
