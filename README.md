@@ -1,6 +1,7 @@
 # ![wave](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@1.1.0/icons/gifs/wave.gif) Welcome to my profile
 
-## Github activity
+**Github timeline**
+
 <!--RECENT_ACTIVITY:last_update-->
 Last Updated: 04/08 12:40
 <!--RECENT_ACTIVITY:last_update_end-->

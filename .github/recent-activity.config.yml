@@ -5,6 +5,7 @@ settings:
   date:
     timezone: "Europe/Paris"
     format: "dd/mm HH:MM"
+    text: "> Last Updated: {DATE} (Europe/Paris)"
 messages:
   comment: "![comment] Commented on {URL} in {REPO}"
   issue_opened: "![issueOpened] Opened issue {URL} in {REPO}"
