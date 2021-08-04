@@ -19,8 +19,6 @@ Last Updated: 04/08 12:40
 
 ## Wakatime Stats
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-109-blue)
-
 **🐱 My Github Data** 
 
 > 🏆 41 Contributions in the Year 2021
@@ -33,18 +31,6 @@ Last Updated: 04/08 12:40
  > 
 > 🔑 8 Private Repositories  
  > 
-📊 **This Week I Spent My Time On** 
-
-```text
-🐱‍💻 Projects: 
-jircd                    35 hrs 16 mins      █████████████████████░░░░   87.12% 
-GreetingKata             1 hr 52 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   4.65% 
-Read-the-jam-Bot         1 hr 51 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   4.61% 
-Unknown Project          1 hr 1 min          ░░░░░░░░░░░░░░░░░░░░░░░░░   2.52% 
-JetBrains-Discord-Integra24 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   1.0%
-
-```
-
 **Timeline**
 
 ![Chart not found](https://raw.githubusercontent.com/enimaloc/enimaloc/master/charts/bar_graph.png) 
