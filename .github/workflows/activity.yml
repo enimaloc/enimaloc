@@ -4,9 +4,6 @@ on:
   schedule:
     - cron: '*/30 * * * *' # Update every 30 minutes
   workflow_dispatch:
-  push:
-    paths-ignore:
-      - README.md
 
 jobs:
   build:
