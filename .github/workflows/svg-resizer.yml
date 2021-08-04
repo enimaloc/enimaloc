@@ -1,0 +1,17 @@
+name: Resize SVG
+
+on:
+  schedule:
+    - cron: '0 0 * * *'
+  workflow_dispatch:
+
+jobs:
+  resize-svg:
+    name: Update SVG
+    runs-on: ubuntu-latest
+    steps:
+      - uses: enimaloc/svg-sizer@master
+        with:
+          output-folder: "./res"
+          input-file: "svg-input.txt"
+          dimension: "16x16"
