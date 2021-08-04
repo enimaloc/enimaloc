@@ -1,0 +1,23 @@
+settings:
+  commit_msg: "feat(activity): Update README"
+  url_text: "`{ID}`"
+  max_lines: 10
+  date:
+    timezone: "Europe/Paris"
+    format: "dd/mm HH:MM"
+    text: "> Last Updated: {DATE} (Europe/Paris)"
+messages:
+  comment: "![comment] Commented on {URL} in {REPO}"
+  issue_opened: "![issueOpened] Opened issue {URL} in {REPO}"
+  issue_closed: "![issueClosed] Closed issue {URL} in {REPO}"
+  pr_opened: "![prOpened] Opened PR {URL} in {REPO}"
+  pr_closed: "![prClosed] Closed PR {URL} in {REPO}"
+  pr_merged: "![prMerged] Merged PR {URL} in {REPO}"
+  create_repo: "![repoCreated] Created repository {REPO}"
+  fork_repo: "![fork] Forked {URL} from {REPO}"
+  wiki_create: "![wiki] Create new wiki page `{WIKI}` in {REPO}"
+  added_member: "![people] Become contributor on {REPO}"
+  changes_approved: "![approved] Approved {URL} in {REPO}"
+  changes_requested: "![changesRequested] Request changes on {URL} in {REPO}"
+  new_release: "![newRelease] Released {URL} on {REPO}"
+  new_star: "![star] Starred {REPO}"
