@@ -21,13 +21,13 @@
 <!--START_SECTION:waka-->
 **🐱 My Github Data** 
 
-> 🏆 44 Contributions in the Year 2021
+> 🏆 65 Contributions in the Year 2021
  > 
-> 📦 2.2 kB Used in Github's Storage 
+> 📦 11.3 kB Used in Github's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 24 Public Repositories 
+> 📜 25 Public Repositories 
  > 
 > 🔑 8 Private Repositories  
  > 
@@ -36,7 +36,7 @@
 ![Chart not found](https://raw.githubusercontent.com/enimaloc/enimaloc/master/charts/bar_graph.png) 
 
 
- Last Updated on 04/08/2021
+ Last Updated on 05/08/2021
 <!--END_SECTION:waka-->
 
 <!-- Badges -->
