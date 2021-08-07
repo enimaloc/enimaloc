@@ -1,12 +1,10 @@
-## Hey ![wave], I'm Antoine "enimaloc"
-<hr>
+# Hey ![wave], I'm Antoine "enimaloc"
 
 I'm currently a student in **Computer Science** at **Le Mans University**. I'm working on some project in multiples
 languages.
 
 [![discord]](https://discord.com/users/136200628509605888)
 ## My tools
-<hr>
 
 ### Languages
 ![java] ![markdown] ![python] ![php] ![javascript] ![html5] ![css3]
@@ -90,7 +88,7 @@ languages.
 [approved]: https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/ApprovedChanges.svg
 
 [repoCreated]: https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/Repository.svg
-[new_release]: https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/Release.svg
+[newRelease]: https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/Release.svg
 [star]: https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepository.svg
 [wiki]: https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/Wiki.svg
 [fork]: https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/ForkedRepository.svg

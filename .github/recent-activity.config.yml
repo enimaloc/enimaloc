@@ -19,5 +19,5 @@ messages:
   added_member: "![people] Become contributor on {REPO}"
   changes_approved: "![approved] Approved {URL} in {REPO}"
   changes_requested: "![changesRequested] Request changes on {URL} in {REPO}"
-  new_release: "![new_release] Released {URL} on {REPO}"
-  new_star: "![star] Starred {URL} in {REPO}"
+  new_release: "![newRelease] Released {URL} on {REPO}"
+  new_star: "![star] Starred {REPO}"
