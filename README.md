@@ -22,11 +22,11 @@ languages.
 <summary>My activity on Github</summary>
 
 <!--RECENT_ACTIVITY:last_update-->
-> Last Updated: 07/08 21:36 (Europe/Paris)
+> Last Updated: 07/08 22:00 (Europe/Paris)
 <!--RECENT_ACTIVITY:last_update_end-->
 <!--RECENT_ACTIVITY:start-->
-1. ![star] Starred [`{ID}`](https://github.com/kefranabg/readme-md-generator) in [kefranabg/readme-md-generator](https://github.com/kefranabg/readme-md-generator)
-2. ![new_release] Released [`First pre-release`](https://github.com/enimaloc/svg-sizer/releases/tag/0.0.1) on [enimaloc/svg-sizer](https://github.com/enimaloc/svg-sizer)
+1. ![star] Starred [kefranabg/readme-md-generator](https://github.com/kefranabg/readme-md-generator)
+2. ![newRelease] Released [`First pre-release`](https://github.com/enimaloc/svg-sizer/releases/tag/0.0.1) on [enimaloc/svg-sizer](https://github.com/enimaloc/svg-sizer)
 3. ![repoCreated] Created repository [enimaloc/svg-sizer](https://github.com/enimaloc/svg-sizer)
 4. ![repoCreated] Created repository [enimaloc/enimaloc](https://github.com/enimaloc/enimaloc)
 5. ![prOpened] Opened PR [`#4`](https://github.com/readthedocs-fr/read-the-jam-bot/pull/4) in [readthedocs-fr/read-the-jam-bot](https://github.com/readthedocs-fr/read-the-jam-bot)
