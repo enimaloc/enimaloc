@@ -51,7 +51,7 @@ languages.
 <!--START_SECTION:waka-->
 **🐱 My Github Data** 
 
-> 🏆 71 Contributions in the Year 2021
+> 🏆 73 Contributions in the Year 2021
  > 
 > 📦 12.5 kB Used in Github's Storage 
  > 
@@ -61,10 +61,6 @@ languages.
  > 
 > 🔑 8 Private Repositories  
  > 
-**Timeline**
-
-![Chart not found](https://raw.githubusercontent.com/enimaloc/enimaloc/master/charts/bar_graph.png) 
-
 
  Last Updated on 08/08/2021
 <!--END_SECTION:waka-->
