@@ -53,7 +53,7 @@ languages.
 
 > 🏆 74 Contributions in the Year 2021
  > 
-> 📦 12.5 kB Used in Github's Storage 
+> 📦 12.6 kB Used in Github's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -62,7 +62,7 @@ languages.
 > 🔑 8 Private Repositories  
  > 
 
- Last Updated on 12/08/2021
+ Last Updated on 13/08/2021
 <!--END_SECTION:waka-->
 
 </details>
