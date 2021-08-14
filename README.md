@@ -22,19 +22,19 @@ languages.
 <summary>My activity on Github</summary>
 
 <!--RECENT_ACTIVITY:last_update-->
-> Last Updated: 14/08 14:57 (Europe/Paris)
+> Last Updated: 14/08 15:23 (Europe/Paris)
 <!--RECENT_ACTIVITY:last_update_end-->
 <!--RECENT_ACTIVITY:start-->
-1. ![fork] Forked [`enimaloc/PrimitiveMobs`](https://github.com/enimaloc/PrimitiveMobs) from [Daveyx0/PrimitiveMobs](https://github.com/Daveyx0/PrimitiveMobs)
-2. ![star] Starred [kefranabg/readme-md-generator](https://github.com/kefranabg/readme-md-generator)
-3. ![newRelease] Released [`First pre-release`](https://github.com/enimaloc/svg-sizer/releases/tag/0.0.1) on [enimaloc/svg-sizer](https://github.com/enimaloc/svg-sizer)
-4. ![repoCreated] Created repository [enimaloc/svg-sizer](https://github.com/enimaloc/svg-sizer)
-5. ![repoCreated] Created repository [enimaloc/enimaloc](https://github.com/enimaloc/enimaloc)
-6. ![prOpened] Opened PR [`#4`](https://github.com/readthedocs-fr/read-the-jam-bot/pull/4) in [readthedocs-fr/read-the-jam-bot](https://github.com/readthedocs-fr/read-the-jam-bot)
-7. ![prClosed] Closed PR [`#2`](https://github.com/readthedocs-fr/read-the-jam-bot/pull/2) in [readthedocs-fr/read-the-jam-bot](https://github.com/readthedocs-fr/read-the-jam-bot)
-8. ![prOpened] Opened PR [`#2`](https://github.com/readthedocs-fr/read-the-jam-bot/pull/2) in [readthedocs-fr/read-the-jam-bot](https://github.com/readthedocs-fr/read-the-jam-bot)
-9. ![fork] Forked [`enimaloc/read-the-jam-bot`](https://github.com/enimaloc/read-the-jam-bot) from [readthedocs-fr/read-the-jam-bot](https://github.com/readthedocs-fr/read-the-jam-bot)
-10. ![fork] Forked [`enimaloc/JetBrains-Discord-Integration`](https://github.com/enimaloc/JetBrains-Discord-Integration) from [Almighty-Alpaca/JetBrains-Discord-Integration](https://github.com/Almighty-Alpaca/JetBrains-Discord-Integration)
+1. ![star] Starred [TNtube/Utopia](https://github.com/TNtube/Utopia)
+2. ![fork] Forked [`enimaloc/PrimitiveMobs`](https://github.com/enimaloc/PrimitiveMobs) from [Daveyx0/PrimitiveMobs](https://github.com/Daveyx0/PrimitiveMobs)
+3. ![star] Starred [kefranabg/readme-md-generator](https://github.com/kefranabg/readme-md-generator)
+4. ![newRelease] Released [`First pre-release`](https://github.com/enimaloc/svg-sizer/releases/tag/0.0.1) on [enimaloc/svg-sizer](https://github.com/enimaloc/svg-sizer)
+5. ![repoCreated] Created repository [enimaloc/svg-sizer](https://github.com/enimaloc/svg-sizer)
+6. ![repoCreated] Created repository [enimaloc/enimaloc](https://github.com/enimaloc/enimaloc)
+7. ![prOpened] Opened PR [`#4`](https://github.com/readthedocs-fr/read-the-jam-bot/pull/4) in [readthedocs-fr/read-the-jam-bot](https://github.com/readthedocs-fr/read-the-jam-bot)
+8. ![prClosed] Closed PR [`#2`](https://github.com/readthedocs-fr/read-the-jam-bot/pull/2) in [readthedocs-fr/read-the-jam-bot](https://github.com/readthedocs-fr/read-the-jam-bot)
+9. ![prOpened] Opened PR [`#2`](https://github.com/readthedocs-fr/read-the-jam-bot/pull/2) in [readthedocs-fr/read-the-jam-bot](https://github.com/readthedocs-fr/read-the-jam-bot)
+10. ![fork] Forked [`enimaloc/read-the-jam-bot`](https://github.com/enimaloc/read-the-jam-bot) from [readthedocs-fr/read-the-jam-bot](https://github.com/readthedocs-fr/read-the-jam-bot)
 <!--RECENT_ACTIVITY:end-->
 
 </details>
