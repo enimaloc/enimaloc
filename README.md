@@ -51,7 +51,7 @@ languages.
 <!--START_SECTION:waka-->
 **🐱 My Github Data** 
 
-> 🏆 96 Contributions in the Year 2021
+> 🏆 97 Contributions in the Year 2021
  > 
 > 📦 12.9 kB Used in Github's Storage 
  > 
