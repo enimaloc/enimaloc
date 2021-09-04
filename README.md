@@ -22,14 +22,14 @@ languages.
 <summary>My activity on Github</summary>
 
 <!--RECENT_ACTIVITY:last_update-->
-> Last Updated: 03/09 23:13 (Europe/Paris)
+> Last Updated: 04/09 02:50 (Europe/Paris)
 <!--RECENT_ACTIVITY:last_update_end-->
 <!--RECENT_ACTIVITY:start-->
-1. ![star] Starred [Astremy/Piscord](https://github.com/Astremy/Piscord)
-2. ![star] Starred [TNtube/Utopia](https://github.com/TNtube/Utopia)
-3. ![fork] Forked [`enimaloc/PrimitiveMobs`](https://github.com/enimaloc/PrimitiveMobs) from [Daveyx0/PrimitiveMobs](https://github.com/Daveyx0/PrimitiveMobs)
-4. ![star] Starred [kefranabg/readme-md-generator](https://github.com/kefranabg/readme-md-generator)
-5. ![newRelease] Released [`First pre-release`](https://github.com/enimaloc/svg-sizer/releases/tag/0.0.1) on [enimaloc/svg-sizer](https://github.com/enimaloc/svg-sizer)
+1. ![prOpened] Opened PR [`#2`](https://github.com/enimaloc/jircd/pull/2) in [enimaloc/jircd](https://github.com/enimaloc/jircd)
+2. ![star] Starred [Astremy/Piscord](https://github.com/Astremy/Piscord)
+3. ![star] Starred [TNtube/Utopia](https://github.com/TNtube/Utopia)
+4. ![fork] Forked [`enimaloc/PrimitiveMobs`](https://github.com/enimaloc/PrimitiveMobs) from [Daveyx0/PrimitiveMobs](https://github.com/Daveyx0/PrimitiveMobs)
+5. ![star] Starred [kefranabg/readme-md-generator](https://github.com/kefranabg/readme-md-generator)
 6. ![repoCreated] Created repository [enimaloc/svg-sizer](https://github.com/enimaloc/svg-sizer)
 7. ![prOpened] Opened PR [`#4`](https://github.com/readthedocs-fr/read-the-jam-bot/pull/4) in [readthedocs-fr/read-the-jam-bot](https://github.com/readthedocs-fr/read-the-jam-bot)
 8. ![prClosed] Closed PR [`#2`](https://github.com/readthedocs-fr/read-the-jam-bot/pull/2) in [readthedocs-fr/read-the-jam-bot](https://github.com/readthedocs-fr/read-the-jam-bot)
