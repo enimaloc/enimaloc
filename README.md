@@ -53,7 +53,7 @@ languages.
 
 > 🏆 130 Contributions in the Year 2021
  > 
-> 📦 14.5 kB Used in GitHub's Storage 
+> 📦 14.6 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
