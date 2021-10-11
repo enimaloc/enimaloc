@@ -22,13 +22,13 @@ languages.
 <summary>My activity on Github</summary>
 
 <!--RECENT_ACTIVITY:last_update-->
-> Last Updated: 10/10 23:12 (Europe/Paris)
+> Last Updated: 11/10 02:55 (Europe/Paris)
 <!--RECENT_ACTIVITY:last_update_end-->
 <!--RECENT_ACTIVITY:start-->
-1. ![prOpened] Opened PR [`#2`](https://github.com/enimaloc/jircd/pull/2) in [enimaloc/jircd](https://github.com/enimaloc/jircd)
-2. ![star] Starred [Astremy/Piscord](https://github.com/Astremy/Piscord)
-3. ![star] Starred [TNtube/Utopia](https://github.com/TNtube/Utopia)
-4. ![fork] Forked [`enimaloc/PrimitiveMobs`](https://github.com/enimaloc/PrimitiveMobs) from [Daveyx0/PrimitiveMobs](https://github.com/Daveyx0/PrimitiveMobs)
+1. ![prOpened] Opened PR [`#2`](https://github.com/enimaloc/Yui-MHCP001/pull/2) in [enimaloc/Yui-MHCP001](https://github.com/enimaloc/Yui-MHCP001)
+2. ![prMerged] Merged PR [`#1`](https://github.com/enimaloc/Yui-MHCP001/pull/1) in [enimaloc/Yui-MHCP001](https://github.com/enimaloc/Yui-MHCP001)
+3. ![prOpened] Opened PR [`#1`](https://github.com/enimaloc/Yui-MHCP001/pull/1) in [enimaloc/Yui-MHCP001](https://github.com/enimaloc/Yui-MHCP001)
+4. ![prOpened] Opened PR [`#2`](https://github.com/enimaloc/jircd/pull/2) in [enimaloc/jircd](https://github.com/enimaloc/jircd)
 5. ![star] Starred [kefranabg/readme-md-generator](https://github.com/kefranabg/readme-md-generator)
 6. ![repoCreated] Created repository [enimaloc/svg-sizer](https://github.com/enimaloc/svg-sizer)
 7. ![prOpened] Opened PR [`#4`](https://github.com/readthedocs-fr/read-the-jam-bot/pull/4) in [readthedocs-fr/read-the-jam-bot](https://github.com/readthedocs-fr/read-the-jam-bot)
