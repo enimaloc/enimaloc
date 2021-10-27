@@ -22,19 +22,19 @@ languages.
 <summary>My activity on Github</summary>
 
 <!--RECENT_ACTIVITY:last_update-->
-> Last Updated: 27/10 20:18 (Europe/Paris)
+> Last Updated: 27/10 23:13 (Europe/Paris)
 <!--RECENT_ACTIVITY:last_update_end-->
 <!--RECENT_ACTIVITY:start-->
-1. ![issueClosed] Closed issue [`#5`](https://github.com/enimaloc/Yui-MHCP001/issues/5) in [enimaloc/Yui-MHCP001](https://github.com/enimaloc/Yui-MHCP001)
-2. ![prMerged] Merged PR [`#6`](https://github.com/enimaloc/Yui-MHCP001/pull/6) in [enimaloc/Yui-MHCP001](https://github.com/enimaloc/Yui-MHCP001)
-3. ![prOpened] Opened PR [`#6`](https://github.com/enimaloc/Yui-MHCP001/pull/6) in [enimaloc/Yui-MHCP001](https://github.com/enimaloc/Yui-MHCP001)
-4. ![issueOpened] Opened issue [`#5`](https://github.com/enimaloc/Yui-MHCP001/issues/5) in [enimaloc/Yui-MHCP001](https://github.com/enimaloc/Yui-MHCP001)
-5. ![issueOpened] Opened issue [`#4`](https://github.com/enimaloc/Yui-MHCP001/issues/4) in [enimaloc/Yui-MHCP001](https://github.com/enimaloc/Yui-MHCP001)
-6. ![prMerged] Merged PR [`#2`](https://github.com/enimaloc/Yui-MHCP001/pull/2) in [enimaloc/Yui-MHCP001](https://github.com/enimaloc/Yui-MHCP001)
-7. ![prMerged] Merged PR [`#3`](https://github.com/enimaloc/Yui-MHCP001/pull/3) in [enimaloc/Yui-MHCP001](https://github.com/enimaloc/Yui-MHCP001)
-8. ![prOpened] Opened PR [`#3`](https://github.com/enimaloc/Yui-MHCP001/pull/3) in [enimaloc/Yui-MHCP001](https://github.com/enimaloc/Yui-MHCP001)
-9. ![prOpened] Opened PR [`#2`](https://github.com/enimaloc/Yui-MHCP001/pull/2) in [enimaloc/Yui-MHCP001](https://github.com/enimaloc/Yui-MHCP001)
-10. ![prMerged] Merged PR [`#1`](https://github.com/enimaloc/Yui-MHCP001/pull/1) in [enimaloc/Yui-MHCP001](https://github.com/enimaloc/Yui-MHCP001)
+1. ![prOpened] Opened PR [`#8`](https://github.com/enimaloc/Yui-MHCP001/pull/8) in [enimaloc/Yui-MHCP001](https://github.com/enimaloc/Yui-MHCP001)
+2. ![issueClosed] Closed issue [`#5`](https://github.com/enimaloc/Yui-MHCP001/issues/5) in [enimaloc/Yui-MHCP001](https://github.com/enimaloc/Yui-MHCP001)
+3. ![prMerged] Merged PR [`#6`](https://github.com/enimaloc/Yui-MHCP001/pull/6) in [enimaloc/Yui-MHCP001](https://github.com/enimaloc/Yui-MHCP001)
+4. ![prOpened] Opened PR [`#6`](https://github.com/enimaloc/Yui-MHCP001/pull/6) in [enimaloc/Yui-MHCP001](https://github.com/enimaloc/Yui-MHCP001)
+5. ![issueOpened] Opened issue [`#5`](https://github.com/enimaloc/Yui-MHCP001/issues/5) in [enimaloc/Yui-MHCP001](https://github.com/enimaloc/Yui-MHCP001)
+6. ![issueOpened] Opened issue [`#4`](https://github.com/enimaloc/Yui-MHCP001/issues/4) in [enimaloc/Yui-MHCP001](https://github.com/enimaloc/Yui-MHCP001)
+7. ![prMerged] Merged PR [`#2`](https://github.com/enimaloc/Yui-MHCP001/pull/2) in [enimaloc/Yui-MHCP001](https://github.com/enimaloc/Yui-MHCP001)
+8. ![prMerged] Merged PR [`#3`](https://github.com/enimaloc/Yui-MHCP001/pull/3) in [enimaloc/Yui-MHCP001](https://github.com/enimaloc/Yui-MHCP001)
+9. ![prOpened] Opened PR [`#3`](https://github.com/enimaloc/Yui-MHCP001/pull/3) in [enimaloc/Yui-MHCP001](https://github.com/enimaloc/Yui-MHCP001)
+10. ![prOpened] Opened PR [`#2`](https://github.com/enimaloc/Yui-MHCP001/pull/2) in [enimaloc/Yui-MHCP001](https://github.com/enimaloc/Yui-MHCP001)
 <!--RECENT_ACTIVITY:end-->
 
 </details>
