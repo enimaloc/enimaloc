@@ -51,18 +51,18 @@ languages.
 <!--START_SECTION:waka-->
 **🐱 My GitHub Data** 
 
-> 🏆 145 Contributions in the Year 2021
+> 🏆 148 Contributions in the Year 2021
  > 
 > 📦 14.9 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 28 Public Repositories 
+> 📜 29 Public Repositories 
  > 
 > 🔑 12 Private Repositories  
  > 
 
- Last Updated on 30/11/2021
+ Last Updated on 01/12/2021
 <!--END_SECTION:waka-->
 
 </details>
