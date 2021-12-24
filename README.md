@@ -49,6 +49,8 @@ languages.
 </p>
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C375%20hrs%201%20min-blue)
+
 **🐱 My GitHub Data** 
 
 > 🏆 157 Contributions in the Year 2021
