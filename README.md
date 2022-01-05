@@ -22,15 +22,15 @@ languages.
 <summary>My activity on Github</summary>
 
 <!--RECENT_ACTIVITY:last_update-->
-> Last Updated: 05/01 19:20 (Europe/Paris)
+> Last Updated: 05/01 22:14 (Europe/Paris)
 <!--RECENT_ACTIVITY:last_update_end-->
 <!--RECENT_ACTIVITY:start-->
-1. ![star] Starred [enimaloc/jircd](https://github.com/enimaloc/jircd)
-2. ![repoCreated] Created repository [enimaloc/processorEmulator](https://github.com/enimaloc/processorEmulator)
-3. ![star] Starred [WalshyDev/Discord-bad-domains](https://github.com/WalshyDev/Discord-bad-domains)
-4. ![fork] Forked [`enimaloc/JDA-Chewtils`](https://github.com/enimaloc/JDA-Chewtils) from [Chew/JDA-Chewtils](https://github.com/Chew/JDA-Chewtils)
-5. ![fork] Forked [`enimaloc/JDA`](https://github.com/enimaloc/JDA) from [DV8FromTheWorld/JDA](https://github.com/DV8FromTheWorld/JDA)
-6. ![prOpened] Opened PR [`#8`](https://github.com/enimaloc/Yui-MHCP001/pull/8) in [enimaloc/Yui-MHCP001](https://github.com/enimaloc/Yui-MHCP001)
+1. ![prClosed] Closed PR [`#8`](https://github.com/enimaloc/Yui-MHCP001/pull/8) in [enimaloc/Yui-MHCP001](https://github.com/enimaloc/Yui-MHCP001)
+2. ![star] Starred [enimaloc/jircd](https://github.com/enimaloc/jircd)
+3. ![repoCreated] Created repository [enimaloc/processorEmulator](https://github.com/enimaloc/processorEmulator)
+4. ![star] Starred [WalshyDev/Discord-bad-domains](https://github.com/WalshyDev/Discord-bad-domains)
+5. ![fork] Forked [`enimaloc/JDA-Chewtils`](https://github.com/enimaloc/JDA-Chewtils) from [Chew/JDA-Chewtils](https://github.com/Chew/JDA-Chewtils)
+6. ![fork] Forked [`enimaloc/JDA`](https://github.com/enimaloc/JDA) from [DV8FromTheWorld/JDA](https://github.com/DV8FromTheWorld/JDA)
 7. ![issueClosed] Closed issue [`#5`](https://github.com/enimaloc/Yui-MHCP001/issues/5) in [enimaloc/Yui-MHCP001](https://github.com/enimaloc/Yui-MHCP001)
 8. ![prMerged] Merged PR [`#6`](https://github.com/enimaloc/Yui-MHCP001/pull/6) in [enimaloc/Yui-MHCP001](https://github.com/enimaloc/Yui-MHCP001)
 9. ![prOpened] Opened PR [`#6`](https://github.com/enimaloc/Yui-MHCP001/pull/6) in [enimaloc/Yui-MHCP001](https://github.com/enimaloc/Yui-MHCP001)
