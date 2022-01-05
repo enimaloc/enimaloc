@@ -49,8 +49,6 @@ languages.
 </p>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C422%20hrs%2057%20mins-blue)
-
 **🐱 My GitHub Data** 
 
 > 🏆 1 Contributions in the Year 2022
@@ -64,7 +62,7 @@ languages.
 > 🔑 13 Private Repositories  
  > 
 
- Last Updated on 04/01/2022
+ Last Updated on 05/01/2022
 <!--END_SECTION:waka-->
 
 </details>
