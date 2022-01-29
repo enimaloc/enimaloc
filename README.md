@@ -22,14 +22,14 @@ languages.
 <summary>My activity on Github</summary>
 
 <!--RECENT_ACTIVITY:last_update-->
-> Last Updated: 29/01 13:23 (Europe/Paris)
+> Last Updated: 29/01 16:14 (Europe/Paris)
 <!--RECENT_ACTIVITY:last_update_end-->
 <!--RECENT_ACTIVITY:start-->
-1. ![star] Starred [freya022/BotCommands](https://github.com/freya022/BotCommands)
-2. ![prClosed] Closed PR [`#8`](https://github.com/enimaloc/Yui-MHCP001/pull/8) in [enimaloc/Yui-MHCP001](https://github.com/enimaloc/Yui-MHCP001)
-3. ![star] Starred [enimaloc/jircd](https://github.com/enimaloc/jircd)
-4. ![repoCreated] Created repository [enimaloc/processorEmulator](https://github.com/enimaloc/processorEmulator)
-5. ![fork] Forked [`enimaloc/JDA-Chewtils`](https://github.com/enimaloc/JDA-Chewtils) from [Chew/JDA-Chewtils](https://github.com/Chew/JDA-Chewtils)
+1. ![star] Starred [jagrosh/JagTag](https://github.com/jagrosh/JagTag)
+2. ![star] Starred [freya022/BotCommands](https://github.com/freya022/BotCommands)
+3. ![prClosed] Closed PR [`#8`](https://github.com/enimaloc/Yui-MHCP001/pull/8) in [enimaloc/Yui-MHCP001](https://github.com/enimaloc/Yui-MHCP001)
+4. ![star] Starred [enimaloc/jircd](https://github.com/enimaloc/jircd)
+5. ![repoCreated] Created repository [enimaloc/processorEmulator](https://github.com/enimaloc/processorEmulator)
 6. ![fork] Forked [`enimaloc/JDA`](https://github.com/enimaloc/JDA) from [DV8FromTheWorld/JDA](https://github.com/DV8FromTheWorld/JDA)
 7. ![issueClosed] Closed issue [`#5`](https://github.com/enimaloc/Yui-MHCP001/issues/5) in [enimaloc/Yui-MHCP001](https://github.com/enimaloc/Yui-MHCP001)
 8. ![prMerged] Merged PR [`#6`](https://github.com/enimaloc/Yui-MHCP001/pull/6) in [enimaloc/Yui-MHCP001](https://github.com/enimaloc/Yui-MHCP001)
