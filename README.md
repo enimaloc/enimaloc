@@ -22,16 +22,16 @@ languages.
 <summary>My activity on Github</summary>
 
 <!--RECENT_ACTIVITY:last_update-->
-> Last Updated: 09/02 10:15 (Europe/Paris)
+> Last Updated: 09/02 13:25 (Europe/Paris)
 <!--RECENT_ACTIVITY:last_update_end-->
 <!--RECENT_ACTIVITY:start-->
-1. ![repoCreated] Created repository [enimaloc/procemu](https://github.com/enimaloc/procemu)
-2. ![star] Starred [jagrosh/JagTag](https://github.com/jagrosh/JagTag)
-3. ![star] Starred [freya022/BotCommands](https://github.com/freya022/BotCommands)
-4. ![prClosed] Closed PR [`#8`](https://github.com/enimaloc/Yui-MHCP001/pull/8) in [enimaloc/Yui-MHCP001](https://github.com/enimaloc/Yui-MHCP001)
-5. ![star] Starred [enimaloc/jircd](https://github.com/enimaloc/jircd)
-6. ![repoCreated] Created repository [enimaloc/processorEmulator](https://github.com/enimaloc/processorEmulator)
-7. ![issueClosed] Closed issue [`#5`](https://github.com/enimaloc/Yui-MHCP001/issues/5) in [enimaloc/Yui-MHCP001](https://github.com/enimaloc/Yui-MHCP001)
+1. ![star] Starred [codacy/git-version](https://github.com/codacy/git-version)
+2. ![repoCreated] Created repository [enimaloc/procemu](https://github.com/enimaloc/procemu)
+3. ![star] Starred [jagrosh/JagTag](https://github.com/jagrosh/JagTag)
+4. ![star] Starred [freya022/BotCommands](https://github.com/freya022/BotCommands)
+5. ![prClosed] Closed PR [`#8`](https://github.com/enimaloc/Yui-MHCP001/pull/8) in [enimaloc/Yui-MHCP001](https://github.com/enimaloc/Yui-MHCP001)
+6. ![star] Starred [enimaloc/jircd](https://github.com/enimaloc/jircd)
+7. ![repoCreated] Created repository [enimaloc/processorEmulator](https://github.com/enimaloc/processorEmulator)
 8. ![prMerged] Merged PR [`#6`](https://github.com/enimaloc/Yui-MHCP001/pull/6) in [enimaloc/Yui-MHCP001](https://github.com/enimaloc/Yui-MHCP001)
 9. ![prOpened] Opened PR [`#6`](https://github.com/enimaloc/Yui-MHCP001/pull/6) in [enimaloc/Yui-MHCP001](https://github.com/enimaloc/Yui-MHCP001)
 10. ![issueOpened] Opened issue [`#5`](https://github.com/enimaloc/Yui-MHCP001/issues/5) in [enimaloc/Yui-MHCP001](https://github.com/enimaloc/Yui-MHCP001)
