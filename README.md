@@ -22,15 +22,15 @@ languages.
 <summary>My activity on Github</summary>
 
 <!--RECENT_ACTIVITY:last_update-->
-> Last Updated: 07/03 13:27 (Europe/Paris)
+> Last Updated: 07/03 16:17 (Europe/Paris)
 <!--RECENT_ACTIVITY:last_update_end-->
 <!--RECENT_ACTIVITY:start-->
-1. ![fork] Forked [`enimaloc/BotCommands`](https://github.com/enimaloc/BotCommands) from [freya022/BotCommands](https://github.com/freya022/BotCommands)
-2. ![star] Starred [codacy/git-version](https://github.com/codacy/git-version)
-3. ![repoCreated] Created repository [enimaloc/procemu](https://github.com/enimaloc/procemu)
-4. ![star] Starred [jagrosh/JagTag](https://github.com/jagrosh/JagTag)
-5. ![star] Starred [freya022/BotCommands](https://github.com/freya022/BotCommands)
-6. ![star] Starred [enimaloc/jircd](https://github.com/enimaloc/jircd)
+1. ![fork] Forked [`enimaloc/erlyn-family-plugin-mc`](https://github.com/enimaloc/erlyn-family-plugin-mc) from [ldxdev/erlyn-family-plugin-mc](https://github.com/ldxdev/erlyn-family-plugin-mc)
+2. ![fork] Forked [`enimaloc/BotCommands`](https://github.com/enimaloc/BotCommands) from [freya022/BotCommands](https://github.com/freya022/BotCommands)
+3. ![star] Starred [codacy/git-version](https://github.com/codacy/git-version)
+4. ![repoCreated] Created repository [enimaloc/procemu](https://github.com/enimaloc/procemu)
+5. ![star] Starred [jagrosh/JagTag](https://github.com/jagrosh/JagTag)
+6. ![star] Starred [freya022/BotCommands](https://github.com/freya022/BotCommands)
 7. ![repoCreated] Created repository [enimaloc/processorEmulator](https://github.com/enimaloc/processorEmulator)
 8. ![prMerged] Merged PR [`#6`](https://github.com/enimaloc/Yui-MHCP001/pull/6) in [enimaloc/Yui-MHCP001](https://github.com/enimaloc/Yui-MHCP001)
 9. ![prOpened] Opened PR [`#6`](https://github.com/enimaloc/Yui-MHCP001/pull/6) in [enimaloc/Yui-MHCP001](https://github.com/enimaloc/Yui-MHCP001)
