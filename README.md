@@ -22,15 +22,15 @@ languages.
 <summary>My activity on Github</summary>
 
 <!--RECENT_ACTIVITY:last_update-->
-> Last Updated: 12/05 17:19 (Europe/Paris)
+> Last Updated: 12/05 20:23 (Europe/Paris)
 <!--RECENT_ACTIVITY:last_update_end-->
 <!--RECENT_ACTIVITY:start-->
-1. ![fork] Forked [`enimaloc/codimd`](https://github.com/enimaloc/codimd) from [hackmdio/codimd](https://github.com/hackmdio/codimd)
-2. ![fork] Forked [`enimaloc/erlyn-family-plugin-mc`](https://github.com/enimaloc/erlyn-family-plugin-mc) from [ldxdev/erlyn-family-plugin-mc](https://github.com/ldxdev/erlyn-family-plugin-mc)
-3. ![fork] Forked [`enimaloc/BotCommands`](https://github.com/enimaloc/BotCommands) from [freya022/BotCommands](https://github.com/freya022/BotCommands)
-4. ![star] Starred [codacy/git-version](https://github.com/codacy/git-version)
-5. ![repoCreated] Created repository [enimaloc/procemu](https://github.com/enimaloc/procemu)
-6. ![star] Starred [freya022/BotCommands](https://github.com/freya022/BotCommands)
+1. ![prOpened] Opened PR [`#2`](https://github.com/GravenDev/Ticket-Reader/pull/2) in [GravenDev/Ticket-Reader](https://github.com/GravenDev/Ticket-Reader)
+2. ![prOpened] Opened PR [`#1`](https://github.com/GravenDev/Ticket-Reader/pull/1) in [GravenDev/Ticket-Reader](https://github.com/GravenDev/Ticket-Reader)
+3. ![fork] Forked [`enimaloc/Ticket-Reader`](https://github.com/enimaloc/Ticket-Reader) from [GravenDev/Ticket-Reader](https://github.com/GravenDev/Ticket-Reader)
+4. ![fork] Forked [`enimaloc/codimd`](https://github.com/enimaloc/codimd) from [hackmdio/codimd](https://github.com/hackmdio/codimd)
+5. ![fork] Forked [`enimaloc/erlyn-family-plugin-mc`](https://github.com/enimaloc/erlyn-family-plugin-mc) from [ldxdev/erlyn-family-plugin-mc](https://github.com/ldxdev/erlyn-family-plugin-mc)
+6. ![fork] Forked [`enimaloc/BotCommands`](https://github.com/enimaloc/BotCommands) from [freya022/BotCommands](https://github.com/freya022/BotCommands)
 7. ![repoCreated] Created repository [enimaloc/processorEmulator](https://github.com/enimaloc/processorEmulator)
 8. ![prMerged] Merged PR [`#6`](https://github.com/enimaloc/Yui-MHCP001/pull/6) in [enimaloc/Yui-MHCP001](https://github.com/enimaloc/Yui-MHCP001)
 9. ![prOpened] Opened PR [`#6`](https://github.com/enimaloc/Yui-MHCP001/pull/6) in [enimaloc/Yui-MHCP001](https://github.com/enimaloc/Yui-MHCP001)
