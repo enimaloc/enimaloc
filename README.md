@@ -22,12 +22,12 @@ languages.
 <summary>My activity on Github</summary>
 
 <!--RECENT_ACTIVITY:last_update-->
-> Last Updated: 05/07 23:15 (Europe/Paris)
+> Last Updated: 06/07 03:58 (Europe/Paris)
 <!--RECENT_ACTIVITY:last_update_end-->
 <!--RECENT_ACTIVITY:start-->
-1. ![fork] Forked [`enimaloc/JDA`](https://github.com/enimaloc/JDA) from [DV8FromTheWorld/JDA](https://github.com/DV8FromTheWorld/JDA)
-2. ![star] Starred [iBug/This-Repo-Has-450-Stars](https://github.com/iBug/This-Repo-Has-450-Stars)
-3. ![star] Starred [Astremy/Piscord](https://github.com/Astremy/Piscord)
+1. ![star] Starred [Walkyst/lavaplayer-fork](https://github.com/Walkyst/lavaplayer-fork)
+2. ![fork] Forked [`enimaloc/JDA`](https://github.com/enimaloc/JDA) from [DV8FromTheWorld/JDA](https://github.com/DV8FromTheWorld/JDA)
+3. ![star] Starred [iBug/This-Repo-Has-450-Stars](https://github.com/iBug/This-Repo-Has-450-Stars)
 4. ![prOpened] Opened PR [`#2`](https://github.com/GravenDev/Ticket-Reader/pull/2) in [GravenDev/Ticket-Reader](https://github.com/GravenDev/Ticket-Reader)
 5. ![prOpened] Opened PR [`#1`](https://github.com/GravenDev/Ticket-Reader/pull/1) in [GravenDev/Ticket-Reader](https://github.com/GravenDev/Ticket-Reader)
 6. ![fork] Forked [`enimaloc/Ticket-Reader`](https://github.com/enimaloc/Ticket-Reader) from [GravenDev/Ticket-Reader](https://github.com/GravenDev/Ticket-Reader)
