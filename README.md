@@ -22,16 +22,16 @@ languages.
 <summary>My activity on Github</summary>
 
 <!--RECENT_ACTIVITY:last_update-->
-> Last Updated: 26/07 20:22 (Europe/Paris)
+> Last Updated: 26/07 23:15 (Europe/Paris)
 <!--RECENT_ACTIVITY:last_update_end-->
 <!--RECENT_ACTIVITY:start-->
-1. ![star] Starred [Walkyst/lavaplayer-fork](https://github.com/Walkyst/lavaplayer-fork)
-2. ![fork] Forked [`enimaloc/JDA`](https://github.com/enimaloc/JDA) from [DV8FromTheWorld/JDA](https://github.com/DV8FromTheWorld/JDA)
-3. ![star] Starred [iBug/This-Repo-Has-450-Stars](https://github.com/iBug/This-Repo-Has-450-Stars)
-4. ![prOpened] Opened PR [`#2`](https://github.com/GravenDev/Ticket-Reader/pull/2) in [GravenDev/Ticket-Reader](https://github.com/GravenDev/Ticket-Reader)
-5. ![prOpened] Opened PR [`#1`](https://github.com/GravenDev/Ticket-Reader/pull/1) in [GravenDev/Ticket-Reader](https://github.com/GravenDev/Ticket-Reader)
-6. ![fork] Forked [`enimaloc/Ticket-Reader`](https://github.com/enimaloc/Ticket-Reader) from [GravenDev/Ticket-Reader](https://github.com/GravenDev/Ticket-Reader)
-7. ![repoCreated] Created repository [enimaloc/processorEmulator](https://github.com/enimaloc/processorEmulator)
+1. ![star] Starred [enimaloc/jircd](https://github.com/enimaloc/jircd)
+2. ![star] Starred [enimaloc/jircd](https://github.com/enimaloc/jircd)
+3. ![star] Starred [enimaloc/jircd](https://github.com/enimaloc/jircd)
+4. ![star] Starred [enimaloc/jircd](https://github.com/enimaloc/jircd)
+5. ![star] Starred [Walkyst/lavaplayer-fork](https://github.com/Walkyst/lavaplayer-fork)
+6. ![fork] Forked [`enimaloc/JDA`](https://github.com/enimaloc/JDA) from [DV8FromTheWorld/JDA](https://github.com/DV8FromTheWorld/JDA)
+7. ![star] Starred [iBug/This-Repo-Has-450-Stars](https://github.com/iBug/This-Repo-Has-450-Stars)
 8. ![prMerged] Merged PR [`#6`](https://github.com/enimaloc/Yui-MHCP001/pull/6) in [enimaloc/Yui-MHCP001](https://github.com/enimaloc/Yui-MHCP001)
 9. ![prOpened] Opened PR [`#6`](https://github.com/enimaloc/Yui-MHCP001/pull/6) in [enimaloc/Yui-MHCP001](https://github.com/enimaloc/Yui-MHCP001)
 10. ![issueOpened] Opened issue [`#5`](https://github.com/enimaloc/Yui-MHCP001/issues/5) in [enimaloc/Yui-MHCP001](https://github.com/enimaloc/Yui-MHCP001)
