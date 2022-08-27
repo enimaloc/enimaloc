@@ -22,15 +22,15 @@ languages.
 <summary>My activity on Github</summary>
 
 <!--RECENT_ACTIVITY:last_update-->
-> Last Updated: 26/08 23:15 (Europe/Paris)
+> Last Updated: 27/08 04:00 (Europe/Paris)
 <!--RECENT_ACTIVITY:last_update_end-->
 <!--RECENT_ACTIVITY:start-->
-1. ![star] Starred [enimaloc/jircd](https://github.com/enimaloc/jircd)
-2. ![star] Starred [enimaloc/jircd](https://github.com/enimaloc/jircd)
+1. ![prOpened] Opened PR [`#7`](https://github.com/GravenDev/GravenSupport/pull/7) in [GravenDev/GravenSupport](https://github.com/GravenDev/GravenSupport)
+2. ![fork] Forked [`enimaloc/GravenSupport`](https://github.com/enimaloc/GravenSupport) from [GravenDev/GravenSupport](https://github.com/GravenDev/GravenSupport)
 3. ![star] Starred [enimaloc/jircd](https://github.com/enimaloc/jircd)
 4. ![star] Starred [enimaloc/jircd](https://github.com/enimaloc/jircd)
-5. ![star] Starred [Walkyst/lavaplayer-fork](https://github.com/Walkyst/lavaplayer-fork)
-6. ![fork] Forked [`enimaloc/JDA`](https://github.com/enimaloc/JDA) from [DV8FromTheWorld/JDA](https://github.com/DV8FromTheWorld/JDA)
+5. ![star] Starred [enimaloc/jircd](https://github.com/enimaloc/jircd)
+6. ![star] Starred [enimaloc/jircd](https://github.com/enimaloc/jircd)
 7. ![star] Starred [iBug/This-Repo-Has-450-Stars](https://github.com/iBug/This-Repo-Has-450-Stars)
 8. ![prMerged] Merged PR [`#6`](https://github.com/enimaloc/Yui-MHCP001/pull/6) in [enimaloc/Yui-MHCP001](https://github.com/enimaloc/Yui-MHCP001)
 9. ![prOpened] Opened PR [`#6`](https://github.com/enimaloc/Yui-MHCP001/pull/6) in [enimaloc/Yui-MHCP001](https://github.com/enimaloc/Yui-MHCP001)
