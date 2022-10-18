@@ -22,12 +22,12 @@ languages.
 <summary>My activity on Github</summary>
 
 <!--RECENT_ACTIVITY:last_update-->
-> Last Updated: 18/10 14:46 (Europe/Paris)
+> Last Updated: 18/10 17:27 (Europe/Paris)
 <!--RECENT_ACTIVITY:last_update_end-->
 <!--RECENT_ACTIVITY:start-->
-1. ![repoCreated] Created repository [enimaloc/JDA-enutils](https://github.com/enimaloc/JDA-enutils)
-2. ![repoCreated] Created repository [enimaloc/Kuiper](https://github.com/enimaloc/Kuiper)
-3. ![prOpened] Opened PR [`#7`](https://github.com/GravenDev/GravenSupport/pull/7) in [GravenDev/GravenSupport](https://github.com/GravenDev/GravenSupport)
+1. ![star] Starred [Discord-Datamining/Discord-Datamining](https://github.com/Discord-Datamining/Discord-Datamining)
+2. ![repoCreated] Created repository [enimaloc/JDA-enutils](https://github.com/enimaloc/JDA-enutils)
+3. ![repoCreated] Created repository [enimaloc/Kuiper](https://github.com/enimaloc/Kuiper)
 4. ![fork] Forked [`enimaloc/GravenSupport`](https://github.com/enimaloc/GravenSupport) from [GravenDev/GravenSupport](https://github.com/GravenDev/GravenSupport)
 5. ![star] Starred [enimaloc/jircd](https://github.com/enimaloc/jircd)
 6. ![star] Starred [enimaloc/jircd](https://github.com/enimaloc/jircd)
