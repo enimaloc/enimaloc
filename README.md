@@ -22,12 +22,12 @@ languages.
 <summary>My activity on Github</summary>
 
 <!--RECENT_ACTIVITY:last_update-->
-> Last Updated: 20/12 19:18 (Europe/Paris)
+> Last Updated: 20/12 22:13 (Europe/Paris)
 <!--RECENT_ACTIVITY:last_update_end-->
 <!--RECENT_ACTIVITY:start-->
-1. ![star] Starred [arHSM/discord-friends-graph](https://github.com/arHSM/discord-friends-graph)
-2. ![star] Starred [smashdata/ThePlayerDatabase](https://github.com/smashdata/ThePlayerDatabase)
-3. ![repoCreated] Created repository [enimaloc/Kuiper](https://github.com/enimaloc/Kuiper)
+1. ![prOpened] Opened PR [`#20`](https://github.com/GravenDev/GravenSupport/pull/20) in [GravenDev/GravenSupport](https://github.com/GravenDev/GravenSupport)
+2. ![star] Starred [arHSM/discord-friends-graph](https://github.com/arHSM/discord-friends-graph)
+3. ![star] Starred [smashdata/ThePlayerDatabase](https://github.com/smashdata/ThePlayerDatabase)
 4. ![fork] Forked [`enimaloc/GravenSupport`](https://github.com/enimaloc/GravenSupport) from [GravenDev/GravenSupport](https://github.com/GravenDev/GravenSupport)
 5. ![star] Starred [enimaloc/jircd](https://github.com/enimaloc/jircd)
 6. ![star] Starred [enimaloc/jircd](https://github.com/enimaloc/jircd)
