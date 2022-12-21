@@ -22,14 +22,14 @@ languages.
 <summary>My activity on Github</summary>
 
 <!--RECENT_ACTIVITY:last_update-->
-> Last Updated: 20/12 22:13 (Europe/Paris)
+> Last Updated: 21/12 02:10 (Europe/Paris)
 <!--RECENT_ACTIVITY:last_update_end-->
 <!--RECENT_ACTIVITY:start-->
-1. ![prOpened] Opened PR [`#20`](https://github.com/GravenDev/GravenSupport/pull/20) in [GravenDev/GravenSupport](https://github.com/GravenDev/GravenSupport)
-2. ![star] Starred [arHSM/discord-friends-graph](https://github.com/arHSM/discord-friends-graph)
-3. ![star] Starred [smashdata/ThePlayerDatabase](https://github.com/smashdata/ThePlayerDatabase)
-4. ![fork] Forked [`enimaloc/GravenSupport`](https://github.com/enimaloc/GravenSupport) from [GravenDev/GravenSupport](https://github.com/GravenDev/GravenSupport)
-5. ![star] Starred [enimaloc/jircd](https://github.com/enimaloc/jircd)
+1. ![prMerged] Merged PR [`#3`](https://github.com/enimaloc/jircd/pull/3) in [enimaloc/jircd](https://github.com/enimaloc/jircd)
+2. ![prMerged] Merged PR [`#2`](https://github.com/enimaloc/jircd/pull/2) in [enimaloc/jircd](https://github.com/enimaloc/jircd)
+3. ![prOpened] Opened PR [`#20`](https://github.com/GravenDev/GravenSupport/pull/20) in [GravenDev/GravenSupport](https://github.com/GravenDev/GravenSupport)
+4. ![star] Starred [arHSM/discord-friends-graph](https://github.com/arHSM/discord-friends-graph)
+5. ![star] Starred [smashdata/ThePlayerDatabase](https://github.com/smashdata/ThePlayerDatabase)
 6. ![star] Starred [enimaloc/jircd](https://github.com/enimaloc/jircd)
 7. ![star] Starred [iBug/This-Repo-Has-450-Stars](https://github.com/iBug/This-Repo-Has-450-Stars)
 8. ![prMerged] Merged PR [`#6`](https://github.com/enimaloc/Yui-MHCP001/pull/6) in [enimaloc/Yui-MHCP001](https://github.com/enimaloc/Yui-MHCP001)
