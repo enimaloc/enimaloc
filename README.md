@@ -22,16 +22,16 @@ languages.
 <summary>My activity on Github</summary>
 
 <!--RECENT_ACTIVITY:last_update-->
-> Last Updated: 12/01 02:17 (Europe/Paris)
+> Last Updated: 12/01 04:16 (Europe/Paris)
 <!--RECENT_ACTIVITY:last_update_end-->
 <!--RECENT_ACTIVITY:start-->
-1. ![star] Starred [meo-pill/projet-L2](https://github.com/meo-pill/projet-L2)
-2. ![prMerged] Merged PR [`#3`](https://github.com/enimaloc/jircd/pull/3) in [enimaloc/jircd](https://github.com/enimaloc/jircd)
-3. ![prMerged] Merged PR [`#2`](https://github.com/enimaloc/jircd/pull/2) in [enimaloc/jircd](https://github.com/enimaloc/jircd)
-4. ![prOpened] Opened PR [`#20`](https://github.com/GravenDev/GravenSupport/pull/20) in [GravenDev/GravenSupport](https://github.com/GravenDev/GravenSupport)
-5. ![star] Starred [arHSM/discord-friends-graph](https://github.com/arHSM/discord-friends-graph)
-6. ![star] Starred [enimaloc/jircd](https://github.com/enimaloc/jircd)
-7. ![star] Starred [iBug/This-Repo-Has-450-Stars](https://github.com/iBug/This-Repo-Has-450-Stars)
+1. ![prMerged] Merged PR [`#1`](https://github.com/enimaloc/esportlinebot/pull/1) in [enimaloc/esportlinebot](https://github.com/enimaloc/esportlinebot)
+2. ![prOpened] Opened PR [`#1`](https://github.com/enimaloc/esportlinebot/pull/1) in [enimaloc/esportlinebot](https://github.com/enimaloc/esportlinebot)
+3. ![star] Starred [meo-pill/projet-L2](https://github.com/meo-pill/projet-L2)
+4. ![prMerged] Merged PR [`#3`](https://github.com/enimaloc/jircd/pull/3) in [enimaloc/jircd](https://github.com/enimaloc/jircd)
+5. ![prMerged] Merged PR [`#2`](https://github.com/enimaloc/jircd/pull/2) in [enimaloc/jircd](https://github.com/enimaloc/jircd)
+6. ![prOpened] Opened PR [`#20`](https://github.com/GravenDev/GravenSupport/pull/20) in [GravenDev/GravenSupport](https://github.com/GravenDev/GravenSupport)
+7. ![star] Starred [arHSM/discord-friends-graph](https://github.com/arHSM/discord-friends-graph)
 8. ![prMerged] Merged PR [`#6`](https://github.com/enimaloc/Yui-MHCP001/pull/6) in [enimaloc/Yui-MHCP001](https://github.com/enimaloc/Yui-MHCP001)
 9. ![prOpened] Opened PR [`#6`](https://github.com/enimaloc/Yui-MHCP001/pull/6) in [enimaloc/Yui-MHCP001](https://github.com/enimaloc/Yui-MHCP001)
 10. ![issueOpened] Opened issue [`#5`](https://github.com/enimaloc/Yui-MHCP001/issues/5) in [enimaloc/Yui-MHCP001](https://github.com/enimaloc/Yui-MHCP001)
