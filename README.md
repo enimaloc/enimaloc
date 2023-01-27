@@ -22,19 +22,19 @@ languages.
 <summary>My activity on Github</summary>
 
 <!--RECENT_ACTIVITY:last_update-->
-> Last Updated: 27/01 16:15 (Europe/Paris)
+> Last Updated: 27/01 19:18 (Europe/Paris)
 <!--RECENT_ACTIVITY:last_update_end-->
 <!--RECENT_ACTIVITY:start-->
-1. ![prMerged] Merged PR [`#3`](https://github.com/tower-defense-L2/projet-L2/pull/3) in [tower-defense-L2/projet-L2](https://github.com/tower-defense-L2/projet-L2)
-2. ![approved] Approved [`#3`](https://github.com/tower-defense-L2/projet-L2/pull/3#pullrequestreview-1272736147) in [tower-defense-L2/projet-L2](https://github.com/tower-defense-L2/projet-L2)
-3. ![approved] Approved [`#2`](https://github.com/tower-defense-L2/projet-L2/pull/2#pullrequestreview-1272701632) in [tower-defense-L2/projet-L2](https://github.com/tower-defense-L2/projet-L2)
-4. ![issueOpened] Opened issue [`#1`](https://github.com/meo-pill/projet-L2/issues/1) in [meo-pill/projet-L2](https://github.com/meo-pill/projet-L2)
-5. ![repoCreated] Created repository [enimaloc/testUrgtentMessage](https://github.com/enimaloc/testUrgtentMessage)
-6. ![prMerged] Merged PR [`#1`](https://github.com/enimaloc/esportlinebot/pull/1) in [enimaloc/esportlinebot](https://github.com/enimaloc/esportlinebot)
-7. ![prOpened] Opened PR [`#1`](https://github.com/enimaloc/esportlinebot/pull/1) in [enimaloc/esportlinebot](https://github.com/enimaloc/esportlinebot)
-8. ![star] Starred [meo-pill/projet-L2](https://github.com/meo-pill/projet-L2)
-9. ![prMerged] Merged PR [`#3`](https://github.com/enimaloc/jircd/pull/3) in [enimaloc/jircd](https://github.com/enimaloc/jircd)
-10. ![issueOpened] Opened issue [`#5`](https://github.com/enimaloc/Yui-MHCP001/issues/5) in [enimaloc/Yui-MHCP001](https://github.com/enimaloc/Yui-MHCP001)
+1. ![prMerged] Merged PR [`#5`](https://github.com/tower-defense-L2/projet-L2/pull/5) in [tower-defense-L2/projet-L2](https://github.com/tower-defense-L2/projet-L2)
+2. ![prOpened] Opened PR [`#5`](https://github.com/tower-defense-L2/projet-L2/pull/5) in [tower-defense-L2/projet-L2](https://github.com/tower-defense-L2/projet-L2)
+3. ![prClosed] Closed PR [`#4`](https://github.com/tower-defense-L2/projet-L2/pull/4) in [tower-defense-L2/projet-L2](https://github.com/tower-defense-L2/projet-L2)
+4. ![prOpened] Opened PR [`#4`](https://github.com/tower-defense-L2/projet-L2/pull/4) in [tower-defense-L2/projet-L2](https://github.com/tower-defense-L2/projet-L2)
+5. ![prMerged] Merged PR [`#3`](https://github.com/tower-defense-L2/projet-L2/pull/3) in [tower-defense-L2/projet-L2](https://github.com/tower-defense-L2/projet-L2)
+6. ![approved] Approved [`#3`](https://github.com/tower-defense-L2/projet-L2/pull/3#pullrequestreview-1272736147) in [tower-defense-L2/projet-L2](https://github.com/tower-defense-L2/projet-L2)
+7. ![approved] Approved [`#2`](https://github.com/tower-defense-L2/projet-L2/pull/2#pullrequestreview-1272701632) in [tower-defense-L2/projet-L2](https://github.com/tower-defense-L2/projet-L2)
+8. ![issueOpened] Opened issue [`#1`](https://github.com/meo-pill/projet-L2/issues/1) in [meo-pill/projet-L2](https://github.com/meo-pill/projet-L2)
+9. ![repoCreated] Created repository [enimaloc/testUrgtentMessage](https://github.com/enimaloc/testUrgtentMessage)
+10. ![prMerged] Merged PR [`#1`](https://github.com/enimaloc/esportlinebot/pull/1) in [enimaloc/esportlinebot](https://github.com/enimaloc/esportlinebot)
 <!--RECENT_ACTIVITY:end-->
 
 </details>
