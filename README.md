@@ -22,7 +22,7 @@ languages.
 <summary>My activity on Github</summary>
 
 <!--RECENT_ACTIVITY:last_update-->
-> Last Updated: 30/01 19:18 (Europe/Paris)
+> Last Updated: 30/01 22:13 (Europe/Paris)
 <!--RECENT_ACTIVITY:last_update_end-->
 <!--RECENT_ACTIVITY:start-->
 1. ![prMerged] Merged PR [`#5`](https://github.com/tower-defense-L2/projet-L2/pull/5) in [tower-defense-L2/projet-L2](https://github.com/tower-defense-L2/projet-L2)
