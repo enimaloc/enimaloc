@@ -22,19 +22,19 @@ languages.
 <summary>My activity on Github</summary>
 
 <!--RECENT_ACTIVITY:last_update-->
-> Last Updated: 03/02 13:29 (Europe/Paris)
+> Last Updated: 03/02 16:15 (Europe/Paris)
 <!--RECENT_ACTIVITY:last_update_end-->
 <!--RECENT_ACTIVITY:start-->
-1. ![prMerged] Merged PR [`#7`](https://github.com/tower-defense-L2/projet-L2/pull/7) in [tower-defense-L2/projet-L2](https://github.com/tower-defense-L2/projet-L2)
-2. ![prMerged] Merged PR [`#8`](https://github.com/tower-defense-L2/projet-L2/pull/8) in [tower-defense-L2/projet-L2](https://github.com/tower-defense-L2/projet-L2)
-3. ![prOpened] Opened PR [`#8`](https://github.com/tower-defense-L2/projet-L2/pull/8) in [tower-defense-L2/projet-L2](https://github.com/tower-defense-L2/projet-L2)
-4. ![prMerged] Merged PR [`#6`](https://github.com/tower-defense-L2/projet-L2/pull/6) in [tower-defense-L2/projet-L2](https://github.com/tower-defense-L2/projet-L2)
-5. ![prMerged] Merged PR [`#5`](https://github.com/tower-defense-L2/projet-L2/pull/5) in [tower-defense-L2/projet-L2](https://github.com/tower-defense-L2/projet-L2)
-6. ![prOpened] Opened PR [`#5`](https://github.com/tower-defense-L2/projet-L2/pull/5) in [tower-defense-L2/projet-L2](https://github.com/tower-defense-L2/projet-L2)
-7. ![prClosed] Closed PR [`#4`](https://github.com/tower-defense-L2/projet-L2/pull/4) in [tower-defense-L2/projet-L2](https://github.com/tower-defense-L2/projet-L2)
-8. ![prOpened] Opened PR [`#4`](https://github.com/tower-defense-L2/projet-L2/pull/4) in [tower-defense-L2/projet-L2](https://github.com/tower-defense-L2/projet-L2)
-9. ![prMerged] Merged PR [`#3`](https://github.com/tower-defense-L2/projet-L2/pull/3) in [tower-defense-L2/projet-L2](https://github.com/tower-defense-L2/projet-L2)
-10. ![approved] Approved [`#3`](https://github.com/tower-defense-L2/projet-L2/pull/3#pullrequestreview-1272736147) in [tower-defense-L2/projet-L2](https://github.com/tower-defense-L2/projet-L2)
+1. ![prMerged] Merged PR [`#9`](https://github.com/tower-defense-L2/projet-L2/pull/9) in [tower-defense-L2/projet-L2](https://github.com/tower-defense-L2/projet-L2)
+2. ![prMerged] Merged PR [`#7`](https://github.com/tower-defense-L2/projet-L2/pull/7) in [tower-defense-L2/projet-L2](https://github.com/tower-defense-L2/projet-L2)
+3. ![prMerged] Merged PR [`#8`](https://github.com/tower-defense-L2/projet-L2/pull/8) in [tower-defense-L2/projet-L2](https://github.com/tower-defense-L2/projet-L2)
+4. ![prOpened] Opened PR [`#8`](https://github.com/tower-defense-L2/projet-L2/pull/8) in [tower-defense-L2/projet-L2](https://github.com/tower-defense-L2/projet-L2)
+5. ![prMerged] Merged PR [`#6`](https://github.com/tower-defense-L2/projet-L2/pull/6) in [tower-defense-L2/projet-L2](https://github.com/tower-defense-L2/projet-L2)
+6. ![prMerged] Merged PR [`#5`](https://github.com/tower-defense-L2/projet-L2/pull/5) in [tower-defense-L2/projet-L2](https://github.com/tower-defense-L2/projet-L2)
+7. ![prOpened] Opened PR [`#5`](https://github.com/tower-defense-L2/projet-L2/pull/5) in [tower-defense-L2/projet-L2](https://github.com/tower-defense-L2/projet-L2)
+8. ![prClosed] Closed PR [`#4`](https://github.com/tower-defense-L2/projet-L2/pull/4) in [tower-defense-L2/projet-L2](https://github.com/tower-defense-L2/projet-L2)
+9. ![prOpened] Opened PR [`#4`](https://github.com/tower-defense-L2/projet-L2/pull/4) in [tower-defense-L2/projet-L2](https://github.com/tower-defense-L2/projet-L2)
+10. ![prMerged] Merged PR [`#3`](https://github.com/tower-defense-L2/projet-L2/pull/3) in [tower-defense-L2/projet-L2](https://github.com/tower-defense-L2/projet-L2)
 <!--RECENT_ACTIVITY:end-->
 
 </details>
