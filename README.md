@@ -53,18 +53,18 @@ languages.
 
 **🐱 My GitHub Data** 
 
-> 🏆 69 Contributions in the Year 2023
- > 
 > 📦 17.2 kB Used in GitHub's Storage 
+ > 
+> 🏆 69 Contributions in the Year 2023
  > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 40 Public Repositories 
  > 
-> 🔑 17 Private Repositories  
+> 🔑 17 Private Repositories 
  > 
 
- Last Updated on 22/02/2023 12:33:43 UTC
+ Last Updated on 23/02/2023 01:22:25 UTC
 <!--END_SECTION:waka-->
 
 </details>
