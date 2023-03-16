@@ -22,19 +22,19 @@ languages.
 <summary>My activity on Github</summary>
 
 <!--RECENT_ACTIVITY:last_update-->
-> Last Updated: 16/03 10:16 (Europe/Paris)
+> Last Updated: 16/03 13:30 (Europe/Paris)
 <!--RECENT_ACTIVITY:last_update_end-->
 <!--RECENT_ACTIVITY:start-->
-1. ![star] Starred [TopiSenpai/LavaSrc](https://github.com/TopiSenpai/LavaSrc)
-2. ![star] Starred [romainlavaldev/Dark3x](https://github.com/romainlavaldev/Dark3x)
-3. ![star] Starred [Aytixel/rust-craft](https://github.com/Aytixel/rust-craft)
-4. ![prMerged] Merged PR [`#2`](https://github.com/enimaloc/Kuiper/pull/2) in [enimaloc/Kuiper](https://github.com/enimaloc/Kuiper)
-5. ![prOpened] Opened PR [`#2`](https://github.com/enimaloc/Kuiper/pull/2) in [enimaloc/Kuiper](https://github.com/enimaloc/Kuiper)
-6. ![prMerged] Merged PR [`#1`](https://github.com/enimaloc/Kuiper/pull/1) in [enimaloc/Kuiper](https://github.com/enimaloc/Kuiper)
-7. ![prOpened] Opened PR [`#1`](https://github.com/enimaloc/Kuiper/pull/1) in [enimaloc/Kuiper](https://github.com/enimaloc/Kuiper)
-8. ![prMerged] Merged PR [`#16`](https://github.com/tower-defense-L2/projet-L2/pull/16) in [tower-defense-L2/projet-L2](https://github.com/tower-defense-L2/projet-L2)
-9. ![prMerged] Merged PR [`#15`](https://github.com/tower-defense-L2/projet-L2/pull/15) in [tower-defense-L2/projet-L2](https://github.com/tower-defense-L2/projet-L2)
-10. ![issueOpened] Opened issue [`#10`](https://github.com/tower-defense-L2/projet-L2/issues/10) in [tower-defense-L2/projet-L2](https://github.com/tower-defense-L2/projet-L2)
+1. ![prMerged] Merged PR [`#17`](https://github.com/tower-defense-L2/projet-L2/pull/17) in [tower-defense-L2/projet-L2](https://github.com/tower-defense-L2/projet-L2)
+2. ![star] Starred [TopiSenpai/LavaSrc](https://github.com/TopiSenpai/LavaSrc)
+3. ![star] Starred [romainlavaldev/Dark3x](https://github.com/romainlavaldev/Dark3x)
+4. ![star] Starred [Aytixel/rust-craft](https://github.com/Aytixel/rust-craft)
+5. ![prMerged] Merged PR [`#2`](https://github.com/enimaloc/Kuiper/pull/2) in [enimaloc/Kuiper](https://github.com/enimaloc/Kuiper)
+6. ![prOpened] Opened PR [`#2`](https://github.com/enimaloc/Kuiper/pull/2) in [enimaloc/Kuiper](https://github.com/enimaloc/Kuiper)
+7. ![prMerged] Merged PR [`#1`](https://github.com/enimaloc/Kuiper/pull/1) in [enimaloc/Kuiper](https://github.com/enimaloc/Kuiper)
+8. ![prOpened] Opened PR [`#1`](https://github.com/enimaloc/Kuiper/pull/1) in [enimaloc/Kuiper](https://github.com/enimaloc/Kuiper)
+9. ![prMerged] Merged PR [`#16`](https://github.com/tower-defense-L2/projet-L2/pull/16) in [tower-defense-L2/projet-L2](https://github.com/tower-defense-L2/projet-L2)
+10. ![prMerged] Merged PR [`#15`](https://github.com/tower-defense-L2/projet-L2/pull/15) in [tower-defense-L2/projet-L2](https://github.com/tower-defense-L2/projet-L2)
 <!--RECENT_ACTIVITY:end-->
 
 </details>
