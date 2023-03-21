@@ -22,19 +22,19 @@ languages.
 <summary>My activity on Github</summary>
 
 <!--RECENT_ACTIVITY:last_update-->
-> Last Updated: 21/03 16:12 (Europe/Paris)
+> Last Updated: 21/03 19:18 (Europe/Paris)
 <!--RECENT_ACTIVITY:last_update_end-->
 <!--RECENT_ACTIVITY:start-->
-1. ![prMerged] Merged PR [`#20`](https://github.com/tower-defense-L2/projet-L2/pull/20) in [tower-defense-L2/projet-L2](https://github.com/tower-defense-L2/projet-L2)
-2. ![prOpened] Opened PR [`#20`](https://github.com/tower-defense-L2/projet-L2/pull/20) in [tower-defense-L2/projet-L2](https://github.com/tower-defense-L2/projet-L2)
-3. ![prMerged] Merged PR [`#19`](https://github.com/tower-defense-L2/projet-L2/pull/19) in [tower-defense-L2/projet-L2](https://github.com/tower-defense-L2/projet-L2)
-4. ![prMerged] Merged PR [`#18`](https://github.com/tower-defense-L2/projet-L2/pull/18) in [tower-defense-L2/projet-L2](https://github.com/tower-defense-L2/projet-L2)
-5. ![prMerged] Merged PR [`#17`](https://github.com/tower-defense-L2/projet-L2/pull/17) in [tower-defense-L2/projet-L2](https://github.com/tower-defense-L2/projet-L2)
-6. ![star] Starred [TopiSenpai/LavaSrc](https://github.com/TopiSenpai/LavaSrc)
-7. ![star] Starred [romainlavaldev/Dark3x](https://github.com/romainlavaldev/Dark3x)
-8. ![star] Starred [Aytixel/rust-craft](https://github.com/Aytixel/rust-craft)
-9. ![prMerged] Merged PR [`#2`](https://github.com/enimaloc/Kuiper/pull/2) in [enimaloc/Kuiper](https://github.com/enimaloc/Kuiper)
-10. ![prOpened] Opened PR [`#2`](https://github.com/enimaloc/Kuiper/pull/2) in [enimaloc/Kuiper](https://github.com/enimaloc/Kuiper)
+1. ![prMerged] Merged PR [`#22`](https://github.com/tower-defense-L2/projet-L2/pull/22) in [tower-defense-L2/projet-L2](https://github.com/tower-defense-L2/projet-L2)
+2. ![prMerged] Merged PR [`#20`](https://github.com/tower-defense-L2/projet-L2/pull/20) in [tower-defense-L2/projet-L2](https://github.com/tower-defense-L2/projet-L2)
+3. ![prOpened] Opened PR [`#20`](https://github.com/tower-defense-L2/projet-L2/pull/20) in [tower-defense-L2/projet-L2](https://github.com/tower-defense-L2/projet-L2)
+4. ![prMerged] Merged PR [`#19`](https://github.com/tower-defense-L2/projet-L2/pull/19) in [tower-defense-L2/projet-L2](https://github.com/tower-defense-L2/projet-L2)
+5. ![prMerged] Merged PR [`#18`](https://github.com/tower-defense-L2/projet-L2/pull/18) in [tower-defense-L2/projet-L2](https://github.com/tower-defense-L2/projet-L2)
+6. ![prMerged] Merged PR [`#17`](https://github.com/tower-defense-L2/projet-L2/pull/17) in [tower-defense-L2/projet-L2](https://github.com/tower-defense-L2/projet-L2)
+7. ![star] Starred [TopiSenpai/LavaSrc](https://github.com/TopiSenpai/LavaSrc)
+8. ![star] Starred [romainlavaldev/Dark3x](https://github.com/romainlavaldev/Dark3x)
+9. ![star] Starred [Aytixel/rust-craft](https://github.com/Aytixel/rust-craft)
+10. ![prMerged] Merged PR [`#2`](https://github.com/enimaloc/Kuiper/pull/2) in [enimaloc/Kuiper](https://github.com/enimaloc/Kuiper)
 <!--RECENT_ACTIVITY:end-->
 
 </details>
