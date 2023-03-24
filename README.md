@@ -22,19 +22,19 @@ languages.
 <summary>My activity on Github</summary>
 
 <!--RECENT_ACTIVITY:last_update-->
-> Last Updated: 24/03 16:16 (Europe/Paris)
+> Last Updated: 24/03 19:18 (Europe/Paris)
 <!--RECENT_ACTIVITY:last_update_end-->
 <!--RECENT_ACTIVITY:start-->
-1. ![approved] Approved [`#31`](https://github.com/tower-defense-L2/projet-L2/pull/31#pullrequestreview-1356809273) in [tower-defense-L2/projet-L2](https://github.com/tower-defense-L2/projet-L2)
-2. ![approved] Approved [`#31`](https://github.com/tower-defense-L2/projet-L2/pull/31#pullrequestreview-1356809273) in [tower-defense-L2/projet-L2](https://github.com/tower-defense-L2/projet-L2)
-3. ![prMerged] Merged PR [`#30`](https://github.com/tower-defense-L2/projet-L2/pull/30) in [tower-defense-L2/projet-L2](https://github.com/tower-defense-L2/projet-L2)
-4. ![approved] Approved [`#30`](https://github.com/tower-defense-L2/projet-L2/pull/30#pullrequestreview-1356775302) in [tower-defense-L2/projet-L2](https://github.com/tower-defense-L2/projet-L2)
-5. ![prMerged] Merged PR [`#29`](https://github.com/tower-defense-L2/projet-L2/pull/29) in [tower-defense-L2/projet-L2](https://github.com/tower-defense-L2/projet-L2)
-6. ![approved] Approved [`#29`](https://github.com/tower-defense-L2/projet-L2/pull/29#pullrequestreview-1356586201) in [tower-defense-L2/projet-L2](https://github.com/tower-defense-L2/projet-L2)
-7. ![star] Starred [typst/typst](https://github.com/typst/typst)
-8. ![changesRequested] Request changes on [`#29`](https://github.com/tower-defense-L2/projet-L2/pull/29#pullrequestreview-1352460427) in [tower-defense-L2/projet-L2](https://github.com/tower-defense-L2/projet-L2)
-9. ![changesRequested] Request changes on [`#29`](https://github.com/tower-defense-L2/projet-L2/pull/29#pullrequestreview-1352460427) in [tower-defense-L2/projet-L2](https://github.com/tower-defense-L2/projet-L2)
-10. ![changesRequested] Request changes on [`#29`](https://github.com/tower-defense-L2/projet-L2/pull/29#pullrequestreview-1352282677) in [tower-defense-L2/projet-L2](https://github.com/tower-defense-L2/projet-L2)
+1. ![changesRequested] Request changes on [`#36`](https://github.com/tower-defense-L2/projet-L2/pull/36#pullrequestreview-1357042003) in [tower-defense-L2/projet-L2](https://github.com/tower-defense-L2/projet-L2)
+2. ![changesRequested] Request changes on [`#36`](https://github.com/tower-defense-L2/projet-L2/pull/36#pullrequestreview-1357042003) in [tower-defense-L2/projet-L2](https://github.com/tower-defense-L2/projet-L2)
+3. ![prMerged] Merged PR [`#34`](https://github.com/tower-defense-L2/projet-L2/pull/34) in [tower-defense-L2/projet-L2](https://github.com/tower-defense-L2/projet-L2)
+4. ![approved] Approved [`#34`](https://github.com/tower-defense-L2/projet-L2/pull/34#pullrequestreview-1356988089) in [tower-defense-L2/projet-L2](https://github.com/tower-defense-L2/projet-L2)
+5. ![approved] Approved [`#33`](https://github.com/tower-defense-L2/projet-L2/pull/33#pullrequestreview-1356954702) in [tower-defense-L2/projet-L2](https://github.com/tower-defense-L2/projet-L2)
+6. ![changesRequested] Request changes on [`#33`](https://github.com/tower-defense-L2/projet-L2/pull/33#pullrequestreview-1356935054) in [tower-defense-L2/projet-L2](https://github.com/tower-defense-L2/projet-L2)
+7. ![changesRequested] Request changes on [`#33`](https://github.com/tower-defense-L2/projet-L2/pull/33#pullrequestreview-1356935054) in [tower-defense-L2/projet-L2](https://github.com/tower-defense-L2/projet-L2)
+8. ![approved] Approved [`#31`](https://github.com/tower-defense-L2/projet-L2/pull/31#pullrequestreview-1356809273) in [tower-defense-L2/projet-L2](https://github.com/tower-defense-L2/projet-L2)
+9. ![approved] Approved [`#31`](https://github.com/tower-defense-L2/projet-L2/pull/31#pullrequestreview-1356809273) in [tower-defense-L2/projet-L2](https://github.com/tower-defense-L2/projet-L2)
+10. ![prMerged] Merged PR [`#30`](https://github.com/tower-defense-L2/projet-L2/pull/30) in [tower-defense-L2/projet-L2](https://github.com/tower-defense-L2/projet-L2)
 <!--RECENT_ACTIVITY:end-->
 
 </details>
