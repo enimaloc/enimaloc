@@ -22,19 +22,19 @@ languages.
 <summary>My activity on Github</summary>
 
 <!--RECENT_ACTIVITY:last_update-->
-> Last Updated: 28/03 14:30 (Europe/Paris)
+> Last Updated: 28/03 17:16 (Europe/Paris)
 <!--RECENT_ACTIVITY:last_update_end-->
 <!--RECENT_ACTIVITY:start-->
-1. ![fork] Forked [`enimaloc/night-config`](https://github.com/enimaloc/night-config) from [TheElectronWill/night-config](https://github.com/TheElectronWill/night-config)
-2. ![prMerged] Merged PR [`#36`](https://github.com/tower-defense-L2/projet-L2/pull/36) in [tower-defense-L2/projet-L2](https://github.com/tower-defense-L2/projet-L2)
-3. ![approved] Approved [`#36`](https://github.com/tower-defense-L2/projet-L2/pull/36#pullrequestreview-1357279212) in [tower-defense-L2/projet-L2](https://github.com/tower-defense-L2/projet-L2)
-4. ![changesRequested] Request changes on [`#36`](https://github.com/tower-defense-L2/projet-L2/pull/36#pullrequestreview-1357042003) in [tower-defense-L2/projet-L2](https://github.com/tower-defense-L2/projet-L2)
-5. ![changesRequested] Request changes on [`#36`](https://github.com/tower-defense-L2/projet-L2/pull/36#pullrequestreview-1357042003) in [tower-defense-L2/projet-L2](https://github.com/tower-defense-L2/projet-L2)
-6. ![prMerged] Merged PR [`#34`](https://github.com/tower-defense-L2/projet-L2/pull/34) in [tower-defense-L2/projet-L2](https://github.com/tower-defense-L2/projet-L2)
-7. ![approved] Approved [`#34`](https://github.com/tower-defense-L2/projet-L2/pull/34#pullrequestreview-1356988089) in [tower-defense-L2/projet-L2](https://github.com/tower-defense-L2/projet-L2)
-8. ![approved] Approved [`#33`](https://github.com/tower-defense-L2/projet-L2/pull/33#pullrequestreview-1356954702) in [tower-defense-L2/projet-L2](https://github.com/tower-defense-L2/projet-L2)
-9. ![changesRequested] Request changes on [`#33`](https://github.com/tower-defense-L2/projet-L2/pull/33#pullrequestreview-1356935054) in [tower-defense-L2/projet-L2](https://github.com/tower-defense-L2/projet-L2)
-10. ![changesRequested] Request changes on [`#33`](https://github.com/tower-defense-L2/projet-L2/pull/33#pullrequestreview-1356935054) in [tower-defense-L2/projet-L2](https://github.com/tower-defense-L2/projet-L2)
+1. ![approved] Approved [`#40`](https://github.com/tower-defense-L2/projet-L2/pull/40#pullrequestreview-1360897029) in [tower-defense-L2/projet-L2](https://github.com/tower-defense-L2/projet-L2)
+2. ![issueOpened] Opened issue [`#39`](https://github.com/tower-defense-L2/projet-L2/issues/39) in [tower-defense-L2/projet-L2](https://github.com/tower-defense-L2/projet-L2)
+3. ![approved] Approved [`#38`](https://github.com/tower-defense-L2/projet-L2/pull/38#pullrequestreview-1360868533) in [tower-defense-L2/projet-L2](https://github.com/tower-defense-L2/projet-L2)
+4. ![fork] Forked [`enimaloc/night-config`](https://github.com/enimaloc/night-config) from [TheElectronWill/night-config](https://github.com/TheElectronWill/night-config)
+5. ![prMerged] Merged PR [`#36`](https://github.com/tower-defense-L2/projet-L2/pull/36) in [tower-defense-L2/projet-L2](https://github.com/tower-defense-L2/projet-L2)
+6. ![approved] Approved [`#36`](https://github.com/tower-defense-L2/projet-L2/pull/36#pullrequestreview-1357279212) in [tower-defense-L2/projet-L2](https://github.com/tower-defense-L2/projet-L2)
+7. ![changesRequested] Request changes on [`#36`](https://github.com/tower-defense-L2/projet-L2/pull/36#pullrequestreview-1357042003) in [tower-defense-L2/projet-L2](https://github.com/tower-defense-L2/projet-L2)
+8. ![changesRequested] Request changes on [`#36`](https://github.com/tower-defense-L2/projet-L2/pull/36#pullrequestreview-1357042003) in [tower-defense-L2/projet-L2](https://github.com/tower-defense-L2/projet-L2)
+9. ![prMerged] Merged PR [`#34`](https://github.com/tower-defense-L2/projet-L2/pull/34) in [tower-defense-L2/projet-L2](https://github.com/tower-defense-L2/projet-L2)
+10. ![approved] Approved [`#34`](https://github.com/tower-defense-L2/projet-L2/pull/34#pullrequestreview-1356988089) in [tower-defense-L2/projet-L2](https://github.com/tower-defense-L2/projet-L2)
 <!--RECENT_ACTIVITY:end-->
 
 </details>
