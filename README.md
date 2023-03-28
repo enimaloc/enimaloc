@@ -22,7 +22,7 @@ languages.
 <summary>My activity on Github</summary>
 
 <!--RECENT_ACTIVITY:last_update-->
-> Last Updated: 28/03 17:16 (Europe/Paris)
+> Last Updated: 28/03 20:18 (Europe/Paris)
 <!--RECENT_ACTIVITY:last_update_end-->
 <!--RECENT_ACTIVITY:start-->
 1. ![approved] Approved [`#40`](https://github.com/tower-defense-L2/projet-L2/pull/40#pullrequestreview-1360897029) in [tower-defense-L2/projet-L2](https://github.com/tower-defense-L2/projet-L2)
