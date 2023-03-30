@@ -22,19 +22,19 @@ languages.
 <summary>My activity on Github</summary>
 
 <!--RECENT_ACTIVITY:last_update-->
-> Last Updated: 30/03 14:29 (Europe/Paris)
+> Last Updated: 30/03 17:15 (Europe/Paris)
 <!--RECENT_ACTIVITY:last_update_end-->
 <!--RECENT_ACTIVITY:start-->
-1. ![star] Starred [NirmalScaria/le-git-graph](https://github.com/NirmalScaria/le-git-graph)
-2. ![approved] Approved [`#46`](https://github.com/tower-defense-L2/projet-L2/pull/46#pullrequestreview-1361413179) in [tower-defense-L2/projet-L2](https://github.com/tower-defense-L2/projet-L2)
-3. ![approved] Approved [`#45`](https://github.com/tower-defense-L2/projet-L2/pull/45#pullrequestreview-1361387498) in [tower-defense-L2/projet-L2](https://github.com/tower-defense-L2/projet-L2)
-4. ![approved] Approved [`#44`](https://github.com/tower-defense-L2/projet-L2/pull/44#pullrequestreview-1361342444) in [tower-defense-L2/projet-L2](https://github.com/tower-defense-L2/projet-L2)
-5. ![prMerged] Merged PR [`#42`](https://github.com/tower-defense-L2/projet-L2/pull/42) in [tower-defense-L2/projet-L2](https://github.com/tower-defense-L2/projet-L2)
-6. ![approved] Approved [`#42`](https://github.com/tower-defense-L2/projet-L2/pull/42#pullrequestreview-1361289323) in [tower-defense-L2/projet-L2](https://github.com/tower-defense-L2/projet-L2)
-7. ![changesRequested] Request changes on [`#42`](https://github.com/tower-defense-L2/projet-L2/pull/42#pullrequestreview-1361216070) in [tower-defense-L2/projet-L2](https://github.com/tower-defense-L2/projet-L2)
-8. ![changesRequested] Request changes on [`#42`](https://github.com/tower-defense-L2/projet-L2/pull/42#pullrequestreview-1361216070) in [tower-defense-L2/projet-L2](https://github.com/tower-defense-L2/projet-L2)
-9. ![approved] Approved [`#40`](https://github.com/tower-defense-L2/projet-L2/pull/40#pullrequestreview-1360897029) in [tower-defense-L2/projet-L2](https://github.com/tower-defense-L2/projet-L2)
-10. ![issueOpened] Opened issue [`#39`](https://github.com/tower-defense-L2/projet-L2/issues/39) in [tower-defense-L2/projet-L2](https://github.com/tower-defense-L2/projet-L2)
+1. ![prOpened] Opened PR [`#52`](https://github.com/tower-defense-L2/projet-L2/pull/52) in [tower-defense-L2/projet-L2](https://github.com/tower-defense-L2/projet-L2)
+2. ![approved] Approved [`#49`](https://github.com/tower-defense-L2/projet-L2/pull/49#pullrequestreview-1365001226) in [tower-defense-L2/projet-L2](https://github.com/tower-defense-L2/projet-L2)
+3. ![star] Starred [NirmalScaria/le-git-graph](https://github.com/NirmalScaria/le-git-graph)
+4. ![approved] Approved [`#46`](https://github.com/tower-defense-L2/projet-L2/pull/46#pullrequestreview-1361413179) in [tower-defense-L2/projet-L2](https://github.com/tower-defense-L2/projet-L2)
+5. ![approved] Approved [`#45`](https://github.com/tower-defense-L2/projet-L2/pull/45#pullrequestreview-1361387498) in [tower-defense-L2/projet-L2](https://github.com/tower-defense-L2/projet-L2)
+6. ![approved] Approved [`#44`](https://github.com/tower-defense-L2/projet-L2/pull/44#pullrequestreview-1361342444) in [tower-defense-L2/projet-L2](https://github.com/tower-defense-L2/projet-L2)
+7. ![prMerged] Merged PR [`#42`](https://github.com/tower-defense-L2/projet-L2/pull/42) in [tower-defense-L2/projet-L2](https://github.com/tower-defense-L2/projet-L2)
+8. ![approved] Approved [`#42`](https://github.com/tower-defense-L2/projet-L2/pull/42#pullrequestreview-1361289323) in [tower-defense-L2/projet-L2](https://github.com/tower-defense-L2/projet-L2)
+9. ![changesRequested] Request changes on [`#42`](https://github.com/tower-defense-L2/projet-L2/pull/42#pullrequestreview-1361216070) in [tower-defense-L2/projet-L2](https://github.com/tower-defense-L2/projet-L2)
+10. ![changesRequested] Request changes on [`#42`](https://github.com/tower-defense-L2/projet-L2/pull/42#pullrequestreview-1361216070) in [tower-defense-L2/projet-L2](https://github.com/tower-defense-L2/projet-L2)
 <!--RECENT_ACTIVITY:end-->
 
 </details>
