@@ -22,7 +22,7 @@ languages.
 <summary>My activity on Github</summary>
 
 <!--RECENT_ACTIVITY:last_update-->
-> Last Updated: 02/04 14:25 (Europe/Paris)
+> Last Updated: 02/04 17:12 (Europe/Paris)
 <!--RECENT_ACTIVITY:last_update_end-->
 <!--RECENT_ACTIVITY:start-->
 1. ![issueClosed] Closed issue [`#10`](https://github.com/tower-defense-L2/projet-L2/issues/10) in [tower-defense-L2/projet-L2](https://github.com/tower-defense-L2/projet-L2)
