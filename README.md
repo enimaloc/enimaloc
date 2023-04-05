@@ -22,19 +22,19 @@ languages.
 <summary>My activity on Github</summary>
 
 <!--RECENT_ACTIVITY:last_update-->
-> Last Updated: 05/04 11:15 (Europe/Paris)
+> Last Updated: 05/04 14:34 (Europe/Paris)
 <!--RECENT_ACTIVITY:last_update_end-->
 <!--RECENT_ACTIVITY:start-->
-1. ![approved] Approved [`#57`](https://github.com/tower-defense-L2/projet-L2/pull/57#pullrequestreview-1371039636) in [tower-defense-L2/projet-L2](https://github.com/tower-defense-L2/projet-L2)
-2. ![approved] Approved [`#53`](https://github.com/tower-defense-L2/projet-L2/pull/53#pullrequestreview-1370985875) in [tower-defense-L2/projet-L2](https://github.com/tower-defense-L2/projet-L2)
-3. ![changesRequested] Request changes on [`#57`](https://github.com/tower-defense-L2/projet-L2/pull/57#pullrequestreview-1370982624) in [tower-defense-L2/projet-L2](https://github.com/tower-defense-L2/projet-L2)
-4. ![changesRequested] Request changes on [`#57`](https://github.com/tower-defense-L2/projet-L2/pull/57#pullrequestreview-1370982624) in [tower-defense-L2/projet-L2](https://github.com/tower-defense-L2/projet-L2)
-5. ![changesRequested] Request changes on [`#55`](https://github.com/tower-defense-L2/projet-L2/pull/55#pullrequestreview-1370976443) in [tower-defense-L2/projet-L2](https://github.com/tower-defense-L2/projet-L2)
-6. ![changesRequested] Request changes on [`#55`](https://github.com/tower-defense-L2/projet-L2/pull/55#pullrequestreview-1370976443) in [tower-defense-L2/projet-L2](https://github.com/tower-defense-L2/projet-L2)
-7. ![issueClosed] Closed issue [`#10`](https://github.com/tower-defense-L2/projet-L2/issues/10) in [tower-defense-L2/projet-L2](https://github.com/tower-defense-L2/projet-L2)
-8. ![issueClosed] Closed issue [`#39`](https://github.com/tower-defense-L2/projet-L2/issues/39) in [tower-defense-L2/projet-L2](https://github.com/tower-defense-L2/projet-L2)
-9. ![prMerged] Merged PR [`#52`](https://github.com/tower-defense-L2/projet-L2/pull/52) in [tower-defense-L2/projet-L2](https://github.com/tower-defense-L2/projet-L2)
-10. ![prOpened] Opened PR [`#52`](https://github.com/tower-defense-L2/projet-L2/pull/52) in [tower-defense-L2/projet-L2](https://github.com/tower-defense-L2/projet-L2)
+1. ![approved] Approved [`#53`](https://github.com/tower-defense-L2/projet-L2/pull/53#pullrequestreview-1372705846) in [tower-defense-L2/projet-L2](https://github.com/tower-defense-L2/projet-L2)
+2. ![changesRequested] Request changes on [`#53`](https://github.com/tower-defense-L2/projet-L2/pull/53#pullrequestreview-1372684666) in [tower-defense-L2/projet-L2](https://github.com/tower-defense-L2/projet-L2)
+3. ![approved] Approved [`#57`](https://github.com/tower-defense-L2/projet-L2/pull/57#pullrequestreview-1371039636) in [tower-defense-L2/projet-L2](https://github.com/tower-defense-L2/projet-L2)
+4. ![approved] Approved [`#53`](https://github.com/tower-defense-L2/projet-L2/pull/53#pullrequestreview-1370985875) in [tower-defense-L2/projet-L2](https://github.com/tower-defense-L2/projet-L2)
+5. ![changesRequested] Request changes on [`#57`](https://github.com/tower-defense-L2/projet-L2/pull/57#pullrequestreview-1370982624) in [tower-defense-L2/projet-L2](https://github.com/tower-defense-L2/projet-L2)
+6. ![changesRequested] Request changes on [`#57`](https://github.com/tower-defense-L2/projet-L2/pull/57#pullrequestreview-1370982624) in [tower-defense-L2/projet-L2](https://github.com/tower-defense-L2/projet-L2)
+7. ![changesRequested] Request changes on [`#55`](https://github.com/tower-defense-L2/projet-L2/pull/55#pullrequestreview-1370976443) in [tower-defense-L2/projet-L2](https://github.com/tower-defense-L2/projet-L2)
+8. ![changesRequested] Request changes on [`#55`](https://github.com/tower-defense-L2/projet-L2/pull/55#pullrequestreview-1370976443) in [tower-defense-L2/projet-L2](https://github.com/tower-defense-L2/projet-L2)
+9. ![issueClosed] Closed issue [`#10`](https://github.com/tower-defense-L2/projet-L2/issues/10) in [tower-defense-L2/projet-L2](https://github.com/tower-defense-L2/projet-L2)
+10. ![issueClosed] Closed issue [`#39`](https://github.com/tower-defense-L2/projet-L2/issues/39) in [tower-defense-L2/projet-L2](https://github.com/tower-defense-L2/projet-L2)
 <!--RECENT_ACTIVITY:end-->
 
 </details>
