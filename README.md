@@ -22,13 +22,13 @@ languages.
 <summary>My activity on Github</summary>
 
 <!--RECENT_ACTIVITY:last_update-->
-> Last Updated: 22/05 17:14 (Europe/Paris)
+> Last Updated: 22/05 20:16 (Europe/Paris)
 <!--RECENT_ACTIVITY:last_update_end-->
 <!--RECENT_ACTIVITY:start-->
-1. ![star] Starred [emcf/engshell](https://github.com/emcf/engshell)
-2. ![prMerged] Merged PR [`#64`](https://github.com/tower-defense-L2/projet-L2/pull/64) in [tower-defense-L2/projet-L2](https://github.com/tower-defense-L2/projet-L2)
-3. ![approved] Approved [`#53`](https://github.com/tower-defense-L2/projet-L2/pull/53#pullrequestreview-1372705846) in [tower-defense-L2/projet-L2](https://github.com/tower-defense-L2/projet-L2)
-4. ![changesRequested] Request changes on [`#53`](https://github.com/tower-defense-L2/projet-L2/pull/53#pullrequestreview-1372684666) in [tower-defense-L2/projet-L2](https://github.com/tower-defense-L2/projet-L2)
+1. ![fork] Forked [`enimaloc/reposilite`](https://github.com/enimaloc/reposilite) from [dzikoysk/reposilite](https://github.com/dzikoysk/reposilite)
+2. ![issueOpened] Opened issue [`#1825`](https://github.com/dzikoysk/reposilite/issues/1825) in [dzikoysk/reposilite](https://github.com/dzikoysk/reposilite)
+3. ![star] Starred [emcf/engshell](https://github.com/emcf/engshell)
+4. ![prMerged] Merged PR [`#64`](https://github.com/tower-defense-L2/projet-L2/pull/64) in [tower-defense-L2/projet-L2](https://github.com/tower-defense-L2/projet-L2)
 5. ![approved] Approved [`#57`](https://github.com/tower-defense-L2/projet-L2/pull/57#pullrequestreview-1371039636) in [tower-defense-L2/projet-L2](https://github.com/tower-defense-L2/projet-L2)
 6. ![approved] Approved [`#53`](https://github.com/tower-defense-L2/projet-L2/pull/53#pullrequestreview-1370985875) in [tower-defense-L2/projet-L2](https://github.com/tower-defense-L2/projet-L2)
 7. ![changesRequested] Request changes on [`#57`](https://github.com/tower-defense-L2/projet-L2/pull/57#pullrequestreview-1370982624) in [tower-defense-L2/projet-L2](https://github.com/tower-defense-L2/projet-L2)
