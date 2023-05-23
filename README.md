@@ -22,15 +22,15 @@ languages.
 <summary>My activity on Github</summary>
 
 <!--RECENT_ACTIVITY:last_update-->
-> Last Updated: 23/05 20:16 (Europe/Paris)
+> Last Updated: 23/05 23:11 (Europe/Paris)
 <!--RECENT_ACTIVITY:last_update_end-->
 <!--RECENT_ACTIVITY:start-->
-1. ![fork] Forked [`enimaloc/reposilite`](https://github.com/enimaloc/reposilite) from [dzikoysk/reposilite](https://github.com/dzikoysk/reposilite)
-2. ![issueOpened] Opened issue [`#1825`](https://github.com/dzikoysk/reposilite/issues/1825) in [dzikoysk/reposilite](https://github.com/dzikoysk/reposilite)
-3. ![star] Starred [emcf/engshell](https://github.com/emcf/engshell)
-4. ![prMerged] Merged PR [`#64`](https://github.com/tower-defense-L2/projet-L2/pull/64) in [tower-defense-L2/projet-L2](https://github.com/tower-defense-L2/projet-L2)
-5. ![approved] Approved [`#57`](https://github.com/tower-defense-L2/projet-L2/pull/57#pullrequestreview-1371039636) in [tower-defense-L2/projet-L2](https://github.com/tower-defense-L2/projet-L2)
-6. ![approved] Approved [`#53`](https://github.com/tower-defense-L2/projet-L2/pull/53#pullrequestreview-1370985875) in [tower-defense-L2/projet-L2](https://github.com/tower-defense-L2/projet-L2)
+1. ![prMerged] Merged PR [`#1`](https://github.com/enimaloc/skills-introduction-to-github/pull/1) in [enimaloc/skills-introduction-to-github](https://github.com/enimaloc/skills-introduction-to-github)
+2. ![prOpened] Opened PR [`#1`](https://github.com/enimaloc/skills-introduction-to-github/pull/1) in [enimaloc/skills-introduction-to-github](https://github.com/enimaloc/skills-introduction-to-github)
+3. ![repoCreated] Created repository [enimaloc/skills-introduction-to-github](https://github.com/enimaloc/skills-introduction-to-github)
+4. ![fork] Forked [`enimaloc/reposilite`](https://github.com/enimaloc/reposilite) from [dzikoysk/reposilite](https://github.com/dzikoysk/reposilite)
+5. ![issueOpened] Opened issue [`#1825`](https://github.com/dzikoysk/reposilite/issues/1825) in [dzikoysk/reposilite](https://github.com/dzikoysk/reposilite)
+6. ![star] Starred [emcf/engshell](https://github.com/emcf/engshell)
 7. ![changesRequested] Request changes on [`#57`](https://github.com/tower-defense-L2/projet-L2/pull/57#pullrequestreview-1370982624) in [tower-defense-L2/projet-L2](https://github.com/tower-defense-L2/projet-L2)
 8. ![changesRequested] Request changes on [`#57`](https://github.com/tower-defense-L2/projet-L2/pull/57#pullrequestreview-1370982624) in [tower-defense-L2/projet-L2](https://github.com/tower-defense-L2/projet-L2)
 9. ![changesRequested] Request changes on [`#55`](https://github.com/tower-defense-L2/projet-L2/pull/55#pullrequestreview-1370976443) in [tower-defense-L2/projet-L2](https://github.com/tower-defense-L2/projet-L2)
