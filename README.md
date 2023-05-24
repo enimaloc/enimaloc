@@ -22,15 +22,15 @@ languages.
 <summary>My activity on Github</summary>
 
 <!--RECENT_ACTIVITY:last_update-->
-> Last Updated: 24/05 17:14 (Europe/Paris)
+> Last Updated: 24/05 20:16 (Europe/Paris)
 <!--RECENT_ACTIVITY:last_update_end-->
 <!--RECENT_ACTIVITY:start-->
-1. ![prMerged] Merged PR [`#1`](https://github.com/enimaloc/skills-introduction-to-github/pull/1) in [enimaloc/skills-introduction-to-github](https://github.com/enimaloc/skills-introduction-to-github)
-2. ![prOpened] Opened PR [`#1`](https://github.com/enimaloc/skills-introduction-to-github/pull/1) in [enimaloc/skills-introduction-to-github](https://github.com/enimaloc/skills-introduction-to-github)
-3. ![repoCreated] Created repository [enimaloc/skills-introduction-to-github](https://github.com/enimaloc/skills-introduction-to-github)
-4. ![fork] Forked [`enimaloc/reposilite`](https://github.com/enimaloc/reposilite) from [dzikoysk/reposilite](https://github.com/dzikoysk/reposilite)
-5. ![issueOpened] Opened issue [`#1825`](https://github.com/dzikoysk/reposilite/issues/1825) in [dzikoysk/reposilite](https://github.com/dzikoysk/reposilite)
-6. ![star] Starred [emcf/engshell](https://github.com/emcf/engshell)
+1. ![repoCreated] Created repository [KuiperMC/.github](https://github.com/KuiperMC/.github)
+2. ![prMerged] Merged PR [`#1`](https://github.com/enimaloc/skills-introduction-to-github/pull/1) in [enimaloc/skills-introduction-to-github](https://github.com/enimaloc/skills-introduction-to-github)
+3. ![prOpened] Opened PR [`#1`](https://github.com/enimaloc/skills-introduction-to-github/pull/1) in [enimaloc/skills-introduction-to-github](https://github.com/enimaloc/skills-introduction-to-github)
+4. ![repoCreated] Created repository [enimaloc/skills-introduction-to-github](https://github.com/enimaloc/skills-introduction-to-github)
+5. ![fork] Forked [`enimaloc/reposilite`](https://github.com/enimaloc/reposilite) from [dzikoysk/reposilite](https://github.com/dzikoysk/reposilite)
+6. ![issueOpened] Opened issue [`#1825`](https://github.com/dzikoysk/reposilite/issues/1825) in [dzikoysk/reposilite](https://github.com/dzikoysk/reposilite)
 7. ![changesRequested] Request changes on [`#57`](https://github.com/tower-defense-L2/projet-L2/pull/57#pullrequestreview-1370982624) in [tower-defense-L2/projet-L2](https://github.com/tower-defense-L2/projet-L2)
 8. ![changesRequested] Request changes on [`#57`](https://github.com/tower-defense-L2/projet-L2/pull/57#pullrequestreview-1370982624) in [tower-defense-L2/projet-L2](https://github.com/tower-defense-L2/projet-L2)
 9. ![changesRequested] Request changes on [`#55`](https://github.com/tower-defense-L2/projet-L2/pull/55#pullrequestreview-1370976443) in [tower-defense-L2/projet-L2](https://github.com/tower-defense-L2/projet-L2)
