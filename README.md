@@ -22,18 +22,18 @@ languages.
 <summary>My activity on Github</summary>
 
 <!--RECENT_ACTIVITY:last_update-->
-> Last Updated: 30/05 17:13 (Europe/Paris)
+> Last Updated: 30/05 20:16 (Europe/Paris)
 <!--RECENT_ACTIVITY:last_update_end-->
 <!--RECENT_ACTIVITY:start-->
-1. ![prOpened] Opened PR [`#3`](https://github.com/enimaloc/esportlinebot/pull/3) in [enimaloc/esportlinebot](https://github.com/enimaloc/esportlinebot)
-2. ![repoCreated] Created repository [KuiperMC/.github](https://github.com/KuiperMC/.github)
-3. ![prMerged] Merged PR [`#1`](https://github.com/enimaloc/skills-introduction-to-github/pull/1) in [enimaloc/skills-introduction-to-github](https://github.com/enimaloc/skills-introduction-to-github)
-4. ![prOpened] Opened PR [`#1`](https://github.com/enimaloc/skills-introduction-to-github/pull/1) in [enimaloc/skills-introduction-to-github](https://github.com/enimaloc/skills-introduction-to-github)
-5. ![repoCreated] Created repository [enimaloc/skills-introduction-to-github](https://github.com/enimaloc/skills-introduction-to-github)
-6. ![fork] Forked [`enimaloc/reposilite`](https://github.com/enimaloc/reposilite) from [dzikoysk/reposilite](https://github.com/dzikoysk/reposilite)
-7. ![issueOpened] Opened issue [`#1825`](https://github.com/dzikoysk/reposilite/issues/1825) in [dzikoysk/reposilite](https://github.com/dzikoysk/reposilite)
-8. ![changesRequested] Request changes on [`#57`](https://github.com/tower-defense-L2/projet-L2/pull/57#pullrequestreview-1370982624) in [tower-defense-L2/projet-L2](https://github.com/tower-defense-L2/projet-L2)
-9. ![changesRequested] Request changes on [`#55`](https://github.com/tower-defense-L2/projet-L2/pull/55#pullrequestreview-1370976443) in [tower-defense-L2/projet-L2](https://github.com/tower-defense-L2/projet-L2)
+1. ![prMerged] Merged PR [`#4`](https://github.com/enimaloc/esportlinebot/pull/4) in [enimaloc/esportlinebot](https://github.com/enimaloc/esportlinebot)
+2. ![prOpened] Opened PR [`#4`](https://github.com/enimaloc/esportlinebot/pull/4) in [enimaloc/esportlinebot](https://github.com/enimaloc/esportlinebot)
+3. ![prOpened] Opened PR [`#3`](https://github.com/enimaloc/esportlinebot/pull/3) in [enimaloc/esportlinebot](https://github.com/enimaloc/esportlinebot)
+4. ![repoCreated] Created repository [KuiperMC/.github](https://github.com/KuiperMC/.github)
+5. ![prMerged] Merged PR [`#1`](https://github.com/enimaloc/skills-introduction-to-github/pull/1) in [enimaloc/skills-introduction-to-github](https://github.com/enimaloc/skills-introduction-to-github)
+6. ![prOpened] Opened PR [`#1`](https://github.com/enimaloc/skills-introduction-to-github/pull/1) in [enimaloc/skills-introduction-to-github](https://github.com/enimaloc/skills-introduction-to-github)
+7. ![repoCreated] Created repository [enimaloc/skills-introduction-to-github](https://github.com/enimaloc/skills-introduction-to-github)
+8. ![fork] Forked [`enimaloc/reposilite`](https://github.com/enimaloc/reposilite) from [dzikoysk/reposilite](https://github.com/dzikoysk/reposilite)
+9. ![issueOpened] Opened issue [`#1825`](https://github.com/dzikoysk/reposilite/issues/1825) in [dzikoysk/reposilite](https://github.com/dzikoysk/reposilite)
 10. ![changesRequested] Request changes on [`#55`](https://github.com/tower-defense-L2/projet-L2/pull/55#pullrequestreview-1370976443) in [tower-defense-L2/projet-L2](https://github.com/tower-defense-L2/projet-L2)
 <!--RECENT_ACTIVITY:end-->
 
