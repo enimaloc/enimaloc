@@ -22,14 +22,14 @@ languages.
 <summary>My activity on Github</summary>
 
 <!--RECENT_ACTIVITY:last_update-->
-> Last Updated: 06/07 14:34 (Europe/Paris)
+> Last Updated: 06/07 17:17 (Europe/Paris)
 <!--RECENT_ACTIVITY:last_update_end-->
 <!--RECENT_ACTIVITY:start-->
-1. ![prMerged] Merged PR [`#3`](https://github.com/enimaloc/esportlinebot/pull/3) in [enimaloc/esportlinebot](https://github.com/enimaloc/esportlinebot)
-2. ![prMerged] Merged PR [`#4`](https://github.com/enimaloc/esportlinebot/pull/4) in [enimaloc/esportlinebot](https://github.com/enimaloc/esportlinebot)
-3. ![prOpened] Opened PR [`#4`](https://github.com/enimaloc/esportlinebot/pull/4) in [enimaloc/esportlinebot](https://github.com/enimaloc/esportlinebot)
-4. ![prOpened] Opened PR [`#3`](https://github.com/enimaloc/esportlinebot/pull/3) in [enimaloc/esportlinebot](https://github.com/enimaloc/esportlinebot)
-5. ![repoCreated] Created repository [KuiperMC/.github](https://github.com/KuiperMC/.github)
+1. ![star] Starred [nektos/act](https://github.com/nektos/act)
+2. ![prMerged] Merged PR [`#3`](https://github.com/enimaloc/esportlinebot/pull/3) in [enimaloc/esportlinebot](https://github.com/enimaloc/esportlinebot)
+3. ![prMerged] Merged PR [`#4`](https://github.com/enimaloc/esportlinebot/pull/4) in [enimaloc/esportlinebot](https://github.com/enimaloc/esportlinebot)
+4. ![prOpened] Opened PR [`#4`](https://github.com/enimaloc/esportlinebot/pull/4) in [enimaloc/esportlinebot](https://github.com/enimaloc/esportlinebot)
+5. ![prOpened] Opened PR [`#3`](https://github.com/enimaloc/esportlinebot/pull/3) in [enimaloc/esportlinebot](https://github.com/enimaloc/esportlinebot)
 6. ![prMerged] Merged PR [`#1`](https://github.com/enimaloc/skills-introduction-to-github/pull/1) in [enimaloc/skills-introduction-to-github](https://github.com/enimaloc/skills-introduction-to-github)
 7. ![prOpened] Opened PR [`#1`](https://github.com/enimaloc/skills-introduction-to-github/pull/1) in [enimaloc/skills-introduction-to-github](https://github.com/enimaloc/skills-introduction-to-github)
 8. ![repoCreated] Created repository [enimaloc/skills-introduction-to-github](https://github.com/enimaloc/skills-introduction-to-github)
