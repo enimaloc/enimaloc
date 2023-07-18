@@ -22,11 +22,11 @@ languages.
 <summary>My activity on Github</summary>
 
 <!--RECENT_ACTIVITY:last_update-->
-> Last Updated: 18/07 17:15 (Europe/Paris)
+> Last Updated: 18/07 20:18 (Europe/Paris)
 <!--RECENT_ACTIVITY:last_update_end-->
 <!--RECENT_ACTIVITY:start-->
-1. ![star] Starred [nektos/act](https://github.com/nektos/act)
-2. ![prMerged] Merged PR [`#3`](https://github.com/enimaloc/esportlinebot/pull/3) in [enimaloc/esportlinebot](https://github.com/enimaloc/esportlinebot)
+1. ![star] Starred [coaber/DEReactor](https://github.com/coaber/DEReactor)
+2. ![star] Starred [nektos/act](https://github.com/nektos/act)
 3. ![prMerged] Merged PR [`#4`](https://github.com/enimaloc/esportlinebot/pull/4) in [enimaloc/esportlinebot](https://github.com/enimaloc/esportlinebot)
 4. ![prOpened] Opened PR [`#4`](https://github.com/enimaloc/esportlinebot/pull/4) in [enimaloc/esportlinebot](https://github.com/enimaloc/esportlinebot)
 5. ![prOpened] Opened PR [`#3`](https://github.com/enimaloc/esportlinebot/pull/3) in [enimaloc/esportlinebot](https://github.com/enimaloc/esportlinebot)
