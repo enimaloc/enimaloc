@@ -22,14 +22,14 @@ languages.
 <summary>My activity on Github</summary>
 
 <!--RECENT_ACTIVITY:last_update-->
-> Last Updated: 26/08 20:15 (Europe/Paris)
+> Last Updated: 26/08 23:10 (Europe/Paris)
 <!--RECENT_ACTIVITY:last_update_end-->
 <!--RECENT_ACTIVITY:start-->
-1. ![star] Starred [GravenDev/TicketInotelad](https://github.com/GravenDev/TicketInotelad)
-2. ![newRelease] Released [`v1.0`](https://github.com/enimaloc/testUrgtentMessage/releases/tag/1.0) on [enimaloc/testUrgtentMessage](https://github.com/enimaloc/testUrgtentMessage)
-3. ![star] Starred [coaber/DEReactor](https://github.com/coaber/DEReactor)
-4. ![prOpened] Opened PR [`#4`](https://github.com/enimaloc/esportlinebot/pull/4) in [enimaloc/esportlinebot](https://github.com/enimaloc/esportlinebot)
-5. ![prOpened] Opened PR [`#3`](https://github.com/enimaloc/esportlinebot/pull/3) in [enimaloc/esportlinebot](https://github.com/enimaloc/esportlinebot)
+1. ![changesRequested] Request changes on [`#2`](https://github.com/GravenDev/GravenSupport/pull/2#pullrequestreview-1597041758) in [GravenDev/GravenSupport](https://github.com/GravenDev/GravenSupport)
+2. ![changesRequested] Request changes on [`#2`](https://github.com/GravenDev/GravenSupport/pull/2#pullrequestreview-1597041758) in [GravenDev/GravenSupport](https://github.com/GravenDev/GravenSupport)
+3. ![star] Starred [GravenDev/TicketInotelad](https://github.com/GravenDev/TicketInotelad)
+4. ![newRelease] Released [`v1.0`](https://github.com/enimaloc/testUrgtentMessage/releases/tag/1.0) on [enimaloc/testUrgtentMessage](https://github.com/enimaloc/testUrgtentMessage)
+5. ![star] Starred [coaber/DEReactor](https://github.com/coaber/DEReactor)
 6. ![prMerged] Merged PR [`#1`](https://github.com/enimaloc/skills-introduction-to-github/pull/1) in [enimaloc/skills-introduction-to-github](https://github.com/enimaloc/skills-introduction-to-github)
 7. ![prOpened] Opened PR [`#1`](https://github.com/enimaloc/skills-introduction-to-github/pull/1) in [enimaloc/skills-introduction-to-github](https://github.com/enimaloc/skills-introduction-to-github)
 8. ![repoCreated] Created repository [enimaloc/skills-introduction-to-github](https://github.com/enimaloc/skills-introduction-to-github)
