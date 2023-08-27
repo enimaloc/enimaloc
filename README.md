@@ -22,15 +22,15 @@ languages.
 <summary>My activity on Github</summary>
 
 <!--RECENT_ACTIVITY:last_update-->
-> Last Updated: 27/08 05:13 (Europe/Paris)
+> Last Updated: 27/08 08:16 (Europe/Paris)
 <!--RECENT_ACTIVITY:last_update_end-->
 <!--RECENT_ACTIVITY:start-->
-1. ![changesRequested] Request changes on [`#2`](https://github.com/GravenDev/GravenSupport/pull/2#pullrequestreview-1597041758) in [GravenDev/GravenSupport](https://github.com/GravenDev/GravenSupport)
+1. ![approved] Approved [`#2`](https://github.com/GravenDev/GravenSupport/pull/2#pullrequestreview-1597070608) in [GravenDev/GravenSupport](https://github.com/GravenDev/GravenSupport)
 2. ![changesRequested] Request changes on [`#2`](https://github.com/GravenDev/GravenSupport/pull/2#pullrequestreview-1597041758) in [GravenDev/GravenSupport](https://github.com/GravenDev/GravenSupport)
-3. ![star] Starred [GravenDev/TicketInotelad](https://github.com/GravenDev/TicketInotelad)
-4. ![newRelease] Released [`v1.0`](https://github.com/enimaloc/testUrgtentMessage/releases/tag/1.0) on [enimaloc/testUrgtentMessage](https://github.com/enimaloc/testUrgtentMessage)
-5. ![star] Starred [coaber/DEReactor](https://github.com/coaber/DEReactor)
-6. ![prMerged] Merged PR [`#1`](https://github.com/enimaloc/skills-introduction-to-github/pull/1) in [enimaloc/skills-introduction-to-github](https://github.com/enimaloc/skills-introduction-to-github)
+3. ![changesRequested] Request changes on [`#2`](https://github.com/GravenDev/GravenSupport/pull/2#pullrequestreview-1597041758) in [GravenDev/GravenSupport](https://github.com/GravenDev/GravenSupport)
+4. ![star] Starred [GravenDev/TicketInotelad](https://github.com/GravenDev/TicketInotelad)
+5. ![newRelease] Released [`v1.0`](https://github.com/enimaloc/testUrgtentMessage/releases/tag/1.0) on [enimaloc/testUrgtentMessage](https://github.com/enimaloc/testUrgtentMessage)
+6. ![star] Starred [coaber/DEReactor](https://github.com/coaber/DEReactor)
 7. ![prOpened] Opened PR [`#1`](https://github.com/enimaloc/skills-introduction-to-github/pull/1) in [enimaloc/skills-introduction-to-github](https://github.com/enimaloc/skills-introduction-to-github)
 8. ![repoCreated] Created repository [enimaloc/skills-introduction-to-github](https://github.com/enimaloc/skills-introduction-to-github)
 9. ![fork] Forked [`enimaloc/reposilite`](https://github.com/enimaloc/reposilite) from [dzikoysk/reposilite](https://github.com/dzikoysk/reposilite)
