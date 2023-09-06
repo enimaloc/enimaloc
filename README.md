@@ -22,18 +22,18 @@ languages.
 <summary>My activity on Github</summary>
 
 <!--RECENT_ACTIVITY:last_update-->
-> Last Updated: 05/09 23:11 (Europe/Paris)
+> Last Updated: 06/09 02:59 (Europe/Paris)
 <!--RECENT_ACTIVITY:last_update_end-->
 <!--RECENT_ACTIVITY:start-->
-1. ![prOpened] Opened PR [`#20`](https://github.com/discordexperimenthub/deh-bot/pull/20) in [discordexperimenthub/deh-bot](https://github.com/discordexperimenthub/deh-bot)
-2. ![fork] Forked [`enimaloc/deh-bot`](https://github.com/enimaloc/deh-bot) from [discordexperimenthub/deh-bot](https://github.com/discordexperimenthub/deh-bot)
+1. ![star] Starred [SquidDev-CC/cc-prometheus](https://github.com/SquidDev-CC/cc-prometheus)
+2. ![prOpened] Opened PR [`#20`](https://github.com/discordexperimenthub/deh-bot/pull/20) in [discordexperimenthub/deh-bot](https://github.com/discordexperimenthub/deh-bot)
 3. ![fork] Forked [`enimaloc/deh-bot`](https://github.com/enimaloc/deh-bot) from [discordexperimenthub/deh-bot](https://github.com/discordexperimenthub/deh-bot)
-4. ![approved] Approved [`#2`](https://github.com/GravenDev/GravenSupport/pull/2#pullrequestreview-1597070608) in [GravenDev/GravenSupport](https://github.com/GravenDev/GravenSupport)
-5. ![changesRequested] Request changes on [`#2`](https://github.com/GravenDev/GravenSupport/pull/2#pullrequestreview-1597041758) in [GravenDev/GravenSupport](https://github.com/GravenDev/GravenSupport)
+4. ![fork] Forked [`enimaloc/deh-bot`](https://github.com/enimaloc/deh-bot) from [discordexperimenthub/deh-bot](https://github.com/discordexperimenthub/deh-bot)
+5. ![approved] Approved [`#2`](https://github.com/GravenDev/GravenSupport/pull/2#pullrequestreview-1597070608) in [GravenDev/GravenSupport](https://github.com/GravenDev/GravenSupport)
 6. ![changesRequested] Request changes on [`#2`](https://github.com/GravenDev/GravenSupport/pull/2#pullrequestreview-1597041758) in [GravenDev/GravenSupport](https://github.com/GravenDev/GravenSupport)
-7. ![star] Starred [GravenDev/TicketInotelad](https://github.com/GravenDev/TicketInotelad)
-8. ![newRelease] Released [`v1.0`](https://github.com/enimaloc/testUrgtentMessage/releases/tag/1.0) on [enimaloc/testUrgtentMessage](https://github.com/enimaloc/testUrgtentMessage)
-9. ![fork] Forked [`enimaloc/reposilite`](https://github.com/enimaloc/reposilite) from [dzikoysk/reposilite](https://github.com/dzikoysk/reposilite)
+7. ![changesRequested] Request changes on [`#2`](https://github.com/GravenDev/GravenSupport/pull/2#pullrequestreview-1597041758) in [GravenDev/GravenSupport](https://github.com/GravenDev/GravenSupport)
+8. ![star] Starred [GravenDev/TicketInotelad](https://github.com/GravenDev/TicketInotelad)
+9. ![newRelease] Released [`v1.0`](https://github.com/enimaloc/testUrgtentMessage/releases/tag/1.0) on [enimaloc/testUrgtentMessage](https://github.com/enimaloc/testUrgtentMessage)
 10. ![issueOpened] Opened issue [`#1825`](https://github.com/dzikoysk/reposilite/issues/1825) in [dzikoysk/reposilite](https://github.com/dzikoysk/reposilite)
 <!--RECENT_ACTIVITY:end-->
 
