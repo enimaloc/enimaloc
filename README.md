@@ -22,19 +22,19 @@ languages.
 <summary>My activity on Github</summary>
 
 <!--RECENT_ACTIVITY:last_update-->
-> Last Updated: 24/09 20:15 (Europe/Paris)
+> Last Updated: 24/09 23:10 (Europe/Paris)
 <!--RECENT_ACTIVITY:last_update_end-->
 <!--RECENT_ACTIVITY:start-->
-1. ![prMerged] Merged PR [`#1`](https://github.com/enimaloc/JDA-enutils/pull/1) in [enimaloc/JDA-enutils](https://github.com/enimaloc/JDA-enutils)
-2. ![prOpened] Opened PR [`#1`](https://github.com/enimaloc/JDA-enutils/pull/1) in [enimaloc/JDA-enutils](https://github.com/enimaloc/JDA-enutils)
-3. ![star] Starred [SquidDev-CC/cc-prometheus](https://github.com/SquidDev-CC/cc-prometheus)
-4. ![prOpened] Opened PR [`#20`](https://github.com/discordexperimenthub/deh-bot/pull/20) in [discordexperimenthub/deh-bot](https://github.com/discordexperimenthub/deh-bot)
-5. ![fork] Forked [`enimaloc/deh-bot`](https://github.com/enimaloc/deh-bot) from [discordexperimenthub/deh-bot](https://github.com/discordexperimenthub/deh-bot)
-6. ![fork] Forked [`enimaloc/deh-bot`](https://github.com/enimaloc/deh-bot) from [discordexperimenthub/deh-bot](https://github.com/discordexperimenthub/deh-bot)
-7. ![approved] Approved [`#2`](https://github.com/GravenDev/GravenSupport/pull/2#pullrequestreview-1597070608) in [GravenDev/GravenSupport](https://github.com/GravenDev/GravenSupport)
-8. ![changesRequested] Request changes on [`#2`](https://github.com/GravenDev/GravenSupport/pull/2#pullrequestreview-1597041758) in [GravenDev/GravenSupport](https://github.com/GravenDev/GravenSupport)
-9. ![changesRequested] Request changes on [`#2`](https://github.com/GravenDev/GravenSupport/pull/2#pullrequestreview-1597041758) in [GravenDev/GravenSupport](https://github.com/GravenDev/GravenSupport)
-10. ![star] Starred [GravenDev/TicketInotelad](https://github.com/GravenDev/TicketInotelad)
+1. ![prMerged] Merged PR [`#2`](https://github.com/enimaloc/JDA-enutils/pull/2) in [enimaloc/JDA-enutils](https://github.com/enimaloc/JDA-enutils)
+2. ![prOpened] Opened PR [`#2`](https://github.com/enimaloc/JDA-enutils/pull/2) in [enimaloc/JDA-enutils](https://github.com/enimaloc/JDA-enutils)
+3. ![prMerged] Merged PR [`#1`](https://github.com/enimaloc/JDA-enutils/pull/1) in [enimaloc/JDA-enutils](https://github.com/enimaloc/JDA-enutils)
+4. ![prOpened] Opened PR [`#1`](https://github.com/enimaloc/JDA-enutils/pull/1) in [enimaloc/JDA-enutils](https://github.com/enimaloc/JDA-enutils)
+5. ![star] Starred [SquidDev-CC/cc-prometheus](https://github.com/SquidDev-CC/cc-prometheus)
+6. ![prOpened] Opened PR [`#20`](https://github.com/discordexperimenthub/deh-bot/pull/20) in [discordexperimenthub/deh-bot](https://github.com/discordexperimenthub/deh-bot)
+7. ![fork] Forked [`enimaloc/deh-bot`](https://github.com/enimaloc/deh-bot) from [discordexperimenthub/deh-bot](https://github.com/discordexperimenthub/deh-bot)
+8. ![fork] Forked [`enimaloc/deh-bot`](https://github.com/enimaloc/deh-bot) from [discordexperimenthub/deh-bot](https://github.com/discordexperimenthub/deh-bot)
+9. ![approved] Approved [`#2`](https://github.com/GravenDev/GravenSupport/pull/2#pullrequestreview-1597070608) in [GravenDev/GravenSupport](https://github.com/GravenDev/GravenSupport)
+10. ![changesRequested] Request changes on [`#2`](https://github.com/GravenDev/GravenSupport/pull/2#pullrequestreview-1597041758) in [GravenDev/GravenSupport](https://github.com/GravenDev/GravenSupport)
 <!--RECENT_ACTIVITY:end-->
 
 </details>
