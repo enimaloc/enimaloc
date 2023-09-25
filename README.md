@@ -22,19 +22,19 @@ languages.
 <summary>My activity on Github</summary>
 
 <!--RECENT_ACTIVITY:last_update-->
-> Last Updated: 25/09 03:01 (Europe/Paris)
+> Last Updated: 25/09 05:13 (Europe/Paris)
 <!--RECENT_ACTIVITY:last_update_end-->
 <!--RECENT_ACTIVITY:start-->
-1. ![prMerged] Merged PR [`#2`](https://github.com/enimaloc/JDA-enutils/pull/2) in [enimaloc/JDA-enutils](https://github.com/enimaloc/JDA-enutils)
-2. ![prOpened] Opened PR [`#2`](https://github.com/enimaloc/JDA-enutils/pull/2) in [enimaloc/JDA-enutils](https://github.com/enimaloc/JDA-enutils)
-3. ![prMerged] Merged PR [`#1`](https://github.com/enimaloc/JDA-enutils/pull/1) in [enimaloc/JDA-enutils](https://github.com/enimaloc/JDA-enutils)
-4. ![prOpened] Opened PR [`#1`](https://github.com/enimaloc/JDA-enutils/pull/1) in [enimaloc/JDA-enutils](https://github.com/enimaloc/JDA-enutils)
-5. ![star] Starred [SquidDev-CC/cc-prometheus](https://github.com/SquidDev-CC/cc-prometheus)
-6. ![prOpened] Opened PR [`#20`](https://github.com/discordexperimenthub/deh-bot/pull/20) in [discordexperimenthub/deh-bot](https://github.com/discordexperimenthub/deh-bot)
-7. ![fork] Forked [`enimaloc/deh-bot`](https://github.com/enimaloc/deh-bot) from [discordexperimenthub/deh-bot](https://github.com/discordexperimenthub/deh-bot)
+1. ![prOpened] Opened PR [`#3`](https://github.com/enimaloc/JDA-enutils/pull/3) in [enimaloc/JDA-enutils](https://github.com/enimaloc/JDA-enutils)
+2. ![prMerged] Merged PR [`#2`](https://github.com/enimaloc/JDA-enutils/pull/2) in [enimaloc/JDA-enutils](https://github.com/enimaloc/JDA-enutils)
+3. ![prOpened] Opened PR [`#2`](https://github.com/enimaloc/JDA-enutils/pull/2) in [enimaloc/JDA-enutils](https://github.com/enimaloc/JDA-enutils)
+4. ![prMerged] Merged PR [`#1`](https://github.com/enimaloc/JDA-enutils/pull/1) in [enimaloc/JDA-enutils](https://github.com/enimaloc/JDA-enutils)
+5. ![prOpened] Opened PR [`#1`](https://github.com/enimaloc/JDA-enutils/pull/1) in [enimaloc/JDA-enutils](https://github.com/enimaloc/JDA-enutils)
+6. ![star] Starred [SquidDev-CC/cc-prometheus](https://github.com/SquidDev-CC/cc-prometheus)
+7. ![prOpened] Opened PR [`#20`](https://github.com/discordexperimenthub/deh-bot/pull/20) in [discordexperimenthub/deh-bot](https://github.com/discordexperimenthub/deh-bot)
 8. ![fork] Forked [`enimaloc/deh-bot`](https://github.com/enimaloc/deh-bot) from [discordexperimenthub/deh-bot](https://github.com/discordexperimenthub/deh-bot)
-9. ![approved] Approved [`#2`](https://github.com/GravenDev/GravenSupport/pull/2#pullrequestreview-1597070608) in [GravenDev/GravenSupport](https://github.com/GravenDev/GravenSupport)
-10. ![changesRequested] Request changes on [`#2`](https://github.com/GravenDev/GravenSupport/pull/2#pullrequestreview-1597041758) in [GravenDev/GravenSupport](https://github.com/GravenDev/GravenSupport)
+9. ![fork] Forked [`enimaloc/deh-bot`](https://github.com/enimaloc/deh-bot) from [discordexperimenthub/deh-bot](https://github.com/discordexperimenthub/deh-bot)
+10. ![approved] Approved [`#2`](https://github.com/GravenDev/GravenSupport/pull/2#pullrequestreview-1597070608) in [GravenDev/GravenSupport](https://github.com/GravenDev/GravenSupport)
 <!--RECENT_ACTIVITY:end-->
 
 </details>
