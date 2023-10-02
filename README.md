@@ -22,19 +22,19 @@ languages.
 <summary>My activity on Github</summary>
 
 <!--RECENT_ACTIVITY:last_update-->
-> Last Updated: 02/10 08:18 (Europe/Paris)
+> Last Updated: 02/10 11:14 (Europe/Paris)
 <!--RECENT_ACTIVITY:last_update_end-->
 <!--RECENT_ACTIVITY:start-->
-1. ![prMerged] Merged PR [`#6`](https://github.com/enimaloc/JDA-enutils/pull/6) in [enimaloc/JDA-enutils](https://github.com/enimaloc/JDA-enutils)
-2. ![prOpened] Opened PR [`#6`](https://github.com/enimaloc/JDA-enutils/pull/6) in [enimaloc/JDA-enutils](https://github.com/enimaloc/JDA-enutils)
-3. ![prMerged] Merged PR [`#5`](https://github.com/enimaloc/JDA-enutils/pull/5) in [enimaloc/JDA-enutils](https://github.com/enimaloc/JDA-enutils)
-4. ![prOpened] Opened PR [`#5`](https://github.com/enimaloc/JDA-enutils/pull/5) in [enimaloc/JDA-enutils](https://github.com/enimaloc/JDA-enutils)
-5. ![prMerged] Merged PR [`#4`](https://github.com/enimaloc/JDA-enutils/pull/4) in [enimaloc/JDA-enutils](https://github.com/enimaloc/JDA-enutils)
-6. ![prOpened] Opened PR [`#4`](https://github.com/enimaloc/JDA-enutils/pull/4) in [enimaloc/JDA-enutils](https://github.com/enimaloc/JDA-enutils)
-7. ![prMerged] Merged PR [`#3`](https://github.com/enimaloc/JDA-enutils/pull/3) in [enimaloc/JDA-enutils](https://github.com/enimaloc/JDA-enutils)
-8. ![prOpened] Opened PR [`#3`](https://github.com/enimaloc/JDA-enutils/pull/3) in [enimaloc/JDA-enutils](https://github.com/enimaloc/JDA-enutils)
-9. ![prMerged] Merged PR [`#2`](https://github.com/enimaloc/JDA-enutils/pull/2) in [enimaloc/JDA-enutils](https://github.com/enimaloc/JDA-enutils)
-10. ![prOpened] Opened PR [`#2`](https://github.com/enimaloc/JDA-enutils/pull/2) in [enimaloc/JDA-enutils](https://github.com/enimaloc/JDA-enutils)
+1. ![prMerged] Merged PR [`#7`](https://github.com/enimaloc/JDA-enutils/pull/7) in [enimaloc/JDA-enutils](https://github.com/enimaloc/JDA-enutils)
+2. ![prOpened] Opened PR [`#7`](https://github.com/enimaloc/JDA-enutils/pull/7) in [enimaloc/JDA-enutils](https://github.com/enimaloc/JDA-enutils)
+3. ![prMerged] Merged PR [`#6`](https://github.com/enimaloc/JDA-enutils/pull/6) in [enimaloc/JDA-enutils](https://github.com/enimaloc/JDA-enutils)
+4. ![prOpened] Opened PR [`#6`](https://github.com/enimaloc/JDA-enutils/pull/6) in [enimaloc/JDA-enutils](https://github.com/enimaloc/JDA-enutils)
+5. ![prMerged] Merged PR [`#5`](https://github.com/enimaloc/JDA-enutils/pull/5) in [enimaloc/JDA-enutils](https://github.com/enimaloc/JDA-enutils)
+6. ![prOpened] Opened PR [`#5`](https://github.com/enimaloc/JDA-enutils/pull/5) in [enimaloc/JDA-enutils](https://github.com/enimaloc/JDA-enutils)
+7. ![prMerged] Merged PR [`#4`](https://github.com/enimaloc/JDA-enutils/pull/4) in [enimaloc/JDA-enutils](https://github.com/enimaloc/JDA-enutils)
+8. ![prOpened] Opened PR [`#4`](https://github.com/enimaloc/JDA-enutils/pull/4) in [enimaloc/JDA-enutils](https://github.com/enimaloc/JDA-enutils)
+9. ![prMerged] Merged PR [`#3`](https://github.com/enimaloc/JDA-enutils/pull/3) in [enimaloc/JDA-enutils](https://github.com/enimaloc/JDA-enutils)
+10. ![prOpened] Opened PR [`#3`](https://github.com/enimaloc/JDA-enutils/pull/3) in [enimaloc/JDA-enutils](https://github.com/enimaloc/JDA-enutils)
 <!--RECENT_ACTIVITY:end-->
 
 </details>
