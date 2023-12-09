@@ -22,12 +22,12 @@ languages.
 <summary>My activity on Github</summary>
 
 <!--RECENT_ACTIVITY:last_update-->
-> Last Updated: 08/12 22:12 (Europe/Paris)
+> Last Updated: 09/12 02:03 (Europe/Paris)
 <!--RECENT_ACTIVITY:last_update_end-->
 <!--RECENT_ACTIVITY:start-->
-1. ![issueClosed] Closed issue [`#49`](https://github.com/adepierre/SniffCraft/issues/49) in [adepierre/SniffCraft](https://github.com/adepierre/SniffCraft)
-2. ![issueOpened] Opened issue [`#49`](https://github.com/adepierre/SniffCraft/issues/49) in [adepierre/SniffCraft](https://github.com/adepierre/SniffCraft)
-3. ![prMerged] Merged PR [`#9`](https://github.com/enimaloc/JDA-enutils/pull/9) in [enimaloc/JDA-enutils](https://github.com/enimaloc/JDA-enutils)
+1. ![star] Starred [firezone/firezone](https://github.com/firezone/firezone)
+2. ![issueClosed] Closed issue [`#49`](https://github.com/adepierre/SniffCraft/issues/49) in [adepierre/SniffCraft](https://github.com/adepierre/SniffCraft)
+3. ![issueOpened] Opened issue [`#49`](https://github.com/adepierre/SniffCraft/issues/49) in [adepierre/SniffCraft](https://github.com/adepierre/SniffCraft)
 4. ![prOpened] Opened PR [`#9`](https://github.com/enimaloc/JDA-enutils/pull/9) in [enimaloc/JDA-enutils](https://github.com/enimaloc/JDA-enutils)
 5. ![prMerged] Merged PR [`#7`](https://github.com/enimaloc/JDA-enutils/pull/7) in [enimaloc/JDA-enutils](https://github.com/enimaloc/JDA-enutils)
 6. ![prOpened] Opened PR [`#7`](https://github.com/enimaloc/JDA-enutils/pull/7) in [enimaloc/JDA-enutils](https://github.com/enimaloc/JDA-enutils)
