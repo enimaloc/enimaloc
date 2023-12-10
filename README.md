@@ -22,19 +22,19 @@ languages.
 <summary>My activity on Github</summary>
 
 <!--RECENT_ACTIVITY:last_update-->
-> Last Updated: 10/12 19:16 (Europe/Paris)
+> Last Updated: 10/12 22:11 (Europe/Paris)
 <!--RECENT_ACTIVITY:last_update_end-->
 <!--RECENT_ACTIVITY:start-->
-1. ![star] Starred [Heath123/pakkit](https://github.com/Heath123/pakkit)
-2. ![star] Starred [unnamed/creative](https://github.com/unnamed/creative)
-3. ![star] Starred [firezone/firezone](https://github.com/firezone/firezone)
-4. ![issueClosed] Closed issue [`#49`](https://github.com/adepierre/SniffCraft/issues/49) in [adepierre/SniffCraft](https://github.com/adepierre/SniffCraft)
-5. ![issueOpened] Opened issue [`#49`](https://github.com/adepierre/SniffCraft/issues/49) in [adepierre/SniffCraft](https://github.com/adepierre/SniffCraft)
-6. ![prOpened] Opened PR [`#7`](https://github.com/enimaloc/JDA-enutils/pull/7) in [enimaloc/JDA-enutils](https://github.com/enimaloc/JDA-enutils)
-7. ![prMerged] Merged PR [`#6`](https://github.com/enimaloc/JDA-enutils/pull/6) in [enimaloc/JDA-enutils](https://github.com/enimaloc/JDA-enutils)
-8. ![prOpened] Opened PR [`#6`](https://github.com/enimaloc/JDA-enutils/pull/6) in [enimaloc/JDA-enutils](https://github.com/enimaloc/JDA-enutils)
-9. ![prMerged] Merged PR [`#5`](https://github.com/enimaloc/JDA-enutils/pull/5) in [enimaloc/JDA-enutils](https://github.com/enimaloc/JDA-enutils)
-10. ![prOpened] Opened PR [`#5`](https://github.com/enimaloc/JDA-enutils/pull/5) in [enimaloc/JDA-enutils](https://github.com/enimaloc/JDA-enutils)
+1. ![prMerged] Merged PR [`#4`](https://github.com/DivineExodus/server/pull/4) in [DivineExodus/server](https://github.com/DivineExodus/server)
+2. ![prOpened] Opened PR [`#4`](https://github.com/DivineExodus/server/pull/4) in [DivineExodus/server](https://github.com/DivineExodus/server)
+3. ![prMerged] Merged PR [`#3`](https://github.com/DivineExodus/server/pull/3) in [DivineExodus/server](https://github.com/DivineExodus/server)
+4. ![prOpened] Opened PR [`#3`](https://github.com/DivineExodus/server/pull/3) in [DivineExodus/server](https://github.com/DivineExodus/server)
+5. ![issueOpened] Opened issue [`#150`](https://github.com/TheElectronWill/night-config/issues/150) in [TheElectronWill/night-config](https://github.com/TheElectronWill/night-config)
+6. ![star] Starred [Heath123/pakkit](https://github.com/Heath123/pakkit)
+7. ![star] Starred [unnamed/creative](https://github.com/unnamed/creative)
+8. ![star] Starred [firezone/firezone](https://github.com/firezone/firezone)
+9. ![issueClosed] Closed issue [`#49`](https://github.com/adepierre/SniffCraft/issues/49) in [adepierre/SniffCraft](https://github.com/adepierre/SniffCraft)
+10. ![issueOpened] Opened issue [`#49`](https://github.com/adepierre/SniffCraft/issues/49) in [adepierre/SniffCraft](https://github.com/adepierre/SniffCraft)
 <!--RECENT_ACTIVITY:end-->
 
 </details>
