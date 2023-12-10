@@ -22,14 +22,14 @@ languages.
 <summary>My activity on Github</summary>
 
 <!--RECENT_ACTIVITY:last_update-->
-> Last Updated: 10/12 16:12 (Europe/Paris)
+> Last Updated: 10/12 19:16 (Europe/Paris)
 <!--RECENT_ACTIVITY:last_update_end-->
 <!--RECENT_ACTIVITY:start-->
-1. ![star] Starred [firezone/firezone](https://github.com/firezone/firezone)
-2. ![issueClosed] Closed issue [`#49`](https://github.com/adepierre/SniffCraft/issues/49) in [adepierre/SniffCraft](https://github.com/adepierre/SniffCraft)
-3. ![issueOpened] Opened issue [`#49`](https://github.com/adepierre/SniffCraft/issues/49) in [adepierre/SniffCraft](https://github.com/adepierre/SniffCraft)
-4. ![prOpened] Opened PR [`#9`](https://github.com/enimaloc/JDA-enutils/pull/9) in [enimaloc/JDA-enutils](https://github.com/enimaloc/JDA-enutils)
-5. ![prMerged] Merged PR [`#7`](https://github.com/enimaloc/JDA-enutils/pull/7) in [enimaloc/JDA-enutils](https://github.com/enimaloc/JDA-enutils)
+1. ![star] Starred [Heath123/pakkit](https://github.com/Heath123/pakkit)
+2. ![star] Starred [unnamed/creative](https://github.com/unnamed/creative)
+3. ![star] Starred [firezone/firezone](https://github.com/firezone/firezone)
+4. ![issueClosed] Closed issue [`#49`](https://github.com/adepierre/SniffCraft/issues/49) in [adepierre/SniffCraft](https://github.com/adepierre/SniffCraft)
+5. ![issueOpened] Opened issue [`#49`](https://github.com/adepierre/SniffCraft/issues/49) in [adepierre/SniffCraft](https://github.com/adepierre/SniffCraft)
 6. ![prOpened] Opened PR [`#7`](https://github.com/enimaloc/JDA-enutils/pull/7) in [enimaloc/JDA-enutils](https://github.com/enimaloc/JDA-enutils)
 7. ![prMerged] Merged PR [`#6`](https://github.com/enimaloc/JDA-enutils/pull/6) in [enimaloc/JDA-enutils](https://github.com/enimaloc/JDA-enutils)
 8. ![prOpened] Opened PR [`#6`](https://github.com/enimaloc/JDA-enutils/pull/6) in [enimaloc/JDA-enutils](https://github.com/enimaloc/JDA-enutils)
