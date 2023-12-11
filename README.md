@@ -22,19 +22,19 @@ languages.
 <summary>My activity on Github</summary>
 
 <!--RECENT_ACTIVITY:last_update-->
-> Last Updated: 10/12 22:11 (Europe/Paris)
+> Last Updated: 11/12 02:05 (Europe/Paris)
 <!--RECENT_ACTIVITY:last_update_end-->
 <!--RECENT_ACTIVITY:start-->
-1. ![prMerged] Merged PR [`#4`](https://github.com/DivineExodus/server/pull/4) in [DivineExodus/server](https://github.com/DivineExodus/server)
-2. ![prOpened] Opened PR [`#4`](https://github.com/DivineExodus/server/pull/4) in [DivineExodus/server](https://github.com/DivineExodus/server)
-3. ![prMerged] Merged PR [`#3`](https://github.com/DivineExodus/server/pull/3) in [DivineExodus/server](https://github.com/DivineExodus/server)
-4. ![prOpened] Opened PR [`#3`](https://github.com/DivineExodus/server/pull/3) in [DivineExodus/server](https://github.com/DivineExodus/server)
-5. ![issueOpened] Opened issue [`#150`](https://github.com/TheElectronWill/night-config/issues/150) in [TheElectronWill/night-config](https://github.com/TheElectronWill/night-config)
-6. ![star] Starred [Heath123/pakkit](https://github.com/Heath123/pakkit)
-7. ![star] Starred [unnamed/creative](https://github.com/unnamed/creative)
-8. ![star] Starred [firezone/firezone](https://github.com/firezone/firezone)
-9. ![issueClosed] Closed issue [`#49`](https://github.com/adepierre/SniffCraft/issues/49) in [adepierre/SniffCraft](https://github.com/adepierre/SniffCraft)
-10. ![issueOpened] Opened issue [`#49`](https://github.com/adepierre/SniffCraft/issues/49) in [adepierre/SniffCraft](https://github.com/adepierre/SniffCraft)
+1. ![prMerged] Merged PR [`#5`](https://github.com/DivineExodus/server/pull/5) in [DivineExodus/server](https://github.com/DivineExodus/server)
+2. ![prOpened] Opened PR [`#5`](https://github.com/DivineExodus/server/pull/5) in [DivineExodus/server](https://github.com/DivineExodus/server)
+3. ![prMerged] Merged PR [`#4`](https://github.com/DivineExodus/server/pull/4) in [DivineExodus/server](https://github.com/DivineExodus/server)
+4. ![prOpened] Opened PR [`#4`](https://github.com/DivineExodus/server/pull/4) in [DivineExodus/server](https://github.com/DivineExodus/server)
+5. ![prMerged] Merged PR [`#3`](https://github.com/DivineExodus/server/pull/3) in [DivineExodus/server](https://github.com/DivineExodus/server)
+6. ![prOpened] Opened PR [`#3`](https://github.com/DivineExodus/server/pull/3) in [DivineExodus/server](https://github.com/DivineExodus/server)
+7. ![issueOpened] Opened issue [`#150`](https://github.com/TheElectronWill/night-config/issues/150) in [TheElectronWill/night-config](https://github.com/TheElectronWill/night-config)
+8. ![star] Starred [Heath123/pakkit](https://github.com/Heath123/pakkit)
+9. ![star] Starred [unnamed/creative](https://github.com/unnamed/creative)
+10. ![star] Starred [firezone/firezone](https://github.com/firezone/firezone)
 <!--RECENT_ACTIVITY:end-->
 
 </details>
