@@ -22,19 +22,19 @@ languages.
 <summary>My activity on Github</summary>
 
 <!--RECENT_ACTIVITY:last_update-->
-> Last Updated: 19/12 16:14 (Europe/Paris)
+> Last Updated: 19/12 19:14 (Europe/Paris)
 <!--RECENT_ACTIVITY:last_update_end-->
 <!--RECENT_ACTIVITY:start-->
-1. ![prMerged] Merged PR [`#6`](https://github.com/DivineExodus/server/pull/6) in [DivineExodus/server](https://github.com/DivineExodus/server)
-2. ![prOpened] Opened PR [`#6`](https://github.com/DivineExodus/server/pull/6) in [DivineExodus/server](https://github.com/DivineExodus/server)
-3. ![star] Starred [kennytv/Maintenance](https://github.com/kennytv/Maintenance)
-4. ![star] Starred [4drian3d/ChatRegulator](https://github.com/4drian3d/ChatRegulator)
-5. ![star] Starred [4drian3d/EpicGuard](https://github.com/4drian3d/EpicGuard)
-6. ![star] Starred [AlessioDP/OreAnnouncer](https://github.com/AlessioDP/OreAnnouncer)
-7. ![star] Starred [Cubxity/UnifiedMetrics](https://github.com/Cubxity/UnifiedMetrics)
-8. ![star] Starred [plan-player-analytics/Plan](https://github.com/plan-player-analytics/Plan)
-9. ![prMerged] Merged PR [`#5`](https://github.com/DivineExodus/server/pull/5) in [DivineExodus/server](https://github.com/DivineExodus/server)
-10. ![prOpened] Opened PR [`#5`](https://github.com/DivineExodus/server/pull/5) in [DivineExodus/server](https://github.com/DivineExodus/server)
+1. ![star] Starred [SINr-Embeddings/sinr](https://github.com/SINr-Embeddings/sinr)
+2. ![prMerged] Merged PR [`#6`](https://github.com/DivineExodus/server/pull/6) in [DivineExodus/server](https://github.com/DivineExodus/server)
+3. ![prOpened] Opened PR [`#6`](https://github.com/DivineExodus/server/pull/6) in [DivineExodus/server](https://github.com/DivineExodus/server)
+4. ![star] Starred [kennytv/Maintenance](https://github.com/kennytv/Maintenance)
+5. ![star] Starred [4drian3d/ChatRegulator](https://github.com/4drian3d/ChatRegulator)
+6. ![star] Starred [4drian3d/EpicGuard](https://github.com/4drian3d/EpicGuard)
+7. ![star] Starred [AlessioDP/OreAnnouncer](https://github.com/AlessioDP/OreAnnouncer)
+8. ![star] Starred [Cubxity/UnifiedMetrics](https://github.com/Cubxity/UnifiedMetrics)
+9. ![star] Starred [plan-player-analytics/Plan](https://github.com/plan-player-analytics/Plan)
+10. ![prMerged] Merged PR [`#5`](https://github.com/DivineExodus/server/pull/5) in [DivineExodus/server](https://github.com/DivineExodus/server)
 <!--RECENT_ACTIVITY:end-->
 
 </details>
