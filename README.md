@@ -22,19 +22,19 @@ languages.
 <summary>My activity on Github</summary>
 
 <!--RECENT_ACTIVITY:last_update-->
-> Last Updated: 20/12 13:21 (Europe/Paris)
+> Last Updated: 20/12 16:11 (Europe/Paris)
 <!--RECENT_ACTIVITY:last_update_end-->
 <!--RECENT_ACTIVITY:start-->
-1. ![star] Starred [SINr-Embeddings/sinr](https://github.com/SINr-Embeddings/sinr)
-2. ![prMerged] Merged PR [`#6`](https://github.com/DivineExodus/server/pull/6) in [DivineExodus/server](https://github.com/DivineExodus/server)
-3. ![prOpened] Opened PR [`#6`](https://github.com/DivineExodus/server/pull/6) in [DivineExodus/server](https://github.com/DivineExodus/server)
-4. ![star] Starred [kennytv/Maintenance](https://github.com/kennytv/Maintenance)
-5. ![star] Starred [4drian3d/ChatRegulator](https://github.com/4drian3d/ChatRegulator)
-6. ![star] Starred [4drian3d/EpicGuard](https://github.com/4drian3d/EpicGuard)
-7. ![star] Starred [AlessioDP/OreAnnouncer](https://github.com/AlessioDP/OreAnnouncer)
-8. ![star] Starred [Cubxity/UnifiedMetrics](https://github.com/Cubxity/UnifiedMetrics)
-9. ![star] Starred [plan-player-analytics/Plan](https://github.com/plan-player-analytics/Plan)
-10. ![prMerged] Merged PR [`#5`](https://github.com/DivineExodus/server/pull/5) in [DivineExodus/server](https://github.com/DivineExodus/server)
+1. ![issueOpened] Opened issue [`#94`](https://github.com/hollow-cube/minestom-ce/issues/94) in [hollow-cube/minestom-ce](https://github.com/hollow-cube/minestom-ce)
+2. ![star] Starred [SINr-Embeddings/sinr](https://github.com/SINr-Embeddings/sinr)
+3. ![prMerged] Merged PR [`#6`](https://github.com/DivineExodus/server/pull/6) in [DivineExodus/server](https://github.com/DivineExodus/server)
+4. ![prOpened] Opened PR [`#6`](https://github.com/DivineExodus/server/pull/6) in [DivineExodus/server](https://github.com/DivineExodus/server)
+5. ![star] Starred [kennytv/Maintenance](https://github.com/kennytv/Maintenance)
+6. ![star] Starred [4drian3d/ChatRegulator](https://github.com/4drian3d/ChatRegulator)
+7. ![star] Starred [4drian3d/EpicGuard](https://github.com/4drian3d/EpicGuard)
+8. ![star] Starred [AlessioDP/OreAnnouncer](https://github.com/AlessioDP/OreAnnouncer)
+9. ![star] Starred [Cubxity/UnifiedMetrics](https://github.com/Cubxity/UnifiedMetrics)
+10. ![star] Starred [plan-player-analytics/Plan](https://github.com/plan-player-analytics/Plan)
 <!--RECENT_ACTIVITY:end-->
 
 </details>
