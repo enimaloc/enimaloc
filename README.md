@@ -22,19 +22,19 @@ languages.
 <summary>My activity on Github</summary>
 
 <!--RECENT_ACTIVITY:last_update-->
-> Last Updated: 11/01 10:14 (Europe/Paris)
+> Last Updated: 11/01 13:27 (Europe/Paris)
 <!--RECENT_ACTIVITY:last_update_end-->
 <!--RECENT_ACTIVITY:start-->
-1. ![repoCreated] Created repository [enimaloc/respack](https://github.com/enimaloc/respack)
-2. ![star] Starred [Phoenix616/MineDown](https://github.com/Phoenix616/MineDown)
-3. ![prOpened] Opened PR [`#9`](https://github.com/DivineExodus/server/pull/9) in [DivineExodus/server](https://github.com/DivineExodus/server)
-4. ![prMerged] Merged PR [`#8`](https://github.com/DivineExodus/server/pull/8) in [DivineExodus/server](https://github.com/DivineExodus/server)
-5. ![prOpened] Opened PR [`#8`](https://github.com/DivineExodus/server/pull/8) in [DivineExodus/server](https://github.com/DivineExodus/server)
-6. ![prMerged] Merged PR [`#7`](https://github.com/DivineExodus/server/pull/7) in [DivineExodus/server](https://github.com/DivineExodus/server)
-7. ![prOpened] Opened PR [`#7`](https://github.com/DivineExodus/server/pull/7) in [DivineExodus/server](https://github.com/DivineExodus/server)
-8. ![issueOpened] Opened issue [`#94`](https://github.com/hollow-cube/minestom-ce/issues/94) in [hollow-cube/minestom-ce](https://github.com/hollow-cube/minestom-ce)
-9. ![star] Starred [SINr-Embeddings/sinr](https://github.com/SINr-Embeddings/sinr)
-10. ![prMerged] Merged PR [`#6`](https://github.com/DivineExodus/server/pull/6) in [DivineExodus/server](https://github.com/DivineExodus/server)
+1. ![prOpened] Opened PR [`#1`](https://github.com/enimaloc/respack/pull/1) in [enimaloc/respack](https://github.com/enimaloc/respack)
+2. ![repoCreated] Created repository [enimaloc/respack](https://github.com/enimaloc/respack)
+3. ![star] Starred [Phoenix616/MineDown](https://github.com/Phoenix616/MineDown)
+4. ![prOpened] Opened PR [`#9`](https://github.com/DivineExodus/server/pull/9) in [DivineExodus/server](https://github.com/DivineExodus/server)
+5. ![prMerged] Merged PR [`#8`](https://github.com/DivineExodus/server/pull/8) in [DivineExodus/server](https://github.com/DivineExodus/server)
+6. ![prOpened] Opened PR [`#8`](https://github.com/DivineExodus/server/pull/8) in [DivineExodus/server](https://github.com/DivineExodus/server)
+7. ![prMerged] Merged PR [`#7`](https://github.com/DivineExodus/server/pull/7) in [DivineExodus/server](https://github.com/DivineExodus/server)
+8. ![prOpened] Opened PR [`#7`](https://github.com/DivineExodus/server/pull/7) in [DivineExodus/server](https://github.com/DivineExodus/server)
+9. ![issueOpened] Opened issue [`#94`](https://github.com/hollow-cube/minestom-ce/issues/94) in [hollow-cube/minestom-ce](https://github.com/hollow-cube/minestom-ce)
+10. ![star] Starred [SINr-Embeddings/sinr](https://github.com/SINr-Embeddings/sinr)
 <!--RECENT_ACTIVITY:end-->
 
 </details>
