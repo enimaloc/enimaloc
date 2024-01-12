@@ -22,19 +22,19 @@ languages.
 <summary>My activity on Github</summary>
 
 <!--RECENT_ACTIVITY:last_update-->
-> Last Updated: 12/01 10:14 (Europe/Paris)
+> Last Updated: 12/01 13:26 (Europe/Paris)
 <!--RECENT_ACTIVITY:last_update_end-->
 <!--RECENT_ACTIVITY:start-->
-1. ![prMerged] Merged PR [`#1`](https://github.com/projet-gl2/projet/pull/1) in [projet-gl2/projet](https://github.com/projet-gl2/projet)
-2. ![prOpened] Opened PR [`#1`](https://github.com/projet-gl2/projet/pull/1) in [projet-gl2/projet](https://github.com/projet-gl2/projet)
-3. ![fork] Forked [`enimaloc/projet`](https://github.com/enimaloc/projet) from [projet-gl2/projet](https://github.com/projet-gl2/projet)
-4. ![repoCreated] Created repository [projet-gl2/projet](https://github.com/projet-gl2/projet)
-5. ![prOpened] Opened PR [`#1`](https://github.com/enimaloc/respack/pull/1) in [enimaloc/respack](https://github.com/enimaloc/respack)
-6. ![repoCreated] Created repository [enimaloc/respack](https://github.com/enimaloc/respack)
-7. ![star] Starred [Phoenix616/MineDown](https://github.com/Phoenix616/MineDown)
-8. ![prOpened] Opened PR [`#9`](https://github.com/DivineExodus/server/pull/9) in [DivineExodus/server](https://github.com/DivineExodus/server)
-9. ![prMerged] Merged PR [`#8`](https://github.com/DivineExodus/server/pull/8) in [DivineExodus/server](https://github.com/DivineExodus/server)
-10. ![prOpened] Opened PR [`#8`](https://github.com/DivineExodus/server/pull/8) in [DivineExodus/server](https://github.com/DivineExodus/server)
+1. ![prMerged] Merged PR [`#2`](https://github.com/enimaloc/respack/pull/2) in [enimaloc/respack](https://github.com/enimaloc/respack)
+2. ![prMerged] Merged PR [`#4`](https://github.com/enimaloc/respack/pull/4) in [enimaloc/respack](https://github.com/enimaloc/respack)
+3. ![prOpened] Opened PR [`#4`](https://github.com/enimaloc/respack/pull/4) in [enimaloc/respack](https://github.com/enimaloc/respack)
+4. ![prMerged] Merged PR [`#3`](https://github.com/enimaloc/respack/pull/3) in [enimaloc/respack](https://github.com/enimaloc/respack)
+5. ![prOpened] Opened PR [`#3`](https://github.com/enimaloc/respack/pull/3) in [enimaloc/respack](https://github.com/enimaloc/respack)
+6. ![prOpened] Opened PR [`#2`](https://github.com/enimaloc/respack/pull/2) in [enimaloc/respack](https://github.com/enimaloc/respack)
+7. ![prMerged] Merged PR [`#1`](https://github.com/projet-gl2/projet/pull/1) in [projet-gl2/projet](https://github.com/projet-gl2/projet)
+8. ![prOpened] Opened PR [`#1`](https://github.com/projet-gl2/projet/pull/1) in [projet-gl2/projet](https://github.com/projet-gl2/projet)
+9. ![fork] Forked [`enimaloc/projet`](https://github.com/enimaloc/projet) from [projet-gl2/projet](https://github.com/projet-gl2/projet)
+10. ![repoCreated] Created repository [projet-gl2/projet](https://github.com/projet-gl2/projet)
 <!--RECENT_ACTIVITY:end-->
 
 </details>
