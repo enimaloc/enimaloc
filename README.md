@@ -22,19 +22,19 @@ languages.
 <summary>My activity on Github</summary>
 
 <!--RECENT_ACTIVITY:last_update-->
-> Last Updated: 01/02 02:04 (Europe/Paris)
+> Last Updated: 01/02 04:14 (Europe/Paris)
 <!--RECENT_ACTIVITY:last_update_end-->
 <!--RECENT_ACTIVITY:start-->
-1. ![prMerged] Merged PR [`#12`](https://github.com/enimaloc/esportlinebot/pull/12) in [enimaloc/esportlinebot](https://github.com/enimaloc/esportlinebot)
-2. ![prOpened] Opened PR [`#12`](https://github.com/enimaloc/esportlinebot/pull/12) in [enimaloc/esportlinebot](https://github.com/enimaloc/esportlinebot)
-3. ![issueOpened] Opened issue [`#11`](https://github.com/enimaloc/esportlinebot/issues/11) in [enimaloc/esportlinebot](https://github.com/enimaloc/esportlinebot)
-4. ![prMerged] Merged PR [`#8`](https://github.com/enimaloc/esportlinebot/pull/8) in [enimaloc/esportlinebot](https://github.com/enimaloc/esportlinebot)
-5. ![prOpened] Opened PR [`#8`](https://github.com/enimaloc/esportlinebot/pull/8) in [enimaloc/esportlinebot](https://github.com/enimaloc/esportlinebot)
-6. ![prMerged] Merged PR [`#7`](https://github.com/enimaloc/esportlinebot/pull/7) in [enimaloc/esportlinebot](https://github.com/enimaloc/esportlinebot)
-7. ![prOpened] Opened PR [`#7`](https://github.com/enimaloc/esportlinebot/pull/7) in [enimaloc/esportlinebot](https://github.com/enimaloc/esportlinebot)
-8. ![prMerged] Merged PR [`#6`](https://github.com/enimaloc/esportlinebot/pull/6) in [enimaloc/esportlinebot](https://github.com/enimaloc/esportlinebot)
-9. ![prOpened] Opened PR [`#6`](https://github.com/enimaloc/esportlinebot/pull/6) in [enimaloc/esportlinebot](https://github.com/enimaloc/esportlinebot)
-10. ![prMerged] Merged PR [`#5`](https://github.com/enimaloc/esportlinebot/pull/5) in [enimaloc/esportlinebot](https://github.com/enimaloc/esportlinebot)
+1. ![prMerged] Merged PR [`#24`](https://github.com/enimaloc/esportlinebot/pull/24) in [enimaloc/esportlinebot](https://github.com/enimaloc/esportlinebot)
+2. ![prOpened] Opened PR [`#24`](https://github.com/enimaloc/esportlinebot/pull/24) in [enimaloc/esportlinebot](https://github.com/enimaloc/esportlinebot)
+3. ![prMerged] Merged PR [`#23`](https://github.com/enimaloc/esportlinebot/pull/23) in [enimaloc/esportlinebot](https://github.com/enimaloc/esportlinebot)
+4. ![prOpened] Opened PR [`#23`](https://github.com/enimaloc/esportlinebot/pull/23) in [enimaloc/esportlinebot](https://github.com/enimaloc/esportlinebot)
+5. ![prMerged] Merged PR [`#12`](https://github.com/enimaloc/esportlinebot/pull/12) in [enimaloc/esportlinebot](https://github.com/enimaloc/esportlinebot)
+6. ![prOpened] Opened PR [`#12`](https://github.com/enimaloc/esportlinebot/pull/12) in [enimaloc/esportlinebot](https://github.com/enimaloc/esportlinebot)
+7. ![issueOpened] Opened issue [`#11`](https://github.com/enimaloc/esportlinebot/issues/11) in [enimaloc/esportlinebot](https://github.com/enimaloc/esportlinebot)
+8. ![prMerged] Merged PR [`#8`](https://github.com/enimaloc/esportlinebot/pull/8) in [enimaloc/esportlinebot](https://github.com/enimaloc/esportlinebot)
+9. ![prOpened] Opened PR [`#8`](https://github.com/enimaloc/esportlinebot/pull/8) in [enimaloc/esportlinebot](https://github.com/enimaloc/esportlinebot)
+10. ![prMerged] Merged PR [`#7`](https://github.com/enimaloc/esportlinebot/pull/7) in [enimaloc/esportlinebot](https://github.com/enimaloc/esportlinebot)
 <!--RECENT_ACTIVITY:end-->
 
 </details>
