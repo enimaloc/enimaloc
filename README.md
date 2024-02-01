@@ -22,19 +22,19 @@ languages.
 <summary>My activity on Github</summary>
 
 <!--RECENT_ACTIVITY:last_update-->
-> Last Updated: 31/01 22:12 (Europe/Paris)
+> Last Updated: 01/02 02:04 (Europe/Paris)
 <!--RECENT_ACTIVITY:last_update_end-->
 <!--RECENT_ACTIVITY:start-->
-1. ![repoCreated] Created repository [crouservice/crouservice](https://github.com/crouservice/crouservice)
-2. ![changesRequested] Request changes on [`#1`](https://github.com/projet-gl2/Hashimiste/pull/1#pullrequestreview-1851254094) in [projet-gl2/Hashimiste](https://github.com/projet-gl2/Hashimiste)
-3. ![changesRequested] Request changes on [`#1`](https://github.com/projet-gl2/Hashimiste/pull/1#pullrequestreview-1851254094) in [projet-gl2/Hashimiste](https://github.com/projet-gl2/Hashimiste)
-4. ![prMerged] Merged PR [`#3`](https://github.com/projet-gl2/Hashimiste/pull/3) in [projet-gl2/Hashimiste](https://github.com/projet-gl2/Hashimiste)
-5. ![prOpened] Opened PR [`#3`](https://github.com/projet-gl2/Hashimiste/pull/3) in [projet-gl2/Hashimiste](https://github.com/projet-gl2/Hashimiste)
-6. ![prOpened] Opened PR [`#2`](https://github.com/projet-gl2/Hashimiste/pull/2) in [projet-gl2/Hashimiste](https://github.com/projet-gl2/Hashimiste)
-7. ![changesRequested] Request changes on [`#1`](https://github.com/projet-gl2/Hashimiste/pull/1#pullrequestreview-1850507324) in [projet-gl2/Hashimiste](https://github.com/projet-gl2/Hashimiste)
-8. ![changesRequested] Request changes on [`#1`](https://github.com/projet-gl2/Hashimiste/pull/1#pullrequestreview-1850507324) in [projet-gl2/Hashimiste](https://github.com/projet-gl2/Hashimiste)
-9. ![star] Starred [EnricoMi/publish-unit-test-result-action](https://github.com/EnricoMi/publish-unit-test-result-action)
-10. ![repoCreated] Created repository [projet-gl2/Hashimiste](https://github.com/projet-gl2/Hashimiste)
+1. ![prMerged] Merged PR [`#12`](https://github.com/enimaloc/esportlinebot/pull/12) in [enimaloc/esportlinebot](https://github.com/enimaloc/esportlinebot)
+2. ![prOpened] Opened PR [`#12`](https://github.com/enimaloc/esportlinebot/pull/12) in [enimaloc/esportlinebot](https://github.com/enimaloc/esportlinebot)
+3. ![issueOpened] Opened issue [`#11`](https://github.com/enimaloc/esportlinebot/issues/11) in [enimaloc/esportlinebot](https://github.com/enimaloc/esportlinebot)
+4. ![prMerged] Merged PR [`#8`](https://github.com/enimaloc/esportlinebot/pull/8) in [enimaloc/esportlinebot](https://github.com/enimaloc/esportlinebot)
+5. ![prOpened] Opened PR [`#8`](https://github.com/enimaloc/esportlinebot/pull/8) in [enimaloc/esportlinebot](https://github.com/enimaloc/esportlinebot)
+6. ![prMerged] Merged PR [`#7`](https://github.com/enimaloc/esportlinebot/pull/7) in [enimaloc/esportlinebot](https://github.com/enimaloc/esportlinebot)
+7. ![prOpened] Opened PR [`#7`](https://github.com/enimaloc/esportlinebot/pull/7) in [enimaloc/esportlinebot](https://github.com/enimaloc/esportlinebot)
+8. ![prMerged] Merged PR [`#6`](https://github.com/enimaloc/esportlinebot/pull/6) in [enimaloc/esportlinebot](https://github.com/enimaloc/esportlinebot)
+9. ![prOpened] Opened PR [`#6`](https://github.com/enimaloc/esportlinebot/pull/6) in [enimaloc/esportlinebot](https://github.com/enimaloc/esportlinebot)
+10. ![prMerged] Merged PR [`#5`](https://github.com/enimaloc/esportlinebot/pull/5) in [enimaloc/esportlinebot](https://github.com/enimaloc/esportlinebot)
 <!--RECENT_ACTIVITY:end-->
 
 </details>
