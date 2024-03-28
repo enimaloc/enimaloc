@@ -22,18 +22,18 @@ languages.
 <summary>My activity on Github</summary>
 
 <!--RECENT_ACTIVITY:last_update-->
-> Last Updated: 28/03 13:26 (Europe/Paris)
+> Last Updated: 28/03 16:14 (Europe/Paris)
 <!--RECENT_ACTIVITY:last_update_end-->
 <!--RECENT_ACTIVITY:start-->
-1. ![repoCreated] Created repository [NexusMateBot/default](https://github.com/NexusMateBot/default)
-2. ![repoCreated] Created repository [NexusMateBot/discord](https://github.com/NexusMateBot/discord)
-3. ![changesRequested] Request changes on [`#18`](https://github.com/projet-gl2/Hashimiste/pull/18#pullrequestreview-1934276940) in [projet-gl2/Hashimiste](https://github.com/projet-gl2/Hashimiste)
+1. ![prOpened] Opened PR [`#3`](https://github.com/crouservice/crouservice/pull/3) in [crouservice/crouservice](https://github.com/crouservice/crouservice)
+2. ![repoCreated] Created repository [NexusMateBot/default](https://github.com/NexusMateBot/default)
+3. ![repoCreated] Created repository [NexusMateBot/discord](https://github.com/NexusMateBot/discord)
 4. ![changesRequested] Request changes on [`#18`](https://github.com/projet-gl2/Hashimiste/pull/18#pullrequestreview-1934276940) in [projet-gl2/Hashimiste](https://github.com/projet-gl2/Hashimiste)
-5. ![prMerged] Merged PR [`#17`](https://github.com/projet-gl2/Hashimiste/pull/17) in [projet-gl2/Hashimiste](https://github.com/projet-gl2/Hashimiste)
-6. ![repoCreated] Created repository [crouservice/back](https://github.com/crouservice/back)
-7. ![prMerged] Merged PR [`#2`](https://github.com/crouservice/crouservice/pull/2) in [crouservice/crouservice](https://github.com/crouservice/crouservice)
-8. ![prOpened] Opened PR [`#2`](https://github.com/crouservice/crouservice/pull/2) in [crouservice/crouservice](https://github.com/crouservice/crouservice)
-9. ![prOpened] Opened PR [`#17`](https://github.com/projet-gl2/Hashimiste/pull/17) in [projet-gl2/Hashimiste](https://github.com/projet-gl2/Hashimiste)
+5. ![changesRequested] Request changes on [`#18`](https://github.com/projet-gl2/Hashimiste/pull/18#pullrequestreview-1934276940) in [projet-gl2/Hashimiste](https://github.com/projet-gl2/Hashimiste)
+6. ![prMerged] Merged PR [`#17`](https://github.com/projet-gl2/Hashimiste/pull/17) in [projet-gl2/Hashimiste](https://github.com/projet-gl2/Hashimiste)
+7. ![repoCreated] Created repository [crouservice/back](https://github.com/crouservice/back)
+8. ![prMerged] Merged PR [`#2`](https://github.com/crouservice/crouservice/pull/2) in [crouservice/crouservice](https://github.com/crouservice/crouservice)
+9. ![prOpened] Opened PR [`#2`](https://github.com/crouservice/crouservice/pull/2) in [crouservice/crouservice](https://github.com/crouservice/crouservice)
 10. ![prMerged] Merged PR [`#14`](https://github.com/projet-gl2/Hashimiste/pull/14) in [projet-gl2/Hashimiste](https://github.com/projet-gl2/Hashimiste)
 <!--RECENT_ACTIVITY:end-->
 
