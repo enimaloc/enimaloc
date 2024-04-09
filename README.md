@@ -22,19 +22,19 @@ languages.
 <summary>My activity on Github</summary>
 
 <!--RECENT_ACTIVITY:last_update-->
-> Last Updated: 09/04 11:14 (Europe/Paris)
+> Last Updated: 09/04 14:26 (Europe/Paris)
 <!--RECENT_ACTIVITY:last_update_end-->
 <!--RECENT_ACTIVITY:start-->
-1. ![star] Starred [FeedTheMadness/Homepage](https://github.com/FeedTheMadness/Homepage)
-2. ![changesRequested] Request changes on [`#24`](https://github.com/projet-gl2/Hashimiste/pull/24#pullrequestreview-1973792627) in [projet-gl2/Hashimiste](https://github.com/projet-gl2/Hashimiste)
-3. ![changesRequested] Request changes on [`#24`](https://github.com/projet-gl2/Hashimiste/pull/24#pullrequestreview-1973792627) in [projet-gl2/Hashimiste](https://github.com/projet-gl2/Hashimiste)
-4. ![prMerged] Merged PR [`#18`](https://github.com/projet-gl2/Hashimiste/pull/18) in [projet-gl2/Hashimiste](https://github.com/projet-gl2/Hashimiste)
-5. ![approved] Approved [`#18`](https://github.com/projet-gl2/Hashimiste/pull/18#pullrequestreview-1973231350) in [projet-gl2/Hashimiste](https://github.com/projet-gl2/Hashimiste)
-6. ![prMerged] Merged PR [`#23`](https://github.com/projet-gl2/Hashimiste/pull/23) in [projet-gl2/Hashimiste](https://github.com/projet-gl2/Hashimiste)
-7. ![prOpened] Opened PR [`#23`](https://github.com/projet-gl2/Hashimiste/pull/23) in [projet-gl2/Hashimiste](https://github.com/projet-gl2/Hashimiste)
-8. ![prMerged] Merged PR [`#20`](https://github.com/projet-gl2/Hashimiste/pull/20) in [projet-gl2/Hashimiste](https://github.com/projet-gl2/Hashimiste)
-9. ![approved] Approved [`#20`](https://github.com/projet-gl2/Hashimiste/pull/20#pullrequestreview-1972796266) in [projet-gl2/Hashimiste](https://github.com/projet-gl2/Hashimiste)
-10. ![changesRequested] Request changes on [`#20`](https://github.com/projet-gl2/Hashimiste/pull/20#pullrequestreview-1971891134) in [projet-gl2/Hashimiste](https://github.com/projet-gl2/Hashimiste)
+1. ![prMerged] Merged PR [`#25`](https://github.com/projet-gl2/Hashimiste/pull/25) in [projet-gl2/Hashimiste](https://github.com/projet-gl2/Hashimiste)
+2. ![approved] Approved [`#25`](https://github.com/projet-gl2/Hashimiste/pull/25#pullrequestreview-1988804834) in [projet-gl2/Hashimiste](https://github.com/projet-gl2/Hashimiste)
+3. ![star] Starred [FeedTheMadness/Homepage](https://github.com/FeedTheMadness/Homepage)
+4. ![changesRequested] Request changes on [`#24`](https://github.com/projet-gl2/Hashimiste/pull/24#pullrequestreview-1973792627) in [projet-gl2/Hashimiste](https://github.com/projet-gl2/Hashimiste)
+5. ![changesRequested] Request changes on [`#24`](https://github.com/projet-gl2/Hashimiste/pull/24#pullrequestreview-1973792627) in [projet-gl2/Hashimiste](https://github.com/projet-gl2/Hashimiste)
+6. ![prMerged] Merged PR [`#18`](https://github.com/projet-gl2/Hashimiste/pull/18) in [projet-gl2/Hashimiste](https://github.com/projet-gl2/Hashimiste)
+7. ![approved] Approved [`#18`](https://github.com/projet-gl2/Hashimiste/pull/18#pullrequestreview-1973231350) in [projet-gl2/Hashimiste](https://github.com/projet-gl2/Hashimiste)
+8. ![prMerged] Merged PR [`#23`](https://github.com/projet-gl2/Hashimiste/pull/23) in [projet-gl2/Hashimiste](https://github.com/projet-gl2/Hashimiste)
+9. ![prOpened] Opened PR [`#23`](https://github.com/projet-gl2/Hashimiste/pull/23) in [projet-gl2/Hashimiste](https://github.com/projet-gl2/Hashimiste)
+10. ![prMerged] Merged PR [`#20`](https://github.com/projet-gl2/Hashimiste/pull/20) in [projet-gl2/Hashimiste](https://github.com/projet-gl2/Hashimiste)
 <!--RECENT_ACTIVITY:end-->
 
 </details>
