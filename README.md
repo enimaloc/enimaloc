@@ -22,19 +22,19 @@ languages.
 <summary>My activity on Github</summary>
 
 <!--RECENT_ACTIVITY:last_update-->
-> Last Updated: 09/05 23:14 (Europe/Paris)
+> Last Updated: 10/05 03:05 (Europe/Paris)
 <!--RECENT_ACTIVITY:last_update_end-->
 <!--RECENT_ACTIVITY:start-->
-1. ![repoCreated] Created repository [enimaloc/computercraft](https://github.com/enimaloc/computercraft)
-2. ![prMerged] Merged PR [`#31`](https://github.com/projet-gl2/Hashimiste/pull/31) in [projet-gl2/Hashimiste](https://github.com/projet-gl2/Hashimiste)
-3. ![prMerged] Merged PR [`#30`](https://github.com/projet-gl2/Hashimiste/pull/30) in [projet-gl2/Hashimiste](https://github.com/projet-gl2/Hashimiste)
-4. ![prMerged] Merged PR [`#29`](https://github.com/projet-gl2/Hashimiste/pull/29) in [projet-gl2/Hashimiste](https://github.com/projet-gl2/Hashimiste)
-5. ![prMerged] Merged PR [`#28`](https://github.com/projet-gl2/Hashimiste/pull/28) in [projet-gl2/Hashimiste](https://github.com/projet-gl2/Hashimiste)
-6. ![prOpened] Opened PR [`#28`](https://github.com/projet-gl2/Hashimiste/pull/28) in [projet-gl2/Hashimiste](https://github.com/projet-gl2/Hashimiste)
-7. ![prMerged] Merged PR [`#27`](https://github.com/projet-gl2/Hashimiste/pull/27) in [projet-gl2/Hashimiste](https://github.com/projet-gl2/Hashimiste)
-8. ![prMerged] Merged PR [`#26`](https://github.com/projet-gl2/Hashimiste/pull/26) in [projet-gl2/Hashimiste](https://github.com/projet-gl2/Hashimiste)
-9. ![prMerged] Merged PR [`#24`](https://github.com/projet-gl2/Hashimiste/pull/24) in [projet-gl2/Hashimiste](https://github.com/projet-gl2/Hashimiste)
-10. ![prMerged] Merged PR [`#25`](https://github.com/projet-gl2/Hashimiste/pull/25) in [projet-gl2/Hashimiste](https://github.com/projet-gl2/Hashimiste)
+1. ![star] Starred [LooFifteen/MinestomAirConditioner](https://github.com/LooFifteen/MinestomAirConditioner)
+2. ![repoCreated] Created repository [enimaloc/computercraft](https://github.com/enimaloc/computercraft)
+3. ![prMerged] Merged PR [`#31`](https://github.com/projet-gl2/Hashimiste/pull/31) in [projet-gl2/Hashimiste](https://github.com/projet-gl2/Hashimiste)
+4. ![prMerged] Merged PR [`#30`](https://github.com/projet-gl2/Hashimiste/pull/30) in [projet-gl2/Hashimiste](https://github.com/projet-gl2/Hashimiste)
+5. ![prMerged] Merged PR [`#29`](https://github.com/projet-gl2/Hashimiste/pull/29) in [projet-gl2/Hashimiste](https://github.com/projet-gl2/Hashimiste)
+6. ![prMerged] Merged PR [`#28`](https://github.com/projet-gl2/Hashimiste/pull/28) in [projet-gl2/Hashimiste](https://github.com/projet-gl2/Hashimiste)
+7. ![prOpened] Opened PR [`#28`](https://github.com/projet-gl2/Hashimiste/pull/28) in [projet-gl2/Hashimiste](https://github.com/projet-gl2/Hashimiste)
+8. ![prMerged] Merged PR [`#27`](https://github.com/projet-gl2/Hashimiste/pull/27) in [projet-gl2/Hashimiste](https://github.com/projet-gl2/Hashimiste)
+9. ![prMerged] Merged PR [`#26`](https://github.com/projet-gl2/Hashimiste/pull/26) in [projet-gl2/Hashimiste](https://github.com/projet-gl2/Hashimiste)
+10. ![prMerged] Merged PR [`#24`](https://github.com/projet-gl2/Hashimiste/pull/24) in [projet-gl2/Hashimiste](https://github.com/projet-gl2/Hashimiste)
 <!--RECENT_ACTIVITY:end-->
 
 </details>
