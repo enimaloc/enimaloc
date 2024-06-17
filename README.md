@@ -22,19 +22,19 @@ languages.
 <summary>My activity on Github</summary>
 
 <!--RECENT_ACTIVITY:last_update-->
-> Last Updated: 16/06 23:15 (Europe/Paris)
+> Last Updated: 17/06 03:10 (Europe/Paris)
 <!--RECENT_ACTIVITY:last_update_end-->
 <!--RECENT_ACTIVITY:start-->
-1. ![star] Starred [dnhkng/GlaDOS](https://github.com/dnhkng/GlaDOS)
-2. ![star] Starred [LooFifteen/MinestomAirConditioner](https://github.com/LooFifteen/MinestomAirConditioner)
-3. ![repoCreated] Created repository [enimaloc/computercraft](https://github.com/enimaloc/computercraft)
-4. ![prMerged] Merged PR [`#31`](https://github.com/projet-gl2/Hashimiste/pull/31) in [projet-gl2/Hashimiste](https://github.com/projet-gl2/Hashimiste)
-5. ![prMerged] Merged PR [`#30`](https://github.com/projet-gl2/Hashimiste/pull/30) in [projet-gl2/Hashimiste](https://github.com/projet-gl2/Hashimiste)
-6. ![prMerged] Merged PR [`#29`](https://github.com/projet-gl2/Hashimiste/pull/29) in [projet-gl2/Hashimiste](https://github.com/projet-gl2/Hashimiste)
-7. ![prMerged] Merged PR [`#28`](https://github.com/projet-gl2/Hashimiste/pull/28) in [projet-gl2/Hashimiste](https://github.com/projet-gl2/Hashimiste)
-8. ![prOpened] Opened PR [`#28`](https://github.com/projet-gl2/Hashimiste/pull/28) in [projet-gl2/Hashimiste](https://github.com/projet-gl2/Hashimiste)
-9. ![prMerged] Merged PR [`#27`](https://github.com/projet-gl2/Hashimiste/pull/27) in [projet-gl2/Hashimiste](https://github.com/projet-gl2/Hashimiste)
-10. ![prMerged] Merged PR [`#26`](https://github.com/projet-gl2/Hashimiste/pull/26) in [projet-gl2/Hashimiste](https://github.com/projet-gl2/Hashimiste)
+1. ![prMerged] Merged PR [`#57`](https://github.com/enimaloc/esportlinebot/pull/57) in [enimaloc/esportlinebot](https://github.com/enimaloc/esportlinebot)
+2. ![prMerged] Merged PR [`#58`](https://github.com/enimaloc/esportlinebot/pull/58) in [enimaloc/esportlinebot](https://github.com/enimaloc/esportlinebot)
+3. ![prMerged] Merged PR [`#56`](https://github.com/enimaloc/esportlinebot/pull/56) in [enimaloc/esportlinebot](https://github.com/enimaloc/esportlinebot)
+4. ![prMerged] Merged PR [`#52`](https://github.com/enimaloc/esportlinebot/pull/52) in [enimaloc/esportlinebot](https://github.com/enimaloc/esportlinebot)
+5. ![prClosed] Closed PR [`#55`](https://github.com/enimaloc/esportlinebot/pull/55) in [enimaloc/esportlinebot](https://github.com/enimaloc/esportlinebot)
+6. ![prClosed] Closed PR [`#54`](https://github.com/enimaloc/esportlinebot/pull/54) in [enimaloc/esportlinebot](https://github.com/enimaloc/esportlinebot)
+7. ![prClosed] Closed PR [`#53`](https://github.com/enimaloc/esportlinebot/pull/53) in [enimaloc/esportlinebot](https://github.com/enimaloc/esportlinebot)
+8. ![prClosed] Closed PR [`#51`](https://github.com/enimaloc/esportlinebot/pull/51) in [enimaloc/esportlinebot](https://github.com/enimaloc/esportlinebot)
+9. ![prClosed] Closed PR [`#50`](https://github.com/enimaloc/esportlinebot/pull/50) in [enimaloc/esportlinebot](https://github.com/enimaloc/esportlinebot)
+10. ![prMerged] Merged PR [`#49`](https://github.com/enimaloc/esportlinebot/pull/49) in [enimaloc/esportlinebot](https://github.com/enimaloc/esportlinebot)
 <!--RECENT_ACTIVITY:end-->
 
 </details>
