@@ -22,11 +22,11 @@ languages.
 <summary>My activity on Github</summary>
 
 <!--RECENT_ACTIVITY:last_update-->
-> Last Updated: 15/04 08:27 (Europe/Paris)
+> Last Updated: 15/04 11:21 (Europe/Paris)
 <!--RECENT_ACTIVITY:last_update_end-->
 <!--RECENT_ACTIVITY:start-->
-1. ![fork] Forked [`enimaloc/chatty`](https://github.com/enimaloc/chatty) from [chatty/chatty](https://github.com/chatty/chatty)
-2. ![prMerged] Merged PR [`#58`](https://github.com/enimaloc/esportlinebot/pull/58) in [enimaloc/esportlinebot](https://github.com/enimaloc/esportlinebot)
+1. ![star] Starred [romen-h/ONI-Mods](https://github.com/romen-h/ONI-Mods)
+2. ![fork] Forked [`enimaloc/chatty`](https://github.com/enimaloc/chatty) from [chatty/chatty](https://github.com/chatty/chatty)
 3. ![prMerged] Merged PR [`#56`](https://github.com/enimaloc/esportlinebot/pull/56) in [enimaloc/esportlinebot](https://github.com/enimaloc/esportlinebot)
 4. ![prMerged] Merged PR [`#52`](https://github.com/enimaloc/esportlinebot/pull/52) in [enimaloc/esportlinebot](https://github.com/enimaloc/esportlinebot)
 5. ![prClosed] Closed PR [`#55`](https://github.com/enimaloc/esportlinebot/pull/55) in [enimaloc/esportlinebot](https://github.com/enimaloc/esportlinebot)
