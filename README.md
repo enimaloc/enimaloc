@@ -22,11 +22,11 @@ languages.
 <summary>My activity on Github</summary>
 
 <!--RECENT_ACTIVITY:last_update-->
-> Last Updated: 21/05 03:41 (Europe/Paris)
+> Last Updated: 21/05 05:41 (Europe/Paris)
 <!--RECENT_ACTIVITY:last_update_end-->
 <!--RECENT_ACTIVITY:start-->
-1. ![star] Starred [imengyu/ONIModTools](https://github.com/imengyu/ONIModTools)
-2. ![star] Starred [romen-h/ONI-Mods](https://github.com/romen-h/ONI-Mods)
+1. ![issueOpened] Opened issue [`#1`](https://github.com/Jarod-MIDY/hide-blocked-streamers-emotes/issues/1) in [Jarod-MIDY/hide-blocked-streamers-emotes](https://github.com/Jarod-MIDY/hide-blocked-streamers-emotes)
+2. ![star] Starred [imengyu/ONIModTools](https://github.com/imengyu/ONIModTools)
 3. ![fork] Forked [`enimaloc/chatty`](https://github.com/enimaloc/chatty) from [chatty/chatty](https://github.com/chatty/chatty)
 4. ![prMerged] Merged PR [`#52`](https://github.com/enimaloc/esportlinebot/pull/52) in [enimaloc/esportlinebot](https://github.com/enimaloc/esportlinebot)
 5. ![prClosed] Closed PR [`#55`](https://github.com/enimaloc/esportlinebot/pull/55) in [enimaloc/esportlinebot](https://github.com/enimaloc/esportlinebot)
