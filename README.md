@@ -22,12 +22,12 @@ languages.
 <summary>My activity on Github</summary>
 
 <!--RECENT_ACTIVITY:last_update-->
-> Last Updated: 01/07 11:24 (Europe/Paris)
+> Last Updated: 01/07 14:42 (Europe/Paris)
 <!--RECENT_ACTIVITY:last_update_end-->
 <!--RECENT_ACTIVITY:start-->
-1. ![star] Starred [ZGameLogic/Spring-Boot-Starter-Discord](https://github.com/ZGameLogic/Spring-Boot-Starter-Discord)
-2. ![repoCreated] Created repository [enimaloc/SLSearcg](https://github.com/enimaloc/SLSearcg)
-3. ![fork] Forked [`enimaloc/chatty`](https://github.com/enimaloc/chatty) from [chatty/chatty](https://github.com/chatty/chatty)
+1. ![star] Starred [openjdk/jdk](https://github.com/openjdk/jdk)
+2. ![star] Starred [ZGameLogic/Spring-Boot-Starter-Discord](https://github.com/ZGameLogic/Spring-Boot-Starter-Discord)
+3. ![repoCreated] Created repository [enimaloc/SLSearcg](https://github.com/enimaloc/SLSearcg)
 4. ![prMerged] Merged PR [`#52`](https://github.com/enimaloc/esportlinebot/pull/52) in [enimaloc/esportlinebot](https://github.com/enimaloc/esportlinebot)
 5. ![prClosed] Closed PR [`#55`](https://github.com/enimaloc/esportlinebot/pull/55) in [enimaloc/esportlinebot](https://github.com/enimaloc/esportlinebot)
 6. ![prClosed] Closed PR [`#54`](https://github.com/enimaloc/esportlinebot/pull/54) in [enimaloc/esportlinebot](https://github.com/enimaloc/esportlinebot)
