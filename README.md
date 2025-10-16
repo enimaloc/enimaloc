@@ -22,10 +22,10 @@ languages.
 <summary>My activity on Github</summary>
 
 <!--RECENT_ACTIVITY:last_update-->
-> Last Updated: 16/10 17:21 (Europe/Paris)
+> Last Updated: 16/10 20:28 (Europe/Paris)
 <!--RECENT_ACTIVITY:last_update_end-->
 <!--RECENT_ACTIVITY:start-->
-1. ![star] Starred [dancer/Nidalee](https://github.com/dancer/Nidalee)
+1. ![star] Starred [dancer/nidalee](https://github.com/dancer/nidalee)
 2. ![star] Starred [ZGameLogic/Spring-Boot-Starter-Discord](https://github.com/ZGameLogic/Spring-Boot-Starter-Discord)
 3. ![repoCreated] Created repository [enimaloc/SLSearcg](https://github.com/enimaloc/SLSearcg)
 4. ![prMerged] Merged PR [`#52`](https://github.com/enimaloc/esportlinebot/pull/52) in [enimaloc/esportlinebot](https://github.com/enimaloc/esportlinebot)
