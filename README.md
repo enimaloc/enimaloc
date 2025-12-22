@@ -49,7 +49,7 @@ languages.
 </p>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-7%2C005%20hrs%2019%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-7%2C001%20hrs%2031%20mins-blue)
 
 **🐱 My GitHub Data** 
 
@@ -64,7 +64,7 @@ languages.
 > 🔑 22 Private Repositories 
  > 
 
- Last Updated on 21/12/2025 12:43:28 UTC
+ Last Updated on 22/12/2025 01:58:14 UTC
 <!--END_SECTION:waka-->
 
 </details>
