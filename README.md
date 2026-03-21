@@ -22,19 +22,19 @@ languages.
 <summary>My activity on Github</summary>
 
 <!--RECENT_ACTIVITY:last_update-->
-> Last Updated: 21/03 10:33 (Europe/Paris)
+> Last Updated: 21/03 13:52 (Europe/Paris)
 <!--RECENT_ACTIVITY:last_update_end-->
 <!--RECENT_ACTIVITY:start-->
-1. ![star] Starred [yazouv/ElectrumOverlay](https://github.com/yazouv/ElectrumOverlay)
-2. ![star] Starred [Durss/Twitchat](https://github.com/Durss/Twitchat)
-3. ![star] Starred [Durss/TwitchEventSub](https://github.com/Durss/TwitchEventSub)
-4. ![star] Starred [twitchdev/twitch-cli](https://github.com/twitchdev/twitch-cli)
-5. ![issueOpened] Opened issue [`#2`](https://github.com/enimaloc/shortLinkCITest/issues/2) in [enimaloc/shortLinkCITest](https://github.com/enimaloc/shortLinkCITest)
-6. ![issueOpened] Opened issue [`#1`](https://github.com/enimaloc/shortLinkCITest/issues/1) in [enimaloc/shortLinkCITest](https://github.com/enimaloc/shortLinkCITest)
-7. ![prOpened] Opened PR [`#14814`](undefined) in [darkreader/darkreader](https://github.com/darkreader/darkreader)
-8. ![fork] Forked [`enimaloc/darkreader`](https://github.com/enimaloc/darkreader) from [darkreader/darkreader](https://github.com/darkreader/darkreader)
-9. ![star] Starred [grafana/mcp-grafana](https://github.com/grafana/mcp-grafana)
-10. ![prMerged] Merged PR [`#49`](https://github.com/enimaloc/esportlinebot/pull/49) in [enimaloc/esportlinebot](https://github.com/enimaloc/esportlinebot)
+1. ![issueClosed] Closed issue [`#1`](https://github.com/enimaloc/catapult/issues/1) in [enimaloc/catapult](https://github.com/enimaloc/catapult)
+2. ![prOpened] Opened PR [`#12`](undefined) in [enimaloc/catapult](https://github.com/enimaloc/catapult)
+3. ![prOpened] Opened PR [`#11`](undefined) in [enimaloc/catapult](https://github.com/enimaloc/catapult)
+4. ![issueOpened] Opened issue [`#10`](https://github.com/enimaloc/catapult/issues/10) in [enimaloc/catapult](https://github.com/enimaloc/catapult)
+5. ![issueOpened] Opened issue [`#9`](https://github.com/enimaloc/catapult/issues/9) in [enimaloc/catapult](https://github.com/enimaloc/catapult)
+6. ![issueOpened] Opened issue [`#8`](https://github.com/enimaloc/catapult/issues/8) in [enimaloc/catapult](https://github.com/enimaloc/catapult)
+7. ![issueOpened] Opened issue [`#7`](https://github.com/enimaloc/catapult/issues/7) in [enimaloc/catapult](https://github.com/enimaloc/catapult)
+8. ![issueOpened] Opened issue [`#6`](https://github.com/enimaloc/catapult/issues/6) in [enimaloc/catapult](https://github.com/enimaloc/catapult)
+9. ![issueOpened] Opened issue [`#5`](https://github.com/enimaloc/catapult/issues/5) in [enimaloc/catapult](https://github.com/enimaloc/catapult)
+10. ![issueOpened] Opened issue [`#4`](https://github.com/enimaloc/catapult/issues/4) in [enimaloc/catapult](https://github.com/enimaloc/catapult)
 <!--RECENT_ACTIVITY:end-->
 
 </details>
