@@ -22,10 +22,10 @@ languages.
 <summary>My activity on Github</summary>
 
 <!--RECENT_ACTIVITY:last_update-->
-> Last Updated: 09/06 16:53 (Europe/Paris)
+> Last Updated: 09/06 19:23 (Europe/Paris)
 <!--RECENT_ACTIVITY:last_update_end-->
 <!--RECENT_ACTIVITY:start-->
-1. ![prOpened] Opened PR [`#28`](undefined) in [enimaloc/catapult](https://github.com/enimaloc/catapult)
+1. ![star] Starred [MCMi460/NSO-RPC](https://github.com/MCMi460/NSO-RPC)
 2. ![prOpened] Opened PR [`#27`](undefined) in [enimaloc/catapult](https://github.com/enimaloc/catapult)
 3. ![prOpened] Opened PR [`#26`](undefined) in [enimaloc/catapult](https://github.com/enimaloc/catapult)
 4. ![prOpened] Opened PR [`#25`](undefined) in [enimaloc/catapult](https://github.com/enimaloc/catapult)
