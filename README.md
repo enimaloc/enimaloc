@@ -22,11 +22,11 @@ languages.
 <summary>My activity on Github</summary>
 
 <!--RECENT_ACTIVITY:last_update-->
-> Last Updated: 16/07 15:52 (Europe/Paris)
+> Last Updated: 16/07 18:16 (Europe/Paris)
 <!--RECENT_ACTIVITY:last_update_end-->
 <!--RECENT_ACTIVITY:start-->
-1. ![star] Starred [ValveSoftware/halflife](https://github.com/ValveSoftware/halflife)
-2. ![star] Starred [MCMi460/NSO-RPC](https://github.com/MCMi460/NSO-RPC)
+1. ![star] Starred [MixV2/EpicResearch](https://github.com/MixV2/EpicResearch)
+2. ![star] Starred [ValveSoftware/halflife](https://github.com/ValveSoftware/halflife)
 3. ![prOpened] Opened PR [`#26`](undefined) in [enimaloc/catapult](https://github.com/enimaloc/catapult)
 4. ![prOpened] Opened PR [`#25`](undefined) in [enimaloc/catapult](https://github.com/enimaloc/catapult)
 5. ![prOpened] Opened PR [`#24`](undefined) in [enimaloc/catapult](https://github.com/enimaloc/catapult)
