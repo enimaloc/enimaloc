@@ -22,13 +22,13 @@ languages.
 <summary>My activity on Github</summary>
 
 <!--RECENT_ACTIVITY:last_update-->
-> Last Updated: 16/07 18:16 (Europe/Paris)
+> Last Updated: 16/07 21:12 (Europe/Paris)
 <!--RECENT_ACTIVITY:last_update_end-->
 <!--RECENT_ACTIVITY:start-->
-1. ![star] Starred [MixV2/EpicResearch](https://github.com/MixV2/EpicResearch)
-2. ![star] Starred [ValveSoftware/halflife](https://github.com/ValveSoftware/halflife)
-3. ![prOpened] Opened PR [`#26`](undefined) in [enimaloc/catapult](https://github.com/enimaloc/catapult)
-4. ![prOpened] Opened PR [`#25`](undefined) in [enimaloc/catapult](https://github.com/enimaloc/catapult)
+1. ![star] Starred [LeleDerGrasshalmi/FortniteEndpointsDocumentation](https://github.com/LeleDerGrasshalmi/FortniteEndpointsDocumentation)
+2. ![star] Starred [api-evangelist/epic](https://github.com/api-evangelist/epic)
+3. ![star] Starred [MixV2/EpicResearch](https://github.com/MixV2/EpicResearch)
+4. ![star] Starred [ValveSoftware/halflife](https://github.com/ValveSoftware/halflife)
 5. ![prOpened] Opened PR [`#24`](undefined) in [enimaloc/catapult](https://github.com/enimaloc/catapult)
 6. ![prOpened] Opened PR [`#23`](undefined) in [enimaloc/catapult](https://github.com/enimaloc/catapult)
 7. ![prOpened] Opened PR [`#22`](undefined) in [enimaloc/catapult](https://github.com/enimaloc/catapult)
