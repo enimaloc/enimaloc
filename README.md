@@ -49,7 +49,9 @@ languages.
 </p>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-8%2C790%20hrs%2026%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C137%20hrs%2024%20mins-blue?style=flat)
+
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-243%20hrs%204%20mins-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -63,8 +65,32 @@ languages.
  > 
 > 🔑 24 Private Repositories 
  > 
+🤖 **AI Coding This Week** 
 
- Last Updated on 27/07/2026 14:39:49 UTC
+```text
+⏱ AI Coding Time: 25 hrs 51 mins (49.85%)
+
+✍️ 30,552 lines written by AI, 53 lines written by hand (99.83% AI-written)
+
+🔤 1,086,375,182 Input Tokens, 2,630,454 Output Tokens
+
+💵 $3296.82 Estimated AI Cost This Week
+
+🧠 97 AI Sessions, 233 AI Prompts
+
+Sonnet                   27,196 lines        █████████████████████░░░░   85.17 % 
+Haiku                    4,734 lines         ████░░░░░░░░░░░░░░░░░░░░░   14.83 % 
+Opus                     0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+
+🔎 AI Coding Insights:
+🤖 AI-Driven — 99.83% of written lines came from AI
+📚 Verbose Prompter — average 7,677 characters per prompt
+🔁 Iterative Prompter — average 2 prompts per session
+🚀 High AI Trust — 24.02% of changed lines were hand-edited
+```
+
+
+ Last Updated on 28/07/2026 02:42:00 UTC
 <!--END_SECTION:waka-->
 
 </details>
