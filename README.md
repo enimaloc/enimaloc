@@ -22,15 +22,15 @@ languages.
 <summary>My activity on Github</summary>
 
 <!--RECENT_ACTIVITY:last_update-->
-> Last Updated: 30/07 10:27 (Europe/Paris)
+> Last Updated: 30/07 13:07 (Europe/Paris)
 <!--RECENT_ACTIVITY:last_update_end-->
 <!--RECENT_ACTIVITY:start-->
-1. ![star] Starred [TecharoHQ/anubis](https://github.com/TecharoHQ/anubis)
-2. ![star] Starred [LeleDerGrasshalmi/FortniteEndpointsDocumentation](https://github.com/LeleDerGrasshalmi/FortniteEndpointsDocumentation)
-3. ![star] Starred [api-evangelist/epic](https://github.com/api-evangelist/epic)
-4. ![star] Starred [MixV2/EpicResearch](https://github.com/MixV2/EpicResearch)
-5. ![star] Starred [ValveSoftware/halflife](https://github.com/ValveSoftware/halflife)
-6. ![prOpened] Opened PR [`#23`](undefined) in [enimaloc/catapult](https://github.com/enimaloc/catapult)
+1. ![people] Become contributor on [dremixam/CustomRecipes](https://github.com/dremixam/CustomRecipes)
+2. ![star] Starred [TecharoHQ/anubis](https://github.com/TecharoHQ/anubis)
+3. ![star] Starred [LeleDerGrasshalmi/FortniteEndpointsDocumentation](https://github.com/LeleDerGrasshalmi/FortniteEndpointsDocumentation)
+4. ![star] Starred [api-evangelist/epic](https://github.com/api-evangelist/epic)
+5. ![star] Starred [MixV2/EpicResearch](https://github.com/MixV2/EpicResearch)
+6. ![star] Starred [ValveSoftware/halflife](https://github.com/ValveSoftware/halflife)
 7. ![prOpened] Opened PR [`#22`](undefined) in [enimaloc/catapult](https://github.com/enimaloc/catapult)
 8. ![prOpened] Opened PR [`#21`](undefined) in [enimaloc/catapult](https://github.com/enimaloc/catapult)
 9. ![prOpened] Opened PR [`#20`](undefined) in [enimaloc/catapult](https://github.com/enimaloc/catapult)
