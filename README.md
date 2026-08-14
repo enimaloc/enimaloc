@@ -49,9 +49,9 @@ languages.
 </p>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C191%20hrs%2023%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C192%20hrs%2013%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-287%20hrs%2041%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-288%20hrs%2028%20mins-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -68,29 +68,29 @@ languages.
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 24 hrs 18 mins (34.14%)
+⏱ AI Coding Time: 20 hrs 45 mins (31.86%)
 
-✍️ 32,833 lines written by AI, 1,473 lines written by hand (95.71% AI-written)
+✍️ 21,662 lines written by AI, 1,473 lines written by hand (93.63% AI-written)
 
-🔤 214,655,992 Input Tokens, 1,911,169 Output Tokens
+🔤 74,838,357 Input Tokens, 1,677,399 Output Tokens
 
-💵 $559.10 Estimated AI Cost This Week
+💵 $281.80 Estimated AI Cost This Week
 
-🧠 133 AI Sessions, 312 AI Prompts
+🧠 129 AI Sessions, 273 AI Prompts
 
-Sonnet                   28,648 lines        ██████████████████████░░░   86.55 % 
-Haiku                    4,038 lines         ███░░░░░░░░░░░░░░░░░░░░░░   12.20 % 
-Opus                     414 lines           ░░░░░░░░░░░░░░░░░░░░░░░░░   01.25 % 
+Sonnet                   17,499 lines        ████████████████████░░░░░   79.72 % 
+Haiku                    4,038 lines         █████░░░░░░░░░░░░░░░░░░░░   18.40 % 
+Opus                     414 lines           ░░░░░░░░░░░░░░░░░░░░░░░░░   01.89 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 95.71% of written lines came from AI
-📚 Verbose Prompter — average 7,293 characters per prompt
+🤖 AI-Driven — 93.63% of written lines came from AI
+📚 Verbose Prompter — average 7,234 characters per prompt
 🔁 Iterative Prompter — average 2 prompts per session
-🚀 High AI Trust — 5.44% of changed lines were hand-edited
+🚀 High AI Trust — 7.99% of changed lines were hand-edited
 ```
 
 
- Last Updated on 14/08/2026 02:06:27 UTC
+ Last Updated on 14/08/2026 13:10:17 UTC
 <!--END_SECTION:waka-->
 
 </details>
