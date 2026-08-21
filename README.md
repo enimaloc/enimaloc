@@ -68,28 +68,28 @@ languages.
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 11 hrs 48 mins (21.86%)
+⏱ AI Coding Time: 11 hrs (22.53%)
 
-✍️ 4,989 lines written by AI, 2,020 lines written by hand (71.18% AI-written)
+✍️ 4,959 lines written by AI, 2,020 lines written by hand (71.06% AI-written)
 
-🔤 9,199,460 Input Tokens, 944,365 Output Tokens
+🔤 7,179,568 Input Tokens, 878,539 Output Tokens
 
-💵 $98.74 Estimated AI Cost This Week
+💵 $87.58 Estimated AI Cost This Week
 
-🧠 53 AI Sessions, 204 AI Prompts
+🧠 44 AI Sessions, 187 AI Prompts
 
-Sonnet                   5,674 lines         █████████████████████████   100.00 % 
+Sonnet                   5,603 lines         █████████████████████████   100.00 % 
 Opus                     0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 71.18% of written lines came from AI
-📚 Verbose Prompter — average 9,225 characters per prompt
+🤖 AI-Driven — 71.06% of written lines came from AI
+📚 Verbose Prompter — average 8,959 characters per prompt
 🔁 Iterative Prompter — average 4 prompts per session
-🚀 High AI Trust — 26.51% of changed lines were hand-edited
+🚀 High AI Trust — 26.76% of changed lines were hand-edited
 ```
 
 
- Last Updated on 21/08/2026 01:24:07 UTC
+ Last Updated on 21/08/2026 12:51:36 UTC
 <!--END_SECTION:waka-->
 
 </details>
