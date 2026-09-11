@@ -49,6 +49,84 @@ languages.
 </p>
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C240%20hrs%2029%20mins-blue?style=flat)
+
+![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue?style=flat)
+
+**🐱 My GitHub Data** 
+
+> 📦 60.8 kB Used in GitHub's Storage 
+ > 
+> 🏆 1,630 Contributions in the Year 2026
+ > 
+> 🚫 Not Opted to Hire
+ > 
+> 📜 24 Public Repositories 
+ > 
+> 🔑 4 Private Repositories 
+ > 
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                586 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.09 % 
+🌆 Daytime                846 commits         ██████░░░░░░░░░░░░░░░░░░░   24.68 % 
+🌃 Evening                837 commits         ██████░░░░░░░░░░░░░░░░░░░   24.42 % 
+🌙 Night                  1159 commits        ████████░░░░░░░░░░░░░░░░░   33.81 % 
+```
+📅 **I'm Most Productive on Thursday** 
+
+```text
+Monday                   372 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.85 % 
+Tuesday                  372 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.85 % 
+Wednesday                330 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.63 % 
+Thursday                 989 commits         ███████░░░░░░░░░░░░░░░░░░   28.85 % 
+Friday                   605 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.65 % 
+Saturday                 404 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.79 % 
+Sunday                   356 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.39 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Europe/Paris
+
+💬 Programming Languages: 
+Other                    47 hrs 4 mins       █████████████████████░░░░   83.53 % 
+Java                     5 hrs 52 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.43 % 
+Bash                     44 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.31 % 
+HTML                     38 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.13 % 
+Markdown                 22 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.65 % 
+
+🐱‍💻 Projects: 
+Firefox                  47 hrs 57 mins      █████████████████████░░░░   85.10 % 
+discord-monitor          3 hrs 25 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.08 % 
+discord-analyzer-message 1 hr 31 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   02.70 % 
+catapult                 1 hr 19 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   02.36 % 
+cli-tools                54 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.61 % 
+
+💻 Operating System: 
+Linux                    56 hrs 21 mins      █████████████████████████   100.00 % 
+```
+
+**I Mostly Code in Java** 
+
+```text
+Java                     13 repos            ███████████████░░░░░░░░░░   61.90 % 
+Lua                      2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   09.52 % 
+C#                       1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   04.76 % 
+Jupyter Notebook         1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   04.76 % 
+C                        1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   04.76 % 
+```
+
+
+
+**Timeline**
+
+![Lines of Code chart](https://raw.githubusercontent.com/enimaloc/enimaloc/master/assets/bar_graph.png)
+
+
+ Last Updated on 11/09/2026 00:49:10 UTC
 <!--END_SECTION:waka-->
 
 </details>
