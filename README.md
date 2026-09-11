@@ -22,8 +22,19 @@ languages.
 <summary>My activity on Github</summary>
 
 <!--RECENT_ACTIVITY:last_update-->
+> Last Updated: 11/09 02:46 (Europe/Paris)
 <!--RECENT_ACTIVITY:last_update_end-->
 <!--RECENT_ACTIVITY:start-->
+1. ![newRelease] Released [`v0.2.3-BETA`](https://github.com/enimaloc/catapult/releases/tag/v0.2.3-BETA) on [enimaloc/catapult](https://github.com/enimaloc/catapult)
+2. ![newRelease] Released [`v0.2.2-BETA`](https://github.com/enimaloc/catapult/releases/tag/v0.2.2-BETA) on [enimaloc/catapult](https://github.com/enimaloc/catapult)
+3. ![newRelease] Released [`v0.2.1-BETA`](https://github.com/enimaloc/catapult/releases/tag/v0.2.1-BETA) on [enimaloc/catapult](https://github.com/enimaloc/catapult)
+4. ![newRelease] Released [`v0.2.0-BETA`](https://github.com/enimaloc/catapult/releases/tag/v0.2.0-BETA) on [enimaloc/catapult](https://github.com/enimaloc/catapult)
+5. ![newRelease] Released [`v0.1.12-BETA`](https://github.com/enimaloc/catapult/releases/tag/v0.1.12-BETA) on [enimaloc/catapult](https://github.com/enimaloc/catapult)
+6. ![newRelease] Released [`v0.1.11-BETA`](https://github.com/enimaloc/catapult/releases/tag/v0.1.11-BETA) on [enimaloc/catapult](https://github.com/enimaloc/catapult)
+7. ![newRelease] Released [`v0.1.10-BETA`](https://github.com/enimaloc/catapult/releases/tag/v0.1.10-BETA) on [enimaloc/catapult](https://github.com/enimaloc/catapult)
+8. ![newRelease] Released [`v0.1.9-BETA`](https://github.com/enimaloc/catapult/releases/tag/v0.1.9-BETA) on [enimaloc/catapult](https://github.com/enimaloc/catapult)
+9. ![newRelease] Released [`v0.1.8-BETA`](https://github.com/enimaloc/catapult/releases/tag/v0.1.8-BETA) on [enimaloc/catapult](https://github.com/enimaloc/catapult)
+10. ![newRelease] Released [`v0.1.7-BETA`](https://github.com/enimaloc/catapult/releases/tag/v0.1.7-BETA) on [enimaloc/catapult](https://github.com/enimaloc/catapult)
 <!--RECENT_ACTIVITY:end-->
 
 </details>
