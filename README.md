@@ -22,10 +22,10 @@ languages.
 <summary>My activity on Github</summary>
 
 <!--RECENT_ACTIVITY:last_update-->
-> Last Updated: 11/09 02:46 (Europe/Paris)
+> Last Updated: 11/09 05:27 (Europe/Paris)
 <!--RECENT_ACTIVITY:last_update_end-->
 <!--RECENT_ACTIVITY:start-->
-1. ![newRelease] Released [`v0.2.3-BETA`](https://github.com/enimaloc/catapult/releases/tag/v0.2.3-BETA) on [enimaloc/catapult](https://github.com/enimaloc/catapult)
+1. ![newRelease] Released [`v0.2.3-BETA`](https://github.com/enimaloc/catapult/releases/tag/untagged-78f94c2f117ee4ab3458) on [enimaloc/catapult](https://github.com/enimaloc/catapult)
 2. ![newRelease] Released [`v0.2.2-BETA`](https://github.com/enimaloc/catapult/releases/tag/v0.2.2-BETA) on [enimaloc/catapult](https://github.com/enimaloc/catapult)
 3. ![newRelease] Released [`v0.2.1-BETA`](https://github.com/enimaloc/catapult/releases/tag/v0.2.1-BETA) on [enimaloc/catapult](https://github.com/enimaloc/catapult)
 4. ![newRelease] Released [`v0.2.0-BETA`](https://github.com/enimaloc/catapult/releases/tag/v0.2.0-BETA) on [enimaloc/catapult](https://github.com/enimaloc/catapult)
