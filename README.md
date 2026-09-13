@@ -49,7 +49,7 @@ languages.
 </p>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C244%20hrs%209%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C248%20hrs%2046%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue?style=flat)
 
@@ -92,21 +92,21 @@ Sunday                   1445 commits        ███░░░░░░░░�
 🕑︎ Time Zone: Europe/Paris
 
 💬 Programming Languages: 
-Other                    48 hrs 5 mins       ██████████████████████░░░   88.51 % 
-Java                     3 hrs               █░░░░░░░░░░░░░░░░░░░░░░░░   05.53 % 
-Bash                     38 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.19 % 
-YAML                     37 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.16 % 
-Jupyter                  20 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.63 % 
+Other                    40 hrs 22 mins      ████████████████████░░░░░   79.26 % 
+Java                     7 hrs 8 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.01 % 
+YAML                     37 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.24 % 
+Kotlin                   25 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.82 % 
+Bash                     21 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.71 % 
 
 🐱‍💻 Projects: 
-Firefox                  50 hrs 3 mins       ███████████████████████░░   92.14 % 
-catapult                 1 hr 48 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.34 % 
-jircd-v2                 1 hr                ░░░░░░░░░░░░░░░░░░░░░░░░░   01.84 % 
-cli-tools                54 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.67 % 
-workspace                21 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.66 % 
+Firefox                  42 hrs 9 mins       █████████████████████░░░░   82.78 % 
+jircd-v2                 3 hrs 11 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.26 % 
+jmail                    2 hrs 10 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   04.27 % 
+catapult                 1 hr 48 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.56 % 
+cli-tools                54 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.78 % 
 
 💻 Operating System: 
-Linux                    54 hrs 19 mins      █████████████████████████   100.00 % 
+Linux                    50 hrs 55 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Java** 
@@ -126,7 +126,7 @@ C                        1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/enimaloc/enimaloc/master/assets/bar_graph.png)
 
 
- Last Updated on 13/09/2026 01:43:54 UTC
+ Last Updated on 13/09/2026 15:14:09 UTC
 <!--END_SECTION:waka-->
 
 </details>
