@@ -49,7 +49,7 @@ languages.
 </p>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C255%20hrs%2050%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C258%20hrs%208%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-4-blue?style=flat)
 
@@ -57,7 +57,7 @@ languages.
 
 > 📦 61.4 kB Used in GitHub's Storage 
  > 
-> 🏆 2,781 Contributions in the Year 2026
+> 🏆 2,782 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -68,8 +68,8 @@ languages.
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                2922 commits        █████░░░░░░░░░░░░░░░░░░░░   20.88 % 
-🌆 Daytime                4167 commits        ███████░░░░░░░░░░░░░░░░░░   29.77 % 
+🌞 Morning                2922 commits        █████░░░░░░░░░░░░░░░░░░░░   20.87 % 
+🌆 Daytime                4168 commits        ███████░░░░░░░░░░░░░░░░░░   29.78 % 
 🌃 Evening                2135 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.25 % 
 🌙 Night                  4773 commits        █████████░░░░░░░░░░░░░░░░   34.10 % 
 ```
@@ -80,7 +80,7 @@ Monday                   1368 commits        ██░░░░░░░░░�
 Tuesday                  1873 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.38 % 
 Wednesday                1540 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.00 % 
 Thursday                 1993 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.24 % 
-Friday                   3239 commits        ██████░░░░░░░░░░░░░░░░░░░   23.14 % 
+Friday                   3240 commits        ██████░░░░░░░░░░░░░░░░░░░   23.15 % 
 Saturday                 2107 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.05 % 
 Sunday                   1877 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.41 % 
 ```
@@ -92,21 +92,21 @@ Sunday                   1877 commits        ███░░░░░░░░�
 🕑︎ Time Zone: Europe/Paris
 
 💬 Programming Languages: 
-Other                    35 hrs 46 mins      █████████████████░░░░░░░░   68.63 % 
-Java                     12 hrs 22 mins      ██████░░░░░░░░░░░░░░░░░░░   23.73 % 
-YAML                     57 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.85 % 
-Java Properties          26 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.84 % 
-Kotlin                   23 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.77 % 
+Other                    38 hrs 28 mins      █████████████████░░░░░░░░   69.43 % 
+Java                     13 hrs 25 mins      ██████░░░░░░░░░░░░░░░░░░░   24.22 % 
+YAML                     52 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.59 % 
+Java Properties          29 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.89 % 
+Kotlin                   24 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.74 % 
 
 🐱‍💻 Projects: 
-Firefox                  37 hrs 39 mins      ██████████████████░░░░░░░   72.24 % 
-catapult                 5 hrs 38 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.83 % 
-jmail                    4 hrs 23 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.42 % 
-jircd-v2                 3 hrs 34 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.87 % 
-workspace                21 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.69 % 
+Firefox                  40 hrs 27 mins      ██████████████████░░░░░░░   73.00 % 
+catapult                 6 hrs 23 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.53 % 
+jmail                    4 hrs 23 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.92 % 
+jircd-v2                 3 hrs 34 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.46 % 
+k8s-manifests            19 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.58 % 
 
 💻 Operating System: 
-Linux                    52 hrs 7 mins       █████████████████████████   100.00 % 
+Linux                    55 hrs 25 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Java** 
@@ -126,7 +126,7 @@ C                        1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/enimaloc/enimaloc/master/assets/bar_graph.png)
 
 
- Last Updated on 18/09/2026 01:54:12 UTC
+ Last Updated on 18/09/2026 15:23:07 UTC
 <!--END_SECTION:waka-->
 
 </details>
