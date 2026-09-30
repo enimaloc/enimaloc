@@ -49,7 +49,7 @@ languages.
 </p>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C273%20hrs%208%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C276%20hrs%2033%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-6-blue?style=flat)
 
@@ -92,21 +92,21 @@ Sunday                   3651 commits        ███░░░░░░░░�
 🕑︎ Time Zone: Europe/Paris
 
 💬 Programming Languages: 
-Other                    31 hrs 49 mins      ████████████████████░░░░░   78.23 % 
-Java                     4 hrs 50 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.91 % 
-HTML                     1 hr 36 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.96 % 
-YAML                     1 hr 20 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.30 % 
-JavaScript               27 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.15 % 
+Other                    34 hrs 17 mins      ████████████████████░░░░░   78.58 % 
+Java                     5 hrs 39 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.97 % 
+YAML                     1 hr 30 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.46 % 
+HTML                     1 hr 15 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   02.89 % 
+JavaScript               16 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.63 % 
 
 🐱‍💻 Projects: 
-Firefox                  32 hrs 49 mins      ████████████████████░░░░░   80.69 % 
-catapult                 6 hrs 46 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.64 % 
-k8s-manifests            44 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.82 % 
-discord-analyzer-message 15 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.65 % 
-catapult-fix-ia-disclosur2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 % 
+Firefox                  35 hrs 36 mins      ████████████████████░░░░░   81.58 % 
+catapult                 4 hrs 49 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.05 % 
+launchit                 2 hrs 1 min         █░░░░░░░░░░░░░░░░░░░░░░░░   04.65 % 
+k8s-manifests            50 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.92 % 
+discord-analyzer-message 15 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.60 % 
 
 💻 Operating System: 
-Linux                    40 hrs 40 mins      █████████████████████████   100.00 % 
+Linux                    43 hrs 38 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Java** 
@@ -126,7 +126,7 @@ C                        1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/enimaloc/enimaloc/master/assets/bar_graph.png)
 
 
- Last Updated on 30/09/2026 02:46:37 UTC
+ Last Updated on 30/09/2026 17:12:32 UTC
 <!--END_SECTION:waka-->
 
 </details>
