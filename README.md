@@ -92,21 +92,21 @@ Sunday                   3651 commits        ███░░░░░░░░�
 🕑︎ Time Zone: Europe/Paris
 
 💬 Programming Languages: 
-Other                    34 hrs 17 mins      ████████████████████░░░░░   78.58 % 
-Java                     5 hrs 39 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.97 % 
-YAML                     1 hr 30 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.46 % 
-HTML                     1 hr 15 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   02.89 % 
-JavaScript               16 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.63 % 
+Other                    35 hrs 15 mins      ████████████████████░░░░░   79.90 % 
+Java                     4 hrs 50 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.98 % 
+YAML                     1 hr 31 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.44 % 
+HTML                     1 hr 21 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.08 % 
+JavaScript               35 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.34 % 
 
 🐱‍💻 Projects: 
-Firefox                  35 hrs 36 mins      ████████████████████░░░░░   81.58 % 
-catapult                 4 hrs 49 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.05 % 
-launchit                 2 hrs 1 min         █░░░░░░░░░░░░░░░░░░░░░░░░   04.65 % 
+Firefox                  36 hrs 23 mins      █████████████████████░░░░   82.48 % 
+catapult                 4 hrs 48 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.91 % 
+launchit                 2 hrs 1 min         █░░░░░░░░░░░░░░░░░░░░░░░░   04.60 % 
 k8s-manifests            50 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.92 % 
-discord-analyzer-message 15 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.60 % 
+esportline               1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 % 
 
 💻 Operating System: 
-Linux                    43 hrs 38 mins      █████████████████████████   100.00 % 
+Linux                    44 hrs 7 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Java** 
@@ -126,7 +126,7 @@ C                        1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/enimaloc/enimaloc/master/assets/bar_graph.png)
 
 
- Last Updated on 30/09/2026 17:12:32 UTC
+ Last Updated on 01/10/2026 02:49:59 UTC
 <!--END_SECTION:waka-->
 
 </details>
