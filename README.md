@@ -92,21 +92,21 @@ Sunday                   3651 commits        ███░░░░░░░░�
 🕑︎ Time Zone: Europe/Paris
 
 💬 Programming Languages: 
-Other                    35 hrs 34 mins      ████████████████████░░░░░   80.55 % 
-Java                     4 hrs 5 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.28 % 
-HTML                     1 hr 37 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.67 % 
-YAML                     1 hr 31 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.44 % 
-JavaScript               45 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.73 % 
+Other                    32 hrs 31 mins      ████████████████████░░░░░   81.27 % 
+Java                     3 hrs 22 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.42 % 
+HTML                     1 hr 31 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.80 % 
+YAML                     1 hr 29 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.71 % 
+JavaScript               34 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.43 % 
 
 🐱‍💻 Projects: 
-Firefox                  36 hrs 42 mins      █████████████████████░░░░   83.13 % 
-catapult                 4 hrs 32 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.27 % 
-launchit                 2 hrs 1 min         █░░░░░░░░░░░░░░░░░░░░░░░░   04.60 % 
-k8s-manifests            50 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.92 % 
-esportline               1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 % 
+Firefox                  33 hrs 34 mins      █████████████████████░░░░   83.90 % 
+catapult                 3 hrs 34 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.93 % 
+launchit                 2 hrs 1 min         █░░░░░░░░░░░░░░░░░░░░░░░░   05.07 % 
+k8s-manifests            50 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.09 % 
+esportline               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
 
 💻 Operating System: 
-Linux                    44 hrs 9 mins       █████████████████████████   100.00 % 
+Linux                    40 hrs 1 min        █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Java** 
@@ -126,7 +126,7 @@ C                        1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/enimaloc/enimaloc/master/assets/bar_graph.png)
 
 
- Last Updated on 02/10/2026 17:00:34 UTC
+ Last Updated on 03/10/2026 02:40:57 UTC
 <!--END_SECTION:waka-->
 
 </details>
