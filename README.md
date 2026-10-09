@@ -68,21 +68,21 @@ languages.
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                5705 commits        █████░░░░░░░░░░░░░░░░░░░░   21.51 % 
-🌆 Daytime                8077 commits        ████████░░░░░░░░░░░░░░░░░   30.45 % 
-🌃 Evening                3724 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.04 % 
-🌙 Night                  9022 commits        █████████░░░░░░░░░░░░░░░░   34.01 % 
+🌞 Morning                6038 commits        █████░░░░░░░░░░░░░░░░░░░░   21.54 % 
+🌆 Daytime                8558 commits        ████████░░░░░░░░░░░░░░░░░   30.53 % 
+🌃 Evening                3910 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.95 % 
+🌙 Night                  9521 commits        ████████░░░░░░░░░░░░░░░░░   33.97 % 
 ```
 📅 **I'm Most Productive on Friday** 
 
 ```text
-Monday                   2582 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   09.73 % 
-Tuesday                  3571 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.46 % 
-Wednesday                3048 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.49 % 
-Thursday                 3268 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.32 % 
-Friday                   6258 commits        ██████░░░░░░░░░░░░░░░░░░░   23.59 % 
-Saturday                 4113 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.50 % 
-Sunday                   3688 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.90 % 
+Monday                   2724 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   09.72 % 
+Tuesday                  3768 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.44 % 
+Wednesday                3218 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.48 % 
+Thursday                 3423 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.21 % 
+Friday                   6632 commits        ██████░░░░░░░░░░░░░░░░░░░   23.66 % 
+Saturday                 4358 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.55 % 
+Sunday                   3904 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.93 % 
 ```
 
 
@@ -92,20 +92,20 @@ Sunday                   3688 commits        ███░░░░░░░░�
 🕑︎ Time Zone: Europe/Paris
 
 💬 Programming Languages: 
-Other                    31 hrs 7 mins       ████████████████████░░░░░   78.48 % 
-Java                     3 hrs 31 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.90 % 
-HTML                     2 hrs 14 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.63 % 
-YAML                     43 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.83 % 
-JavaScript               30 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.29 % 
+Other                    31 hrs 37 mins      ████████████████████░░░░░   79.96 % 
+Java                     3 hrs 32 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.94 % 
+HTML                     1 hr 49 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.63 % 
+YAML                     43 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.84 % 
+Kotlin                   29 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.22 % 
 
 🐱‍💻 Projects: 
-Firefox                  32 hrs 29 mins      ████████████████████░░░░░   81.91 % 
-catapult                 4 hrs 25 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.16 % 
-esportline               1 hr 45 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.41 % 
-k8s-manifests            59 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.51 % 
+Firefox                  33 hrs 5 mins       █████████████████████░░░░   83.67 % 
+catapult                 3 hrs 42 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.39 % 
+esportline               1 hr 45 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.43 % 
+k8s-manifests            59 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.52 % 
 
 💻 Operating System: 
-Linux                    39 hrs 39 mins      █████████████████████████   100.00 % 
+Linux                    39 hrs 33 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Java** 
@@ -125,7 +125,7 @@ Jupyter Notebook         1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/enimaloc/enimaloc/master/assets/bar_graph.png)
 
 
- Last Updated on 08/10/2026 18:11:42 UTC
+ Last Updated on 09/10/2026 03:26:46 UTC
 <!--END_SECTION:waka-->
 
 </details>
