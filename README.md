@@ -22,17 +22,17 @@ languages.
 <summary>My activity on Github</summary>
 
 <!--RECENT_ACTIVITY:last_update-->
-> Last Updated: 10/10 23:15 (Europe/Paris)
+> Last Updated: 11/10 06:31 (Europe/Paris)
 <!--RECENT_ACTIVITY:last_update_end-->
 <!--RECENT_ACTIVITY:start-->
-1. ![prOpened] Opened PR [`#2`](undefined) in [enimaloc/catapult](https://github.com/enimaloc/catapult)
-2. ![prOpened] Opened PR [`#1`](undefined) in [enimaloc/catapult](https://github.com/enimaloc/catapult)
-3. ![newRelease] Released [`v1.2.0`](https://github.com/enimaloc/whatyourpronouns/releases/tag/1.2.0) on [enimaloc/whatyourpronouns](https://github.com/enimaloc/whatyourpronouns)
-4. ![prOpened] Opened PR [`#2`](undefined) in [enimaloc/whatyourpronouns](https://github.com/enimaloc/whatyourpronouns)
-5. ![newRelease] Released [`v1.1.0`](https://github.com/enimaloc/whatyourpronouns/releases/tag/1.1.0) on [enimaloc/whatyourpronouns](https://github.com/enimaloc/whatyourpronouns)
-6. ![prOpened] Opened PR [`#1`](undefined) in [enimaloc/whatyourpronouns](https://github.com/enimaloc/whatyourpronouns)
-7. ![fork] Forked [`enimaloc/Twitchat`](https://github.com/enimaloc/Twitchat) from [Durss/Twitchat](https://github.com/Durss/Twitchat)
-8. ![newRelease] Released [`v0.2.3-BETA`](https://github.com/enimaloc/catapult/releases/tag/untagged-78f94c2f117ee4ab3458) on [enimaloc/catapult](https://github.com/enimaloc/catapult)
+1. ![prOpened] Opened PR [`#3`](undefined) in [enimaloc/catapult](https://github.com/enimaloc/catapult)
+2. ![prOpened] Opened PR [`#2`](undefined) in [enimaloc/catapult](https://github.com/enimaloc/catapult)
+3. ![prOpened] Opened PR [`#1`](undefined) in [enimaloc/catapult](https://github.com/enimaloc/catapult)
+4. ![newRelease] Released [`v1.2.0`](https://github.com/enimaloc/whatyourpronouns/releases/tag/1.2.0) on [enimaloc/whatyourpronouns](https://github.com/enimaloc/whatyourpronouns)
+5. ![prOpened] Opened PR [`#2`](undefined) in [enimaloc/whatyourpronouns](https://github.com/enimaloc/whatyourpronouns)
+6. ![newRelease] Released [`v1.1.0`](https://github.com/enimaloc/whatyourpronouns/releases/tag/1.1.0) on [enimaloc/whatyourpronouns](https://github.com/enimaloc/whatyourpronouns)
+7. ![prOpened] Opened PR [`#1`](undefined) in [enimaloc/whatyourpronouns](https://github.com/enimaloc/whatyourpronouns)
+8. ![fork] Forked [`enimaloc/Twitchat`](https://github.com/enimaloc/Twitchat) from [Durss/Twitchat](https://github.com/Durss/Twitchat)
 9. ![newRelease] Released [`v0.2.2-BETA`](https://github.com/enimaloc/catapult/releases/tag/v0.2.2-BETA) on [enimaloc/catapult](https://github.com/enimaloc/catapult)
 10. ![newRelease] Released [`v0.2.1-BETA`](https://github.com/enimaloc/catapult/releases/tag/v0.2.1-BETA) on [enimaloc/catapult](https://github.com/enimaloc/catapult)
 <!--RECENT_ACTIVITY:end-->
