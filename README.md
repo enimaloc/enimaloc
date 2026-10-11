@@ -49,13 +49,13 @@ languages.
 </p>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C289%20hrs%204%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C292%20hrs%2010%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 61.6 kB Used in GitHub's Storage 
+> 📦 62.9 kB Used in GitHub's Storage 
  > 
 > 🏆 2,929 Contributions in the Year 2026
  > 
@@ -92,21 +92,21 @@ Sunday                   3904 commits        ███░░░░░░░░�
 🕑︎ Time Zone: Europe/Paris
 
 💬 Programming Languages: 
-Other                    42 hrs 13 mins      ████████████████████░░░░░   81.22 % 
-Java                     4 hrs 11 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.07 % 
-HTML                     2 hrs 11 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   04.21 % 
-YAML                     55 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.79 % 
-Kotlin                   39 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.26 % 
+Other                    41 hrs 56 mins      ████████████████████░░░░░   81.00 % 
+Java                     4 hrs 10 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.05 % 
+HTML                     1 hr 38 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.16 % 
+JavaScript               1 hr 9 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   02.23 % 
+Kotlin                   38 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.25 % 
 
 🐱‍💻 Projects: 
-Firefox                  43 hrs 56 mins      █████████████████████░░░░   84.53 % 
-catapult                 4 hrs 26 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.56 % 
-esportline               1 hr 46 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.41 % 
-k8s-manifests            1 hr 9 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   02.24 % 
-catapultAssistant        38 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.25 % 
+Firefox                  43 hrs 2 mins       █████████████████████░░░░   83.10 % 
+catapult                 5 hrs 23 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.42 % 
+catapultAssistant        2 hrs 13 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   04.28 % 
+k8s-manifests            55 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.78 % 
+esportline               12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.41 % 
 
 💻 Operating System: 
-Linux                    51 hrs 58 mins      █████████████████████████   100.00 % 
+Linux                    51 hrs 47 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Java** 
@@ -126,7 +126,7 @@ C#                       1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/enimaloc/enimaloc/master/assets/bar_graph.png)
 
 
- Last Updated on 11/10/2026 02:35:58 UTC
+ Last Updated on 11/10/2026 16:59:15 UTC
 <!--END_SECTION:waka-->
 
 </details>
