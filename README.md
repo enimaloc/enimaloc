@@ -55,7 +55,7 @@ languages.
 
 **🐱 My GitHub Data** 
 
-> 📦 65.7 kB Used in GitHub's Storage 
+> 📦 65.8 kB Used in GitHub's Storage 
  > 
 > 🏆 4,183 Contributions in the Year 2026
  > 
@@ -92,21 +92,21 @@ Sunday                   4404 commits        ███░░░░░░░░�
 🕑︎ Time Zone: Europe/Paris
 
 💬 Programming Languages: 
-Other                    62 hrs 34 mins      ██████████████████████░░░   87.83 % 
-Java                     5 hrs 27 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.65 % 
-GitIgnore file           1 hr 8 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   01.59 % 
-Java Properties          46 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.08 % 
-Markdown                 18 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.43 % 
+Other                    66 hrs 33 mins      ██████████████████████░░░   88.53 % 
+Java                     5 hrs 14 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.97 % 
+GitIgnore file           1 hr 8 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   01.51 % 
+Java Properties          46 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.02 % 
+HTML                     24 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.54 % 
 
 🐱‍💻 Projects: 
-Firefox                  64 hrs 3 mins       ██████████████████████░░░   89.91 % 
-blinder                  3 hrs 12 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   04.50 % 
-catapult                 2 hrs 49 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   03.97 % 
-KmjProject               1 hr 8 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   01.61 % 
+Firefox                  68 hrs 4 mins       ███████████████████████░░   90.54 % 
+blinder                  3 hrs 12 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   04.26 % 
+catapult                 2 hrs 44 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   03.66 % 
+KmjProject               1 hr 8 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   01.52 % 
 Unknown Project          0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
 
 💻 Operating System: 
-Linux                    71 hrs 14 mins      █████████████████████████   100.00 % 
+Linux                    75 hrs 10 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Java** 
@@ -126,7 +126,7 @@ C#                       1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/enimaloc/enimaloc/master/assets/bar_graph.png)
 
 
- Last Updated on 21/10/2026 16:20:20 UTC
+ Last Updated on 22/10/2026 02:16:21 UTC
 <!--END_SECTION:waka-->
 
 </details>
