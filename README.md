@@ -49,15 +49,15 @@ languages.
 </p>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C307%20hrs%2034%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C308%20hrs%2036%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 67.1 kB Used in GitHub's Storage 
+> 📦 67.3 kB Used in GitHub's Storage 
  > 
-> 🏆 4,214 Contributions in the Year 2026
+> 🏆 5,121 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -68,21 +68,21 @@ languages.
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                23725 commits       ██████░░░░░░░░░░░░░░░░░░░   25.54 % 
-🌆 Daytime                26294 commits       ███████░░░░░░░░░░░░░░░░░░   28.30 % 
-🌃 Evening                12122 commits       ███░░░░░░░░░░░░░░░░░░░░░░   13.05 % 
-🌙 Night                  30768 commits       ████████░░░░░░░░░░░░░░░░░   33.12 % 
+🌞 Morning                25449 commits       ███████░░░░░░░░░░░░░░░░░░   26.33 % 
+🌆 Daytime                26276 commits       ███████░░░░░░░░░░░░░░░░░░   27.19 % 
+🌃 Evening                12496 commits       ███░░░░░░░░░░░░░░░░░░░░░░   12.93 % 
+🌙 Night                  32435 commits       ████████░░░░░░░░░░░░░░░░░   33.56 % 
 ```
 📅 **I'm Most Productive on Friday** 
 
 ```text
-Monday                   10508 commits       ███░░░░░░░░░░░░░░░░░░░░░░   11.31 % 
-Tuesday                  14395 commits       ████░░░░░░░░░░░░░░░░░░░░░   15.49 % 
-Wednesday                11727 commits       ███░░░░░░░░░░░░░░░░░░░░░░   12.62 % 
-Thursday                 9286 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   09.99 % 
-Friday                   20468 commits       ██████░░░░░░░░░░░░░░░░░░░   22.03 % 
-Saturday                 14761 commits       ████░░░░░░░░░░░░░░░░░░░░░   15.89 % 
-Sunday                   11764 commits       ███░░░░░░░░░░░░░░░░░░░░░░   12.66 % 
+Monday                   10026 commits       ███░░░░░░░░░░░░░░░░░░░░░░   10.37 % 
+Tuesday                  17488 commits       █████░░░░░░░░░░░░░░░░░░░░   18.09 % 
+Wednesday                12269 commits       ███░░░░░░░░░░░░░░░░░░░░░░   12.69 % 
+Thursday                 9531 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   09.86 % 
+Friday                   21002 commits       █████░░░░░░░░░░░░░░░░░░░░   21.73 % 
+Saturday                 14297 commits       ████░░░░░░░░░░░░░░░░░░░░░   14.79 % 
+Sunday                   12043 commits       ███░░░░░░░░░░░░░░░░░░░░░░   12.46 % 
 ```
 
 
@@ -92,21 +92,21 @@ Sunday                   11764 commits       ███░░░░░░░░�
 🕑︎ Time Zone: Europe/Paris
 
 💬 Programming Languages: 
-Other                    53 hrs 14 mins      ██████████████████████░░░   87.87 % 
-Java                     5 hrs 37 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.29 % 
-HTML                     23 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.64 % 
-SQL                      23 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.63 % 
-Properties               19 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.52 % 
+Other                    55 hrs 54 mins      ██████████████████████░░░   88.85 % 
+Java                     4 hrs 45 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.55 % 
+HTML                     47 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.25 % 
+SQL                      23 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.61 % 
+Java Properties          18 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.49 % 
 
 🐱‍💻 Projects: 
-Firefox                  53 hrs 47 mins      ██████████████████████░░░   88.77 % 
-catapult                 6 hrs 9 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.18 % 
-KmjProject               27 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.77 % 
-esportline               10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.28 % 
-catapultAssistant        0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Firefox                  56 hrs 59 mins      ███████████████████████░░   90.57 % 
+catapult                 5 hrs 11 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.26 % 
+KmjProject               28 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.75 % 
+esportline               10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.27 % 
+blockbenchToMinecraftVani4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 % 
 
 💻 Operating System: 
-Linux                    60 hrs 35 mins      █████████████████████████   100.00 % 
+Linux                    62 hrs 55 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Java** 
@@ -126,7 +126,7 @@ C#                       1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/enimaloc/enimaloc/master/assets/bar_graph.png)
 
 
- Last Updated on 27/10/2026 02:51:49 UTC
+ Last Updated on 27/10/2026 17:16:25 UTC
 <!--END_SECTION:waka-->
 
 </details>
