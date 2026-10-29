@@ -22,19 +22,19 @@ languages.
 <summary>My activity on Github</summary>
 
 <!--RECENT_ACTIVITY:last_update-->
-> Last Updated: 28/10 21:05 (Europe/Paris)
+> Last Updated: 29/10 01:37 (Europe/Paris)
 <!--RECENT_ACTIVITY:last_update_end-->
 <!--RECENT_ACTIVITY:start-->
-1. ![newRelease] Released [`v1.0.0-BETA.96`](https://github.com/enimaloc/catapult/releases/tag/v1.0.0-BETA.96) on [enimaloc/catapult](https://github.com/enimaloc/catapult)<br>
-2. ![newRelease] Released [`v1.0.0-BETA.95`](https://github.com/enimaloc/catapult/releases/tag/v1.0.0-BETA.95) on [enimaloc/catapult](https://github.com/enimaloc/catapult)<br>
-3. ![newRelease] Released [`v1.0.0-BETA.94`](https://github.com/enimaloc/catapult/releases/tag/v1.0.0-BETA.94) on [enimaloc/catapult](https://github.com/enimaloc/catapult)<br>
-4. ![newRelease] Released [`v1.0.0-BETA.93`](https://github.com/enimaloc/catapult/releases/tag/v1.0.0-BETA.93) on [enimaloc/catapult](https://github.com/enimaloc/catapult)<br>
-5. ![newRelease] Released [`v1.0.0-BETA.92`](https://github.com/enimaloc/catapult/releases/tag/v1.0.0-BETA.92) on [enimaloc/catapult](https://github.com/enimaloc/catapult)<br>
-6. ![newRelease] Released [`v1.0.0-BETA.91`](https://github.com/enimaloc/catapult/releases/tag/v1.0.0-BETA.91) on [enimaloc/catapult](https://github.com/enimaloc/catapult)<br>
-7. ![newRelease] Released [`v1.0.0-BETA.90`](https://github.com/enimaloc/catapult/releases/tag/v1.0.0-BETA.90) on [enimaloc/catapult](https://github.com/enimaloc/catapult)<br>
-8. ![newRelease] Released [`v1.0.0-BETA.89`](https://github.com/enimaloc/catapult/releases/tag/v1.0.0-BETA.89) on [enimaloc/catapult](https://github.com/enimaloc/catapult)<br>
-9. ![newRelease] Released [`v1.0.0-BETA.88`](https://github.com/enimaloc/catapult/releases/tag/v1.0.0-BETA.88) on [enimaloc/catapult](https://github.com/enimaloc/catapult)<br>
-10. ![newRelease] Released [`v1.0.0-BETA.87`](https://github.com/enimaloc/catapult/releases/tag/v1.0.0-BETA.87) on [enimaloc/catapult](https://github.com/enimaloc/catapult)<br>
+1. ⬆️ Pushed undefined commit(s) to [enimaloc/catapult](https://github.com/enimaloc/catapult)<br>
+2. ![prOpened] Opened PR [`#66`](undefined) in [enimaloc/catapult](https://github.com/enimaloc/catapult)<br>
+3. ⬆️ Pushed undefined commit(s) to [enimaloc/catapult](https://github.com/enimaloc/catapult)<br>
+4. ![prOpened] Opened PR [`#65`](undefined) in [enimaloc/catapult](https://github.com/enimaloc/catapult)<br>
+5. ![prOpened] Opened PR [`#62`](undefined) in [enimaloc/catapult](https://github.com/enimaloc/catapult)<br>
+6. ![newRelease] Released [`v1.0.0-BETA.96`](https://github.com/enimaloc/catapult/releases/tag/v1.0.0-BETA.96) on [enimaloc/catapult](https://github.com/enimaloc/catapult)<br>
+7. ![newRelease] Released [`v1.0.0-BETA.95`](https://github.com/enimaloc/catapult/releases/tag/v1.0.0-BETA.95) on [enimaloc/catapult](https://github.com/enimaloc/catapult)<br>
+8. ![newRelease] Released [`v1.0.0-BETA.94`](https://github.com/enimaloc/catapult/releases/tag/v1.0.0-BETA.94) on [enimaloc/catapult](https://github.com/enimaloc/catapult)<br>
+9. ![newRelease] Released [`v1.0.0-BETA.93`](https://github.com/enimaloc/catapult/releases/tag/v1.0.0-BETA.93) on [enimaloc/catapult](https://github.com/enimaloc/catapult)<br>
+10. ![newRelease] Released [`v1.0.0-BETA.92`](https://github.com/enimaloc/catapult/releases/tag/v1.0.0-BETA.92) on [enimaloc/catapult](https://github.com/enimaloc/catapult)<br>
 <!--RECENT_ACTIVITY:end-->
 
 </details>
