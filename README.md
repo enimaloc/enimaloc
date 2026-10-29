@@ -22,19 +22,19 @@ languages.
 <summary>My activity on Github</summary>
 
 <!--RECENT_ACTIVITY:last_update-->
-> Last Updated: 29/10 10:29 (Europe/Paris)
+> Last Updated: 29/10 19:07 (Europe/Paris)
 <!--RECENT_ACTIVITY:last_update_end-->
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed undefined commit(s) to [enimaloc/catapult](https://github.com/enimaloc/catapult)<br>
+1. ![prOpened] Opened PR [`#69`](undefined) in [enimaloc/catapult](https://github.com/enimaloc/catapult)<br>
 2. ⬆️ Pushed undefined commit(s) to [enimaloc/catapult](https://github.com/enimaloc/catapult)<br>
-3. ⬆️ Pushed undefined commit(s) to [enimaloc/catapult](https://github.com/enimaloc/catapult)<br>
-4. ![prOpened] Opened PR [`#66`](undefined) in [enimaloc/catapult](https://github.com/enimaloc/catapult)<br>
+3. ![prOpened] Opened PR [`#68`](undefined) in [enimaloc/catapult](https://github.com/enimaloc/catapult)<br>
+4. ![prOpened] Opened PR [`#67`](undefined) in [enimaloc/catapult](https://github.com/enimaloc/catapult)<br>
 5. ⬆️ Pushed undefined commit(s) to [enimaloc/catapult](https://github.com/enimaloc/catapult)<br>
-6. ![prOpened] Opened PR [`#65`](undefined) in [enimaloc/catapult](https://github.com/enimaloc/catapult)<br>
-7. ![prOpened] Opened PR [`#62`](undefined) in [enimaloc/catapult](https://github.com/enimaloc/catapult)<br>
-8. ![newRelease] Released [`v1.0.0-BETA.96`](https://github.com/enimaloc/catapult/releases/tag/v1.0.0-BETA.96) on [enimaloc/catapult](https://github.com/enimaloc/catapult)<br>
-9. ![newRelease] Released [`v1.0.0-BETA.95`](https://github.com/enimaloc/catapult/releases/tag/v1.0.0-BETA.95) on [enimaloc/catapult](https://github.com/enimaloc/catapult)<br>
-10. ![newRelease] Released [`v1.0.0-BETA.94`](https://github.com/enimaloc/catapult/releases/tag/v1.0.0-BETA.94) on [enimaloc/catapult](https://github.com/enimaloc/catapult)<br>
+6. ⬆️ Pushed undefined commit(s) to [enimaloc/catapult](https://github.com/enimaloc/catapult)<br>
+7. ⬆️ Pushed undefined commit(s) to [enimaloc/catapult](https://github.com/enimaloc/catapult)<br>
+8. ⬆️ Pushed undefined commit(s) to [enimaloc/catapult](https://github.com/enimaloc/catapult)<br>
+9. ⬆️ Pushed undefined commit(s) to [enimaloc/catapult](https://github.com/enimaloc/catapult)<br>
+10. ![prOpened] Opened PR [`#66`](undefined) in [enimaloc/catapult](https://github.com/enimaloc/catapult)<br>
 <!--RECENT_ACTIVITY:end-->
 
 </details>
