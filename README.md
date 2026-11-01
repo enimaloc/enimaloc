@@ -49,7 +49,7 @@ languages.
 </p>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C318%20hrs%2011%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C318%20hrs%2028%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
 
@@ -92,21 +92,21 @@ Sunday                   4390 commits        ███░░░░░░░░�
 🕑︎ Time Zone: Europe/Paris
 
 💬 Programming Languages: 
-Other                    66 hrs 24 mins      █████████████████████░░░░   83.75 % 
-Java                     6 hrs 33 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.28 % 
-Markdown                 1 hr 22 mins        ░░░░░░░░░░░░░░░░░░░░░░░░░   01.73 % 
+Other                    68 hrs 16 mins      ██████████████████████░░░   86.24 % 
+Java                     4 hrs 29 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.68 % 
+Markdown                 1 hr 20 mins        ░░░░░░░░░░░░░░░░░░░░░░░░░   01.69 % 
+YAML                     44 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.95 % 
 Python                   43 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.91 % 
-HTML                     42 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.88 % 
 
 🐱‍💻 Projects: 
-Firefox                  72 hrs 6 mins       ███████████████████████░░   90.93 % 
-catapult                 5 hrs 49 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.35 % 
+Firefox                  74 hrs 4 mins       ███████████████████████░░   93.55 % 
+catapult                 3 hrs 44 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   04.72 % 
 customRpcDiscord         34 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.72 % 
-k8s-manifests            27 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.58 % 
+k8s-manifests            29 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.61 % 
 blockbenchToMinecraftVani13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.29 % 
 
 💻 Operating System: 
-Linux                    79 hrs 17 mins      █████████████████████████   100.00 % 
+Linux                    79 hrs 10 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Java** 
@@ -126,7 +126,7 @@ C#                       1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/enimaloc/enimaloc/master/assets/bar_graph.png)
 
 
- Last Updated on 01/11/2026 02:58:54 UTC
+ Last Updated on 01/11/2026 17:27:05 UTC
 <!--END_SECTION:waka-->
 
 </details>
