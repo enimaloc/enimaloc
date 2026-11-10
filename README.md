@@ -22,18 +22,18 @@ languages.
 <summary>My activity on Github</summary>
 
 <!--RECENT_ACTIVITY:last_update-->
-> Last Updated: 09/11 22:59 (Europe/Paris)
+> Last Updated: 10/11 07:18 (Europe/Paris)
 <!--RECENT_ACTIVITY:last_update_end-->
 <!--RECENT_ACTIVITY:start-->
-1. ![prOpened] Opened PR [`#90`](undefined) in [enimaloc/catapult](https://github.com/enimaloc/catapult)<br>
-2. ⬆️ Pushed undefined commit(s) to [enimaloc/catapult](https://github.com/enimaloc/catapult)<br>
-3. ⬆️ Pushed undefined commit(s) to [enimaloc/catapult](https://github.com/enimaloc/catapult)<br>
+1. ![prOpened] Opened PR [`#95`](undefined) in [enimaloc/catapult](https://github.com/enimaloc/catapult)<br>
+2. 💬 Commented on [#94](https://github.com/enimaloc/catapult/pull/94#issuecomment-6757608994) in [enimaloc/catapult](https://github.com/enimaloc/catapult)<br>
+3. ![prClosed] Closed PR [`#94`](undefined) in [enimaloc/catapult](https://github.com/enimaloc/catapult)<br>
 4. ⬆️ Pushed undefined commit(s) to [enimaloc/catapult](https://github.com/enimaloc/catapult)<br>
-5. ⬆️ Pushed undefined commit(s) to [enimaloc/catapult](https://github.com/enimaloc/catapult)<br>
-6. ⬆️ Pushed undefined commit(s) to [enimaloc/catapult](https://github.com/enimaloc/catapult)<br>
+5. ![prOpened] Opened PR [`#92`](undefined) in [enimaloc/catapult](https://github.com/enimaloc/catapult)<br>
+6. ![prOpened] Opened PR [`#90`](undefined) in [enimaloc/catapult](https://github.com/enimaloc/catapult)<br>
 7. ⬆️ Pushed undefined commit(s) to [enimaloc/catapult](https://github.com/enimaloc/catapult)<br>
 8. ⬆️ Pushed undefined commit(s) to [enimaloc/catapult](https://github.com/enimaloc/catapult)<br>
-9. ![prOpened] Opened PR [`#87`](undefined) in [enimaloc/catapult](https://github.com/enimaloc/catapult)<br>
+9. ⬆️ Pushed undefined commit(s) to [enimaloc/catapult](https://github.com/enimaloc/catapult)<br>
 10. ⬆️ Pushed undefined commit(s) to [enimaloc/catapult](https://github.com/enimaloc/catapult)<br>
 <!--RECENT_ACTIVITY:end-->
 
