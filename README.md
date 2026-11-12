@@ -22,16 +22,16 @@ languages.
 <summary>My activity on Github</summary>
 
 <!--RECENT_ACTIVITY:last_update-->
-> Last Updated: 11/11 22:45 (Europe/Paris)
+> Last Updated: 12/11 07:06 (Europe/Paris)
 <!--RECENT_ACTIVITY:last_update_end-->
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed undefined commit(s) to [enimaloc/catapult](https://github.com/enimaloc/catapult)<br>
-2. ⬆️ Pushed undefined commit(s) to [enimaloc/catapult](https://github.com/enimaloc/catapult)<br>
-3. ⬆️ Pushed undefined commit(s) to [enimaloc/catapult](https://github.com/enimaloc/catapult)<br>
-4. ![prOpened] Opened PR [`#103`](undefined) in [enimaloc/catapult](https://github.com/enimaloc/catapult)<br>
-5. ![prOpened] Opened PR [`#102`](undefined) in [enimaloc/catapult](https://github.com/enimaloc/catapult)<br>
-6. ⬆️ Pushed undefined commit(s) to [enimaloc/webhookToDiscord](https://github.com/enimaloc/webhookToDiscord)<br>
-7. ⬆️ Pushed undefined commit(s) to [enimaloc/catapult](https://github.com/enimaloc/catapult)<br>
+1. ![prOpened] Opened PR [`#108`](undefined) in [enimaloc/catapult](https://github.com/enimaloc/catapult)<br>
+2. ![prOpened] Opened PR [`#107`](undefined) in [enimaloc/catapult](https://github.com/enimaloc/catapult)<br>
+3. ![prOpened] Opened PR [`#106`](undefined) in [enimaloc/catapult](https://github.com/enimaloc/catapult)<br>
+4. ![prOpened] Opened PR [`#105`](undefined) in [enimaloc/catapult](https://github.com/enimaloc/catapult)<br>
+5. ⬆️ Pushed undefined commit(s) to [enimaloc/webhookToDiscord](https://github.com/enimaloc/webhookToDiscord)<br>
+6. ⬆️ Pushed undefined commit(s) to [enimaloc/catapult](https://github.com/enimaloc/catapult)<br>
+7. ⬆️ Pushed undefined commit(s) to [enimaloc/webhookToDiscord](https://github.com/enimaloc/webhookToDiscord)<br>
 8. ⬆️ Pushed undefined commit(s) to [enimaloc/catapult](https://github.com/enimaloc/catapult)<br>
 9. ⬆️ Pushed undefined commit(s) to [enimaloc/catapult](https://github.com/enimaloc/catapult)<br>
 10. ⬆️ Pushed undefined commit(s) to [enimaloc/catapult](https://github.com/enimaloc/catapult)<br>
