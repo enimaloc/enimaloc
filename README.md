@@ -22,19 +22,19 @@ languages.
 <summary>My activity on Github</summary>
 
 <!--RECENT_ACTIVITY:last_update-->
-> Last Updated: 13/11 15:02 (Europe/Paris)
+> Last Updated: 13/11 22:13 (Europe/Paris)
 <!--RECENT_ACTIVITY:last_update_end-->
 <!--RECENT_ACTIVITY:start-->
 1. ⬆️ Pushed undefined commit(s) to [enimaloc/catapult](https://github.com/enimaloc/catapult)<br>
 2. ⬆️ Pushed undefined commit(s) to [enimaloc/catapult](https://github.com/enimaloc/catapult)<br>
-3. 💬 Commented on [#104](https://github.com/enimaloc/catapult/pull/104#issuecomment-6826916541) in [enimaloc/catapult](https://github.com/enimaloc/catapult)<br>
-4. ![prOpened] Opened PR [`#113`](undefined) in [enimaloc/catapult](https://github.com/enimaloc/catapult)<br>
-5. ![prClosed] Closed PR [`#104`](undefined) in [enimaloc/catapult](https://github.com/enimaloc/catapult)<br>
-6. ⬆️ Pushed undefined commit(s) to [enimaloc/catapult](https://github.com/enimaloc/catapult)<br>
-7. ⬆️ Pushed undefined commit(s) to [enimaloc/webhookToDiscord](https://github.com/enimaloc/webhookToDiscord)<br>
+3. ⬆️ Pushed undefined commit(s) to [enimaloc/catapult](https://github.com/enimaloc/catapult)<br>
+4. ![prOpened] Opened PR [`#117`](undefined) in [enimaloc/catapult](https://github.com/enimaloc/catapult)<br>
+5. ⬆️ Pushed undefined commit(s) to [enimaloc/catapult](https://github.com/enimaloc/catapult)<br>
+6. ![prOpened] Opened PR [`#115`](undefined) in [enimaloc/catapult](https://github.com/enimaloc/catapult)<br>
+7. ⬆️ Pushed undefined commit(s) to [enimaloc/catapult](https://github.com/enimaloc/catapult)<br>
 8. ⬆️ Pushed undefined commit(s) to [enimaloc/catapult](https://github.com/enimaloc/catapult)<br>
-9. ![prOpened] Opened PR [`#112`](undefined) in [enimaloc/catapult](https://github.com/enimaloc/catapult)<br>
-10. ![prOpened] Opened PR [`#110`](undefined) in [enimaloc/catapult](https://github.com/enimaloc/catapult)<br>
+9. ⬆️ Pushed undefined commit(s) to [enimaloc/catapult](https://github.com/enimaloc/catapult)<br>
+10. ⬆️ Pushed undefined commit(s) to [enimaloc/catapult](https://github.com/enimaloc/catapult)<br>
 <!--RECENT_ACTIVITY:end-->
 
 </details>
